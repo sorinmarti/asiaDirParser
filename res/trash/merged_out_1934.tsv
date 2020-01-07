@@ -1,0 +1,146 @@
+id;placename;groupmode;y_lat;x_long;personcount;place_category
+1;Annam;P;null;null;3;Polygon
+2;Antung;P;40.129167;124.394722;19;Point
+3;Bac-Ninh, Tonkin;P;21.1833;106.05;1;Point
+4;Batavia;P;-6.1333;106.75;53;Point
+5;Battambang;P;13.1;103.2;1;Point
+6;British North Borneo;P;5.5;117;85;Polygon
+7;Brunei;P;4.5;114.6667;13;Polygon
+8;Cambodge;P;13;105;1;Polygon
+9;Canton;P;23.116667;113.25;339;Point
+10;Cebu;P;10.321;123.754;79;Polygon
+11;Changchow;P;24.513333;117.655556;3;Point
+12;Changchun;P;43.88;125.322778;4;Point
+13;Changsha;P;26.714722;112.383889;46;Point
+14;Changtu;P;42.293056;123.841389;1;Point
+15;Chefoo;P;37.533333;121.4;74;Point
+16;Chemulpo;P;37.4667;126.6333;8;Point
+17;China;P;35;105;1;Polygon
+18;Chinkiang;P;32.210863;119.455076;11;Point
+19;Chinnampo;P;38.737;125.407;1;Point
+20;Chinwangtao;P;39.931667;119.588333;13;Point
+21;Chosen;P;37;127.5;21;Polygon
+22;Chungking;P;29.562778;106.552778;37;Point
+23;Dairen;P;38.912222;121.602222;50;Point
+24;Davao;P;7.073;125.612;3;Point
+25;East Coast of Sumatra;P;0.2433;103.720336;1;Polygon
+26;Federated Malay States;P;4;102.1;46;Polygon
+27;Foochow;P;27.95999;116.333333;95;Point
+28;Hainan;P;19.25;109.75;5;Polygon
+29;Haiphong;P;20.8667;106.6833;124;Point
+30;Hakodate;P;41.7667;140.7333;7;Point
+31;Hangchow;P;30.29365;120.161419;21;Point
+32;Hankow;P;30.583333;114.266667;410;Point
+33;Hanoi;P;21.0167;105.8667;45;Point
+34;Harbin;P;45.75;126.65;179;Point
+35;Hoihow;P;20.045833;110.341667;16;Point
+36;Hokow;P;22.538506;104.01109;1;Point
+37;Hongkong;P;22.25;114.1667;2379;Polygon
+38;Huchow;P;30.870301;120.093297;1;Point
+39;Hunchun;P;42.8675;130.358056;1;Point
+40;Ichang;P;30.77135;111.321458;21;Point
+41;Ipoh;P;4.6;101.0333;3;Point
+42;Java;P;-7.491667;110.004444;2;Polygon
+43;Johore;P;2;103.5;163;Polygon
+44;Kachek;P;19.2425;110.464167;2;Point
+45;Kedah;P;6;100.666667;50;Polygon
+46;Kelantan;P;5.333333;102;24;Polygon
+47;Kiashing;P;30.766667;120.75;2;Point
+48;Kiungchow;P;20.005833;110.354167;2;Point
+49;Klang;P;3;101.45;2;Point
+50;Kluang;P;-2.6833;103.9;1;Point
+51;Kobe;P;34.6667;135.2;527;Point
+52;Kongmoon;P;22.583333;113.083333;11;Point
+53;Kota Belud;P;6.3667;116.3167;1;Point
+54;Kowloon Frontier;P;22.3167;114.1833;33;Polygon
+55;Kuala Kangsar;P;4.8333;100.9167;1;Point
+56;Kuala Lipis;P;4.1833;102;1;Point
+57;Kuala Lumpur;P;3.1667;101.7;36;Point
+58;Kuantan;P;3.8333;103.3167;1;Point
+59;Kyoto;P;35;135.75;6;Point
+60;Kyushu;P;33;131;1;Polygon
+61;Labuan;P;5.333333;115.2;12;Polygon
+62;Lappa;P;22.12;113.510114;2;Point
+63;Luar;P;4;97;1;Polygon
+64;Lungchingtsun;P;42.771389;129.423333;1;Point
+65;Lungchow;P;22.4;106.9833;4;Point
+66;Macao;P;22.1667;113.55;28;Polygon
+67;Malacca;P;2.25;102.25;110;Polygon
+68;Malaya;P;2.5;112.5;1;Polygon
+69;Manila;P;14.6167;120.9667;1380;Point
+70;Medan;P;3.5833;98.65;24;Point
+71;Moji;P;33.8667;130.8167;6;Point
+72;Mukden;P;41.792222;123.432778;125;Point
+73;Nagasaki;P;32.75;129.8667;29;Point
+74;Nagoya;P;35.1333;136.8833;6;Point
+75;Nanking;P;32.061667;118.777778;71;Point
+76;Negri Sembilan;P;2.75;102.166667;88;Polygon
+77;Newchang;P;40.664823;122.228329;24;Point
+78;Ningpo;P;29.878186;121.549453;19;Point
+79;Osaka;P;34.6667;135.5;131;Point
+80;Otaru;P;43.2333;140.9833;1;Point
+81;Padang;P;-0.95;100.353056;13;Point
+82;Pahang;P;3.5;102.75;78;Polygon
+83;Pakhoi;P;21.483333;109.1;8;Point
+84;Palembang;P;-2.9833;104.75;1;Point
+85;Peiping;P;39.928819;116.388869;249;Point
+86;Penang;P;5.32623;100.321579;482;Polygon
+87;Perlis;P;6.502948;100.24598;1;Polygon
+88;Philippines;P;13;122;4;Polygon
+89;Port Swettenham;P;3;101.4;8;Point
+90;Saigon;P;10.75;106.6667;300;Point
+91;Samshui;P;23.172804;112.833545;4;Point
+92;Sandakan;P;5.8667;118.0667;15;Point
+93;Santuao;P;26.641;119.677;2;Point
+94;Sarawak;P;2.5;113.5;127;Polygon
+95;Selangor;P;3.166667;101.5;605;Polygon
+96;Semarang;P;-6.9667;110.4833;25;Point
+97;Seoul;P;37.5333;127;71;Point
+98;Serangoon;P;1.3833;103.9167;1;Point
+99;Seremban;P;2.7;101.9;7;Point
+100;Shasi;P;30.307222;112.244722;6;Point
+101;Shimonoseki;P;33.9833;130.9667;3;Point
+102;Shizuoka;P;35.025216;138.325424;2;Polygon
+103;Siam;P;15;100;6;Polygon
+104;Singapore;P;1.3667;103.8;1886;Polygon
+105;Sitiawan;P;4.2167;100.7;1;Polygon
+106;Soochow;P;31.304077;120.59538;14;Point
+107;Sourabaya;P;-7.2333;112.75;40;Point
+108;Straits Settlements;P;3.65;101.55;6;Polygon
+109;Sumatra;P;null;null;96;Polygon
+110;Swatow;P;23.36814;116.71479;77;Point
+111;Szechuen;P;30.5;102.666667;1;Polygon
+112;Taikoku;P;25.047;121.525;1;Point
+113;Taiyuan;P;37.869444;112.560278;1;Point
+114;Taku;P;33.2833;130.1333;5;Point
+115;Telok Anson;P;4.0333;101.0167;2;Point
+116;Tengyueh;P;24.994923;98.512759;2;Point
+117;Tientsin;P;39.142222;117.176667;912;Point
+118;Timah;P;1.3333;103.7667;1;Point
+119;Tonkin;P;22;105;21;Polygon
+120;Tourane;P;16.0667;108.2333;4;Point
+121;Trengganu;P;5;103;15;Polygon
+122;Tsingtao;P;36.066049;120.369393;140;Point
+123;Vladivostok;P;43.15;131.8833;21;Point
+124;Wenchow;P;27.999416;120.66682;10;Point
+125;Wuchow;P;23.483333;111.316667;25;Point
+126;Wuhu;P;32.661111;117.266667;15;Point
+127;Yenchow;P;35.552778;116.828611;1;Point
+128;Yochow;P;29.3833;113.05;6;Point
+129;Yokohoma;P;35.4667;139.6333;212;Point
+130;Yunnanfu;P;25.038889;102.718333;23;Point
+131;Zamboanga;P;6.9167;122.0833;32;Point
+132;Amoy;G;24.479794;118.081869;76;Point
+133;Anking;G;30.513646;117.047234;1;Point
+134;Bangkok;G;13.753;100.501;397;Point
+135;Formosa;G;24;121;19;Polygon
+136;Iloilo;G;10.7;122.5667;62;Point
+137;Kiukiang;G;29.733333;115.983333;26;Point
+138;Mengtsz;G;23.3333;103.35;8;Point
+139;Nanning;G;22.816667;108.316667;4;Point
+140;Perak;G;5;101;363;Polygon
+141;Saigon;G;10.7333;106.65;5;Point
+142;Shanghai;G;31.222222;121.458056;5320;Point
+143;Tokyo;G;35.75;139.5;408;Point
+144;Tsinan;G;36.683333;117.05;50;Point
+145;Weihaiwei;G;37.509136;122.113557;23;Point

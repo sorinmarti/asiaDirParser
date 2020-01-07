@@ -1,0 +1,790 @@
+{
+ "type": "FeatureCollection", 
+ "features": [
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Annam", 
+       "tgn": 6000295, 
+       "placetype": "Historical region", 
+       "placecategory": "Polygon", 
+       "comment": "Coordinates are an estimate. TGN does not supply coordinates. The middle part of Vietnam would be fine for general coordinates, using Hué for example would be fine", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Annam", "Provinces de l’Annam", "Annum"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Anpoa, Fokien", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Anpoa, Fokien"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chenan", 
+       "comment": "not found; possibly refers to \"Shih-nan\"/modern-day \"Enshi, Hubei\" (TGN: 8203460) ", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chenan, Southern Hupeh", "Chenan"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Cheokiakeo", 
+       "comment": "No place found via Getty, Google, Google maps. An old map will be required", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Cheokiakeo, Hona", "Cheokiakeo, Honam", "Cheokiako, Honan", "Cheo-kia-kéo, Honan"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chung-hua", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chinghwa", "Chung-hua"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Eastern Siberia", 
+       "tgn": 7011548, 
+       "placetype": "General region", 
+       "placecategory": "Polygon", 
+       "comment": "TGN for Siberia region", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Eastern Siberia", "Eastern Sib"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Ho-shi-tun", 
+       "comment": "Not found; very little to go on - possibly linked to the place below?? But sounds more Jpanaese in a way", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Ho-shi-tun"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hsingsi, Kueichow Province", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hsingsi, Kueichow Province"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "K'u-hsien, Szechuen", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "K'u-hsien, Szechuen", "K'ü-hsien, Szechuen"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kang Boe, Fokien", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kang Boe, Fokien"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kiaisiu, Shansi", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kiaisiu, Shansi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kinkiaeg", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Kinkiaeg"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Koishikawa, Japan", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Koishikawa, Japan"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Koke", 
+       "comment": "uncvertain, Kobe is the closest possibility", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Koke"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kucheo, Chekiang", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kucheo, Chekiang"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kuhwu, Shansi", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kuhwu, Shansi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kwei-hwa-chén, Shansi", 
+       "comment": "Kwei-hwa-chén is in the inner mongolia province, although there seems to be some confusion regarding it's position in european studies.", 
+       "uncertain": "true", 
+       "variations": [ 
+         
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kê-roy, Tonkin Septentrional", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kê-roy, Tonkin Septentrional"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lampilao, Fokien", 
+       "comment": "Not Found: could be in the south of Fujien Province, perhaps 8 miles/12 Km from the coast.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lampilao, Fokien"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Laotian Regions, Siam", 
+       "comment": "Territory of Laos in Siam, needs to be defined manually", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Laotian Regions, Siam"
+       ]
+       ,
+       "groups": [ 
+"GR_Siam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Liang-cheo, Kansuh", 
+       "comment": "seems to be a monastery in the Gansu region, TGN for Gansu", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Liang-cheo, Kansuh", "Liangcheo, Kansuh"
+       ]
+       ,
+       "groups": [ 
+"GR_Kansuh"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lohau-chai", 
+       "comment": "Not Found: Can possibly be found on the North China Imperial Railway", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lohau-chai"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Longthun, Siam", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Longthun, Siam"
+       ]
+       ,
+       "groups": [ 
+"GR_Siam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Longxuyen, Tonkin", 
+       "comment": "Longxuyen is in Cochin-China, not in Tonkin", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Longxuyen, Tonkin"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lower Perak", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Lower Perak"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Nganluhfu, Hupeh", 
+       "comment": "not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Nganluhfu, Hupeh"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "North China", 
+       "comment": "Not very specific - Coordinates possibly futile", 
+       "uncertain": "true", 
+       "variations": [ 
+         "North China"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "North Kiangsi", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "North Kiangse"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Northern Hunan", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Northern Hunan"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Pacheo, Szechuen", 
+       "comment": "Somewhere in Sichuan Province (TGN: 7002087)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Pacheo, Szechuen"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Pakeo, Chihli", 
+       "comment": "Somewhere in Hebei Province (TGN: 7002077); not found yet", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Pa-keo, Chili", "Pakeo, Chihli"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Quananh, Tonkin", 
+       "comment": "Not Found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Quananh Tonkin"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Quang Yen, Tonkin", 
+       "comment": "3 possibilities in North Vietnam, the largest of which is near Hai Phong, but has no TGN, (20.938379, 106.796402)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Quangyen, Tonkin", "Quang Yen, Tonkin", "Quang-yen, Tonkin", "Quanyen, Tonkin"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Quiapo", 
+       "comment": "Quiapo is a district of Manila", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Quiapo, Manila"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Rajang, Sarawak", 
+       "tgn": 1128986, 
+       "placetype": "River", 
+       "placecategory": "Polygon", 
+       "comment": "Uncertain where precisely this refers to; the river in Sarawak has a TGN, but it's not clear if it refers to Sibu, the only major settlement on the river or just the sub-region", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Rejang, Sarawak"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Rasdolnoc", 
+       "comment": "multiple possibilites", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Rasdolnoc, Eastern Siberia", "Rasdolnoc"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Robe", 
+       "comment": "uncvertain, Kobe is the closest possibility", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Robe"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sagalien", 
+       "tgn": 7019034, 
+       "placetype": "Island (landform)", 
+       "placecategory": "Polygon", 
+       "comment": "https://en.wikipedia.org/wiki/Sakhalin", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sagalien", "Sagalien, Siberia"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sahnynh, Annam", 
+       "comment": "Highly uncertain: Possibly \"Sanh Ngân\" (13.980695, 108.986943) or less likely some derivative of \"Khe Sahn\"", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sahnynh, Annam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sakan, Annam", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sakan, Annam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Shek-hing, Kwangse", 
+       "comment": "Not Found (Somewhere in Guangxi Province seemingly)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Shek-hing, Kwangse"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Siberia", 
+       "tgn": 7011548, 
+       "placetype": "General region", 
+       "placecategory": "Polygon", 
+       "comment": "Just the General, very non-specific region", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Siberia"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Singau, Shensi", 
+       "comment": "Unclear: perhaps \"Sigou, Shaanxi Province\", TGN: 8091989; maybe \"Xinangou\" 8093876.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Singau, Shensi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Soaikieng, Cambodia", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Soaikieng, Cambodia"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Soasia, Fokien", 
+       "comment": "Not found: somewhere in Fujian Province (TGN: 7001796)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Soasia, Fokien"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "South Kiangse", 
+       "comment": "The Southern part of Jiangxi Province (TGN: 7002082)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "South Kiangse"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "South Perak", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "South Perak"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "South Tokyo", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "South Tokyo"
+       ]
+       ,
+       "groups": [ 
+"GR_Tokyo"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sumatra", 
+       "tgn": 7016484, 
+       "placetype": "Island (landform)", 
+       "placecategory": "Polygon", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Sumatra", "Sumtara", "Sumtra"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tabewie Seoul", 
+       "comment": "two places", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tabewie Seoul"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tamhoi, Saigon", 
+       "comment": "two locations", 
+       "uncertain": "true", 
+       "variations": [ 
+         
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Thongthauha, Kwangtung", 
+       "comment": "Not Found; Somewhere in Canton Province", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Thongthauha, Kwangtung"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Thuankhanh, Annam", 
+       "comment": "Highly Uncertain: Possibly referring to \"Tinh Khánh Hòa\" - another name for Khánh Hòa province (TGN: 7594824) - it's somehow related to this region.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Thuankhanh, Annam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tremuche, Eastern Siberia", 
+       "comment": "Not found: Eastern Siberia is hugely expansive and this case there are no clues to help.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tremuche, Eastern Siberia"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tschihin, Kwangtung", 
+       "comment": "Not Found: Lies somewhere in Guangdon Province (TGN: 7005232)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tschihin, Kwangtung"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tschu-Thongau, Kwangtung", 
+       "comment": "Not Found: German Mission in Canton Province - somewhere", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tschu-Thongau, Kwangtung"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tsing", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Tsing"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tso-uin", 
+       "comment": "No TGN found.", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Tso-uin", "Tso-uin, Shanshi", "Tso-uin, Shansi", "Tsouin, Shansi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tsou-p'ing-fu, Shantung", 
+       "comment": "Not Found; somewhere in Shandong Province", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tsou-p'ing-fu Shantung", "Tsou-p'ing-fu, Shantung"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tsukiji, Tokyo", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Tsukiji, Tokyo"
+       ]
+       ,
+       "groups": [ 
+"GR_Tokyo"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Ulu Kelantan", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Ulu Kelantan"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Umcheng, Shansi", 
+       "comment": "Likely refers to Yuncheng, Shanxi Province (TGN: 8678046), but quite uncertain", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Umcheng, Shansi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Upper Perak", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Upper Perak"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Van-dao, Annam", 
+       "comment": "Not Found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Van-dao, Annam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Visayas, Philippines", 
+       "comment": "Precise Coordinates unavailable/impractical; Refers to a whole Archipelago in the Philippines; it's one of three main isalnd groups and includes Chebu for example", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Visayas, Philippines"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Wuhce", 
+       "comment": "", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Wuhce"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Wusih, Ningpo", 
+       "comment": "Highly uncertain: could refer to \"Wushi, Zhejiang Province\" (TGN: 8170340), but it's not clear. It is not at all likely to be \"Wuxi\" in the province to the north, though it might be easy to confuse it with this.", 
+       "uncertain": "false", 
+       "variations": [ 
+         "Wusih, Ningpo", "Wusih, Chekiang"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Yberia, Philippines", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Yberia, Philippines"
+       ]
+    }
+  } ]
+}

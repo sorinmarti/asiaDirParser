@@ -1,0 +1,49 @@
+Group name	Label	LAT	LON	place category
+GR_Amoy	Amoy	24.479794	118.081869	Point
+GR_Anking	Anking	30.513646	117.047234	Point
+GR_Anshun	Anshun	26.25	105.933333	Point
+GR_Bangkok	Bangkok	13.753	100.501	Point
+GR_Bindinh	Bindinh	14.166667	109	Polygon
+GR_China	China	35	105	Polygon
+GR_Datong	Datong	40.093611	113.291389	Point
+GR_Fokien	Fokien	26.25	118	Polygon
+GR_Formosa	Formosa	24	121	Polygon
+GR_Hatinh	Hatinh	18.35	105.9167	Point
+GR_Hunan	Hunan	27.666667	111.75	Polygon
+GR_Hupeh	Hupeh	31	112.25	Polygon
+GR_Ilocos Súr	Ilocos Súr	17.261	120.533	Polygon
+GR_Iloilo	Iloilo	10.7	122.5667	Point
+GR_Jiao Qu	Jiao Qu	36.191667	113.1125	Point
+GR_Johor Baharu	Johor Baharu	1.4833	103.7333	Point
+GR_Kampot	Kampot	10.6167	104.1833	Point
+GR_Kansuh	Kansuh	37.75	102.75	Polygon
+GR_Kia-ting-fu	Kia-ting-fu	29.562275	103.76386	Point
+GR_Kiangsi	Kiangsi	27.666667	115.666667	Polygon
+GR_Kiukiang	Kiukiang	29.733333	115.983333	Point
+GR_Kratie	Kratie	12.66667	106.08333	Polygon
+GR_Kuching	Kuching	1.5333	110.3333	Point
+GR_Kwangtung	Kwangtung	23.5	113.25	Polygon
+GR_Kweichow	Kweichow	27	107	Polygon
+GR_Lanchow	Lanchow	36.057006	103.839868	Point
+GR_Langson	Langson	21.852639	106.76101	Point
+GR_Long Xuyen	Long Xuyen	10.3833	105.4167	Point
+GR_Mengtsz	Mengtsz	23.3333	103.35	Point
+GR_Nanning	Nanning	22.816667	108.316667	Point
+GR_Nhatrang	Nhatrang	12.248089	109.19436	Point
+GR_Pao-ning-fu	Pao-ning-fu	31.55037	105.99381	Point
+GR_Penang	Penang	5.35	100.233333	Point
+GR_Perak	Perak	5	101	Polygon
+GR_Phnompenh	Phnompenh	11.5833	104.9167	Point
+GR_Pursat	Pursat	12.5333	103.9167	Point
+GR_Rachgia	Rachgia	10.012	105.13	Point
+GR_Saigon	Saigon	10.7333	106.65	Point
+GR_Shanghai	Shanghai	31.222222	121.458056	Point
+GR_Siberia	Siberia	50	133	Polygon
+GR_Tamsui	Tamsui	25.171958	121.442896	Point
+GR_Tokushima	Tokushima	34.05	134.5667	Point
+GR_Tokyo	Tokyo	35.75	139.5	Point
+GR_Tsinan	Tsinan	36.683333	117.05	Point
+GR_Tsincheo	Tsincheo	36.057006	103.839868	Point
+GR_Tungchou	Tungchou	39.903952	116.661826	Point
+GR_Tungkun	Tungkun	23.048889	113.744722	Point
+GR_Weihaiwei	Weihaiwei	37.509136	122.113557	Point

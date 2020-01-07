@@ -1,0 +1,3306 @@
+{
+ "type": "FeatureCollection", 
+ "features": [
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Amur", 
+       "tgn": 1003354, 
+       "placetype": "Region", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/54+128", 
+       "comment": "There are differents Amurs and a river with this name. - Best to link it to the region in Russia (Amurskaya Oblast) - the TGN exists and we can't be that they were definitely referring to Amur the town within modern Chinese Borders. This would require further research to confirm, but the region is not wrong in any case, though not as specific as might be hoped.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Amur", "Amur, Siberia", "Amur, Eastern Siberia"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          128, 
+          54
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Andien, Annam", 
+       "googlemaps": "https://www.google.com/maps/place/11.024559+106.389885", 
+       "comment": "highly uncertain, An Tịnh seems to be called Andien at least until the Vietnam War, but it's located in Cochinchina", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Andien, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.389885, 
+          11.024559
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Anpoa, Fokien", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Anpoa, Fokien"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Anshu", 
+       "tgn": 1066563, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/26.25+105.933333", 
+       "comment": "highly uncertain, Anshun is a city in middle/southern China", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Anshu, North China"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.933333, 
+          26.25
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Antung", 
+       "tgn": 7002198, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/40.129167+124.394722", 
+       "comment": "via map", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Antung"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          124.394722, 
+          40.129167
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Aoyama", 
+       "tgn": 1079812, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/34.6+136.2167", 
+       "comment": "There are two cities in Japan, the other one is in today's Tokyo prefecture: https://de.wikipedia.org/wiki/Aoyama", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Aoyama", "Aoyama, Japan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          136.2167, 
+          34.6
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Balek Pulan", 
+       "googlemaps": "https://www.google.com/maps/place/5.35+100.233333", 
+       "comment": "This is a district of Penang, Malaysia and might have to be put there", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Balek Pulan, Penang", "Balek Pulan", "Balek Pulau", "Balek Pulau, Penang"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          100.233333, 
+          5.35
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Banam", 
+       "tgn": 1087171, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/10.3833+105.4167", 
+       "comment": "TGN for Long Xuyen; seemingly the monastery of Banam was located there", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Banam", "Long Xuyen", "Banam, Cochin China"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.4167, 
+          10.3833
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Banplasoi, Siam", 
+       "googlemaps": "https://www.google.com/maps/place/13.366667+100.983056", 
+       "comment": "At least in the modern day, it is a district of Chon Buri, Thailand/Siam", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Banplasoi, Siam", "Banplasoi"
+       ]
+       ,
+       "groups": [ 
+"GR_Siam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          100.983056, 
+          13.366667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Banxang", 
+       "googlemaps": "https://www.google.com/maps/place/19.871292+102.237943", 
+       "comment": "No TGN, but Village location is quite clear - lies in Laos at the moment but has been a part of Thailand/Siam at various times in the past - i.e. WWII", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Banxang", "Banxang, Siam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          102.237943, 
+          19.871292
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Bindinh, Tonkin", 
+       "tgn": 7594807, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/14.166667+109", 
+       "comment": "Is in Annam, not Tonkin", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Bindinh, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          109, 
+          14.166667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Buichu, Tonkin", 
+       "googlemaps": "https://www.google.com/maps/place/20.304301+106.337053", 
+       "comment": "Diocèse de Bui Chu", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Buichu", "Buichu, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.337053, 
+          20.304301
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Cercle de Langson, Tonkin", 
+       "tgn": 1087162, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/21.852639+106.76101", 
+       "comment": "A military unit operating from Langson, though covering more than one city", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Cercle de Langson, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.76101, 
+          21.852639
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Changchow", 
+       "tgn": 1073899, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/24.513333+117.655556", 
+       "comment": "via map", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Changchow", "Chiang-chiu, Fuhkien"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          117.655556, 
+          24.513333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Changtu", 
+       "tgn": 1072268, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/42.293056+123.841389", 
+       "comment": "Changtu is a district in the city Tieling, uncertain", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Changtu"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          123.841389, 
+          42.293056
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chefoo", 
+       "tgn": 8679590, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/37.533333+121.4", 
+       "comment": "via map", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chefoo", "Cliefoo", "C'foo", "Chefop"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          121.4, 
+          37.533333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chenan", 
+       "comment": "not found; possibly refers to \"Shih-nan\"/modern-day \"Enshi, Hubei\" (TGN: 8203460) ", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chenan, Southern Hupeh", "Chenan"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Cheokiakeo", 
+       "comment": "No place found via Getty, Google, Google maps. An old map will be required", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Cheokiakeo, Hona", "Cheokiakeo, Honam", "Cheokiako, Honan", "Cheo-kia-kéo, Honan"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chernigowka", 
+       "tgn": 1137069, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/49.6167+129.95", 
+       "comment": "three different Chernigovka in the vicinity", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chernigowka, Eastern Siberia"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          129.95, 
+          49.6167
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chichou", 
+       "tgn": 1139218, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/37.562222+115.558889", 
+       "comment": "several possibilities", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chichow, Chihli", "Chichow", "Chichou, Chilhi", "Chichou"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          115.558889, 
+          37.562222
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chihli", 
+       "tgn": 7002077, 
+       "placetype": "First level subdivision", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/39+115.666667", 
+       "comment": "We have to decided this one. Chihli is not exactly the same as modern Hebei. It also included Beijing andTianjin, for example, which are not a part of Hebei", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chihli", "Chili"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          115.666667, 
+          39
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chinanfoo", 
+       "tgn": 7001483, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/36.683333+117.05", 
+       "comment": "seems to be Jinan, but uncertain; more resaerch/time needed", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chinanfoo", "Chinanfoo, Shangtung", "Chinanfoo, Shantung"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          117.05, 
+          36.683333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Cho-bo, Tonkin", 
+       "googlemaps": "https://www.google.com/maps/place/20.767733+105.166557", 
+       "comment": "This definitely needs to be looked at and confirmed; highly uncertain, but a difficult place to find nowadays. Likely a point rather than a region/province - in fact it might be in Lào Cai province in the very North, but needs some time/research", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Cho-bo, Tonkin", "Chobo, Tonkin", "Cho Bo"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.166557, 
+          20.767733
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Cholon", 
+       "tgn": 1004283, 
+       "placetype": "Neighborhood", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/10.7333+106.65", 
+       "comment": "Neighbourhood in Saigon ", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Cholon", "Cholon, Cochinchina", "Cholon, Cochinchine", "Cholon, Saigon", "Cholon, Cochin China", "Cholon, Cochin-China"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.65, 
+          10.7333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chongtshun", 
+       "googlemaps": "https://www.google.com/maps/place/22.53+113.35", 
+       "comment": "coordinates for Zhongshan; it is likely this one, but not 100%", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chongtshun, Kwangtung", "Chongtshun"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          113.35, 
+          22.53
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Choquan, Cochin China", 
+       "googlemaps": "https://www.google.com/maps/place/10.752889+106.679178", 
+       "comment": "seems to be part of Ho Chi Minh City; specific coordinates listed but perhaps it needs to be placed under Saigon.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Choquan, Cochin China", "Choquan, Cochin-China"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.679178, 
+          10.752889
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chuchow-fu", 
+       "tgn": 1071195, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/28.959444+118.868611", 
+       "comment": "\"Chucheo, Chekiang\" (the third variation here) is quite uncertain, but it is likely the same place, perhaps we can confirm that with some more research with old maps/Chinese-English dictionaries. Quzhou, Zhejiang province is the modern name.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chuchow-fu, Chekiang", "Chuchow-fu", "Chucheo, Chekiang"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          118.868611, 
+          28.959444
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chukshan", 
+       "googlemaps": "https://www.google.com/maps/place/22.1875+108.578", 
+       "comment": "This is highly uncertain: might refer to Zhushancun, Guangxi province, but this might be a stretch. More research needed.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chukshan, Kwangsi", "Chukshan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          108.578, 
+          22.1875
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Chung-hua", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Chinghwa", "Chung-hua"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Corea", 
+       "tgn": 7000299, 
+       "placetype": "Nation", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/37+127.5", 
+       "comment": "TGN for South Corea, may need to be defined manually", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Corea"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          127.5, 
+          37
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Cua-vist, Annam", 
+       "googlemaps": "https://www.google.com/maps/place/16.910499+107.174698", 
+       "comment": "Uncertain: location for Cửa Việt listed - Highly uncertain whether this is the same place, but very hard to find anything else.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Cua-vist, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          107.174698, 
+          16.910499
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Cumong, Annam", 
+       "googlemaps": "https://www.google.com/maps/place/13.564466+109.25043", 
+       "comment": "Uncertain, but likely refers to the swampy area around the Estuary in Sông Cầu district - Phú Yên province ", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Cumong, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          109.25043, 
+          13.564466
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Daitotei", 
+       "tgn": 7489943, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/25.11531+121.531783", 
+       "comment": "3 getty results, all close to each other.  https://en.wikipedia.org/wiki/Twatutia", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Daitotei", "Daitotei, Formosa"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          121.531783, 
+          25.11531
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Dong Hoi, Annam", 
+       "tgn": 1087112, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/17.468+106.622", 
+       "comment": "Places seems to be in Annam, third entry (Tonkin) is strange", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Dong Hoi, Annam", "Donghoi, Annam", "Donghoi, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.622, 
+          17.468
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Donkabuang, Siam", 
+       "googlemaps": "https://www.google.com/maps/place/13.811839+99.875949", 
+       "comment": "Seems to be located within the Ban Pong District (TGN: 1085474)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Donkabuang, Siam", "Donkabuang"
+       ]
+       ,
+       "groups": [ 
+"GR_Siam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          99.875949, 
+          13.811839
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "East Coast of Sumatra", 
+       "googlemaps": "https://www.google.com/maps/place/0.2433+103.720336", 
+       "comment": "Non-specific region/location", 
+       "uncertain": "true", 
+       "variations": [ 
+         "East Coast of Sumatra", "E. C. Sumatra"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          103.720336, 
+          0.2433
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Eastern Siberia", 
+       "tgn": 7011548, 
+       "placetype": "General region", 
+       "placecategory": "Polygon", 
+       "comment": "TGN for Siberia region", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Eastern Siberia", "Eastern Sib"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Fukagawa", 
+       "tgn": 1004503, 
+       "placetype": "Neighborhood", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/35.6667+139.8", 
+       "comment": "part of Yokohama, today Tokyo - should maybe be listed under Tokyo", 
+       "uncertain": "true", 
+       "variations": [ 
+         "(Fukagawa) Yokohama"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          139.8, 
+          35.6667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Giadinh, Cochin-China", 
+       "tgn": 1087117, 
+       "placetype": "Part of inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/10.8+106.7", 
+       "comment": "This is a part of Saigon and could be listed there", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Giadinh, Cochin-China"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.7, 
+          10.8
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Haichêng", 
+       "tgn": 1139053, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/40.851582+122.747537", 
+       "comment": "two locations with the same name in the Manchuria region", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Haichêng, Manchuria", "Haichêng"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          122.747537, 
+          40.851582
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hanyang", 
+       "googlemaps": "https://www.google.com/maps/place/30.5397+114.2119", 
+       "comment": "Hanyang was one of the three cities (Hanyang, Hankou, and Wuchan) that form the modern city Wuhan, Hubei); Needs remain separated.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hanyang", "Hanyang, Hupeh"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          114.2119, 
+          30.5397
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hatinh", 
+       "tgn": 1087126, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/18.35+105.9167", 
+       "comment": "Hodo is uncertain", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hatinh", "Hatinh, Annam", "Hodo, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.9167, 
+          18.35
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hatinh, Tonkin", 
+       "tgn": 1087126, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/18.35+105.9167", 
+       "comment": "geographically part of Annam, but seems to be regarded politically as part of Tonkin", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hatinh, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.9167, 
+          18.35
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hiogo", 
+       "tgn": 1004712, 
+       "placetype": "Neighborhood", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/34.65+135.1667", 
+       "comment": "Neighbourhood of Kobe, so might have to be relisted", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hiogo"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          135.1667, 
+          34.65
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Ho-shi-tun", 
+       "comment": "Not found; very little to go on - possibly linked to the place below?? But sounds more Jpanaese in a way", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Ho-shi-tun"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hochau", 
+       "tgn": 8204050, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/35.236111+110.139722", 
+       "comment": "tgn for Heyang; wrong province", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hochau, Shansi", "Hochau"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          110.139722, 
+          35.236111
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hokshuha", 
+       "tgn": 8651498, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/23.721306+115.348822", 
+       "comment": "TGN for Heshuxia, in accordance with Reference Guide to Christian Missionary Societies in China", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hokshuha", "Hokshuha, Kwangtung"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          115.348822, 
+          23.721306
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Honecohé", 
+       "googlemaps": "https://www.google.com/maps/place/12.558293+109.217714", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Honecohé", "Honecohé, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          109.217714, 
+          12.558293
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hong Yen", 
+       "tgn": 7594823, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/20.816667+106.05", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hong Yen", "Hong Yen, Tonkin", "Hongyen, Tonkin", "Hong-yen, Tonkin", "Hongyuen, Tonkin", "Hungyen, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.05, 
+          20.816667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Honghoa", 
+       "googlemaps": "https://www.google.com/maps/place/21.254511+105.286135", 
+       "comment": "There is also a Hung Hoa in Cochinchine", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Honghoa", "Honghoa, Tonkin", "Hung-hoa, Tonkin", "Hunghao, Tonkin", "Hunghoa, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.286135, 
+          21.254511
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hsincheo", 
+       "tgn": 8682200, 
+       "placetype": "Fourth level subdivision", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/34.384882+109.055427", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hsincheo, Shansi"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          109.055427, 
+          34.384882
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Hsingsi, Kueichow Province", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hsingsi, Kueichow Province"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Huiwa", 
+       "tgn": 1069006, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/25.032314+118.794951", 
+       "comment": "Tgn for Hui'an", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Huiwa", "Huiwa, Fokien"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          118.794951, 
+          25.032314
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Jesselton", 
+       "tgn": 1082804, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/5.9833+116.0667", 
+       "comment": "New from 1973 draft", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Jesselton", "Jesselton, B. N. B"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          116.0667, 
+          5.9833
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "K'u-hsien, Szechuen", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "K'u-hsien, Szechuen", "K'ü-hsien, Szechuen"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kampong", 
+       "tgn": 1066366, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/12+105.45", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kampong, Cambodge", "Kampong"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.45, 
+          12
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kampot, Cochin-China", 
+       "tgn": 1066372, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/10.6167+104.1833", 
+       "comment": "Presumably a city in Cambodga and not Vietnam", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kampot, Cochin-China"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          104.1833, 
+          10.6167
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kang Boe, Fokien", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kang Boe, Fokien"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kangboe", 
+       "tgn": 7001465, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/24.479794+118.081869", 
+       "comment": "seems to be a district of Xiamen now, but uncertain", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kangboe, Fukien"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          118.081869, 
+          24.479794
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kansuh", 
+       "tgn": 1001261, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/37.75+102.75", 
+       "comment": "Province of Gansu", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kansuh", "Kansuli"
+       ]
+       ,
+       "groups": [ 
+"GR_Kansuh"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          102.75, 
+          37.75
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kaochow", 
+       "tgn": 8204212, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/21.939243+110.846074", 
+       "comment": "uncertain regarding the region", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Ko-chau, Kwangse", "Kaochow"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          110.846074, 
+          21.939243
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kayingchow", 
+       "tgn": 8631637, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/24.297687+116.107241", 
+       "comment": "Tgn for Meizhou", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kayingchow, Kwangtung", "Kayingchow"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          116.107241, 
+          24.297687
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Ketong", 
+       "tgn": 8493360, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/26.153171+109.713017", 
+       "comment": "Ketong in China", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Ketong, Sarawak"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          109.713017, 
+          26.153171
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Khanh-hoi, Cochinchine", 
+       "googlemaps": "https://www.google.com/maps/place/9.319924+104.833118", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Khanh-hoi, Cochinchine", "Khanhoi, Cochinchine"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          104.833118, 
+          9.319924
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Khone", 
+       "googlemaps": "https://www.google.com/maps/place/13.948056+105.940556", 
+       "comment": "Located in Laos not Cochinchine", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Khone, Láos, Cochinchine", "Khone"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.940556, 
+          13.948056
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kiaisiu, Shansi", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kiaisiu, Shansi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kiangshan", 
+       "googlemaps": "https://www.google.com/maps/place/28.736111+118.625", 
+       "comment": "multiple possibilities", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kiangshan, Chekiang"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          118.625, 
+          28.736111
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kiashing", 
+       "googlemaps": "https://www.google.com/maps/place/30.766667+120.75", 
+       "comment": "For Kashing", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kiashing"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          120.75, 
+          30.766667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kin-men", 
+       "tgn": 7469009, 
+       "placetype": "County", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/24.45333+118.38861", 
+       "comment": "Taiwanese Island, therefore in conflict with Southern Hupeh", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kin-men, Southern Hupeh", "Kin-men"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          118.38861, 
+          24.45333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kiukiang", 
+       "tgn": 7001850, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/29.733333+115.983333", 
+       "comment": "via map", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kuikiang", "Kiukiung", "Kewkiang", "Kewkiaug", "Kewkinag", "Kiukiang"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          115.983333, 
+          29.733333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Koke", 
+       "comment": "uncvertain, Kobe is the closest possibility", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Koke"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kompong chuan, Cambodge", 
+       "tgn": 1066367, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/12.25+104.6667", 
+       "comment": "TGN for Kâmpóng Chhnăng", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kompong chuan, Cambodge", "Kompong chuan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          104.6667, 
+          12.25
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kowloon Frontier", 
+       "tgn": 7018486, 
+       "placetype": "Peninsula", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/22.3167+114.1833", 
+       "comment": "Cooridnates of the Kowloon Peninsula", 
+       "uncertain": "true", 
+       "variations": [ 
+         "K’loon Frontier", "Kowloon", "Kowloon Frontier", "Kowloon, H'kong", "Frontier", "Kowloon, Hongkong", "Kowloon, H’kong"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          114.1833, 
+          22.3167
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kratie", 
+       "tgn": 7000825, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/12.66667+106.08333", 
+       "comment": "City in Cambodge", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kratie, Cambodge", "Kratie", "Kratie, Cochinchine"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.08333, 
+          12.66667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Krauchmar, Cochin-China", 
+       "googlemaps": "https://www.google.com/maps/place/12.166667+105.666667", 
+       "comment": "City in Cambodge", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Krauchmar, Cochin-China"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.666667, 
+          12.166667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Ksuhan Province", 
+       "tgn": 1069581, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/31.35+120.95", 
+       "comment": "uncertain, multiple possiblities", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Ksuhan Province"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          120.95, 
+          31.35
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kuala Tinggi", 
+       "tgn": 1082806, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/1.75+103.8833", 
+       "comment": "For Kota Tinggi", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kuala Tinggi", "Kuala Tinggi, Johore"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          103.8833, 
+          1.75
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kucheo, Chekiang", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kucheo, Chekiang"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kuhwu, Shansi", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kuhwu, Shansi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kwangse", 
+       "tgn": 8569600, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/23.336944+102.315833", 
+       "comment": "TGN for Yuesi  seems to be the old name for Kwang-se", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kwangchi", "Kwangse", "Kwangsi", "Kwang-si"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          102.315833, 
+          23.336944
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kwangtung", 
+       "tgn": 7005232, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/23.5+113.25", 
+       "comment": "Hinnen seems to be a missionary station in Guangdong; TGN for Guangdong", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Hinnen Kwangtung", "Kwangtung"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          113.25, 
+          23.5
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kwei-hwa-chén, Shansi", 
+       "comment": "Kwei-hwa-chén is in the inner mongolia province, although there seems to be some confusion regarding it's position in european studies.", 
+       "uncertain": "true", 
+       "variations": [ 
+         
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kweichow", 
+       "tgn": 7002080, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/27+107", 
+       "comment": "several entries", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kweichow"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          107, 
+          27
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kweilin", 
+       "tgn": 8202408, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/25.281944+110.286389", 
+       "comment": "TGN for Kweilin", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kwailam, West River"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          110.286389, 
+          25.281944
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Kê-roy, Tonkin Septentrional", 
+       "comment": "Not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Kê-roy, Tonkin Septentrional"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lagan", 
+       "googlemaps": "https://www.google.com/maps/place/11.166667+108.7", 
+       "comment": "Pointe Lagan", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lagan, Annam", "Lagan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          108.7, 
+          11.166667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lam", 
+       "googlemaps": "https://www.google.com/maps/place/21.152834+105.47214", 
+       "comment": "TGN for Duong Lam", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lam, Tonkin", "Lam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.47214, 
+          21.152834
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lampilao, Fokien", 
+       "comment": "Not Found: could be in the south of Fujien Province, perhaps 8 miles/12 Km from the coast.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lampilao, Fokien"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lanzhou", 
+       "tgn": 7001872, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/36.057006+103.839868", 
+       "comment": "is Lanchow a variant?", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lan-cheo, Kansuh", "Lanchow", "Lancheo, Kansuh"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          103.839868, 
+          36.057006
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Laobrang, Thibet", 
+       "googlemaps": "https://www.google.com/maps/place/35.195556+102.508056", 
+       "comment": "a tibetan monastery", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Laobrang, Thibet"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          102.508056, 
+          35.195556
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Laotian Regions, Siam", 
+       "comment": "Territory of Laos in Siam, needs to be defined manually", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Laotian Regions, Siam"
+       ]
+       ,
+       "groups": [ 
+"GR_Siam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Liang-cheo, Kansuh", 
+       "comment": "seems to be a monastery in the Gansu region, TGN for Gansu", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Liang-cheo, Kansuh", "Liangcheo, Kansuh"
+       ]
+       ,
+       "groups": [ 
+"GR_Kansuh"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Linching", 
+       "tgn": 8317016, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/40.017945+116.685197", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Linching, North China", "Linching"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          116.685197, 
+          40.017945
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lohau-chai", 
+       "comment": "Not Found: Can possibly be found on the North China Imperial Railway", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lohau-chai"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Longchuen", 
+       "tgn": 8615408, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/27.845278+119.339167", 
+       "comment": "three possibilites", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Longchuen, Chehkiang", "Longchuen, Chekiang", "Longchuen"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          119.339167, 
+          27.845278
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Longthun, Siam", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Longthun, Siam"
+       ]
+       ,
+       "groups": [ 
+"GR_Siam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Longxuyen, Tonkin", 
+       "comment": "Longxuyen is in Cochin-China, not in Tonkin", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Longxuyen, Tonkin"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Luar", 
+       "tgn": 7016479, 
+       "placetype": "Autonomous district", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/4+97", 
+       "comment": "Tgn for region Aceh", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Luar"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          97, 
+          4
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lukouchiao, Tientsin", 
+       "tgn": 8621074, 
+       "placetype": "Fourth level subdivision", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/39.868796+116.277452", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lukouchiao, Tientsin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          116.277452, 
+          39.868796
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lunganfu", 
+       "tgn": 1070890, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/32.409336+104.528684", 
+       "comment": "wrong region", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lunganfu", "Lunganfu, Shansi", "Lungan-fu, Shansi"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          104.528684, 
+          32.409336
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Lungchow", 
+       "tgn": 7001881, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/22.4+106.9833", 
+       "comment": "via map", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Lungchow", "Lungko", "Lungkow"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.9833, 
+          22.4
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Macassar", 
+       "tgn": 1078833, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/-5.15+119.4667", 
+       "comment": "New from 1973 draft", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Macassar", "Maccassar"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          119.4667, 
+          -5.15
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Matang, Perak", 
+       "googlemaps": "https://www.google.com/maps/place/4.847163+100.693826", 
+       "comment": "No TGN Exists, but it exists on maps/near Taiping", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Matang, Perak"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          100.693826, 
+          4.847163
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Meng-tzu", 
+       "tgn": 7001884, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/23.3333+103.35", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Mêngtszu", "Mêngtzu", "Mongtszu"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          103.35, 
+          23.3333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Mui-ngoc, Tonkin", 
+       "tgn": 1087175, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/21.5333+107.9667", 
+       "comment": "Near Móng Cái, Vietnam (1087175)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Mui-ngoc, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          107.9667, 
+          21.5333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Nakatsu", 
+       "tgn": 7004738, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/33.6167+131.1833", 
+       "comment": "Uncertain: there are two other places with the same name", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Nakatsu, Japan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          131.1833, 
+          33.6167
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Nganluhfu, Hupeh", 
+       "comment": "not found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Nganluhfu, Hupeh"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Nghe An, Annam", 
+       "tgn": 7594829, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/19.25+104.916667", 
+       "comment": "Province in north/central Vietnam", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Nghean, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          104.916667, 
+          19.25
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "North China", 
+       "comment": "Not very specific - Coordinates possibly futile", 
+       "uncertain": "true", 
+       "variations": [ 
+         "North China"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "North Kiangsi", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "North Kiangse"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Northern Hunan", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Northern Hunan"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Nyenhangli, Kwangtung", 
+       "googlemaps": "https://www.google.com/maps/place/23.799206+115.462014", 
+       "comment": "Located in Guangdong/Canton Province: Its modern Chinese name is \"Yuankeng\", but highly uncertain. see https://books.google.ch/books?id=pyO57ibiyHMC&pg=PA102&lpg=PA102&dq=Nyenhangli,+Kwangtung&source=bl&ots=2kLQlRlDkb&sig=ACfU3U3bF6UPgYCALp6SuklxGtzfSrXnUA&hl=de&sa=X&ved=2ahUKEwjdm-W1sZfmAhVDUlAKHQTAAAcQ6AEwBXoECAoQAQ#v=onepage&q=Nyenhangli%2C%20Kwangtung&f=false", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Nyenhangli, Kwangtung"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          115.462014, 
+          23.799206
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Pacheo, Szechuen", 
+       "comment": "Somewhere in Sichuan Province (TGN: 7002087)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Pacheo, Szechuen"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Pakeo, Chihli", 
+       "comment": "Somewhere in Hebei Province (TGN: 7002077); not found yet", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Pa-keo, Chili", "Pakeo, Chihli"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Pawlinoffsk, Eastern Siberia", 
+       "tgn": 7014810, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/53.05+158.7167", 
+       "comment": "Possibly refers to what is now Pertopavlovsk-Kamchatskiy (TGN: 7014810), but very uncertain", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Pawlinoffsk, E. Siberia", "Pawlinoffsk, Eastern Siberia"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          158.7167, 
+          53.05
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Province Wellesley, Penang", 
+       "googlemaps": "https://www.google.com/maps/place/5.371611+100.413161", 
+       "comment": "Area Known today by the Malaysian name \"Seberang Perai\", it forms the other, mainland half of Penang (TGN: 7018057), adjacent to Penang Island.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Province Wellesley"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          100.413161, 
+          5.371611
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Pursat", 
+       "tgn": 1066422, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/12.5333+103.9167", 
+       "comment": "in Cambodia not Vietnam", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Pursat", "Pursat, Cambodge", "Pursat, Cochinchine", "Pursat, Cambodia"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          103.9167, 
+          12.5333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Quananh, Tonkin", 
+       "comment": "Not Found", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Quananh Tonkin"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Quang Ngai", 
+       "tgn": 1087217, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/15.15+108.8333", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Nam-ngai, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          108.8333, 
+          15.15
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Quang Yen, Tonkin", 
+       "comment": "3 possibilities in North Vietnam, the largest of which is near Hai Phong, but has no TGN, (20.938379, 106.796402)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Quangyen, Tonkin", "Quang Yen, Tonkin", "Quang-yen, Tonkin", "Quanyen, Tonkin"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Quiapo", 
+       "comment": "Quiapo is a district of Manila", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Quiapo, Manila"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Rajang, Sarawak", 
+       "tgn": 1128986, 
+       "placetype": "River", 
+       "placecategory": "Polygon", 
+       "comment": "Uncertain where precisely this refers to; the river in Sarawak has a TGN, but it's not clear if it refers to Sibu, the only major settlement on the river or just the sub-region", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Rejang, Sarawak"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Rasdolnoc", 
+       "comment": "multiple possibilites", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Rasdolnoc, Eastern Siberia", "Rasdolnoc"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Robe", 
+       "comment": "uncvertain, Kobe is the closest possibility", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Robe"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sa Ky, Annam", 
+       "googlemaps": "https://www.google.com/maps/place/15.215194+108.914528", 
+       "comment": "Highly uncertain, but possiby \"Sa Kỳ\" (15.215194, 108.914528)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Saky, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          108.914528, 
+          15.215194
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sagalien", 
+       "tgn": 7019034, 
+       "placetype": "Island (landform)", 
+       "placecategory": "Polygon", 
+       "comment": "https://en.wikipedia.org/wiki/Sakhalin", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sagalien", "Sagalien, Siberia"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sahnynh, Annam", 
+       "comment": "Highly uncertain: Possibly \"Sanh Ngân\" (13.980695, 108.986943) or less likely some derivative of \"Khe Sahn\"", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sahnynh, Annam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Saigoi, Tibet", 
+       "tgn": 8179428, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/29.104+88.504", 
+       "comment": "There is a small possibility that it is a typo/mispelling of Saigon", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Saigoi"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          88.504, 
+          29.104
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sakan, Annam", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sakan, Annam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sebetan", 
+       "googlemaps": "https://www.google.com/maps/place/1.7894+111.360498", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sebetan, Sarawak", "Sebetan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          111.360498, 
+          1.7894
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sendai", 
+       "tgn": 7004809, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/38.2667+140.8667", 
+       "comment": "There is a small possibility for this to be confused with Satsumasendai", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sendai, Japan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          140.8667, 
+          38.2667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Shang-szu", 
+       "tgn": 7001891, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/22.816667+108.316667", 
+       "comment": "seems to be a district of Nanning", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Shang-szu, Kwangso", "Shang-szu"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          108.316667, 
+          22.816667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Shangtung", 
+       "tgn": 8574670, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/28.453934+120.395417", 
+       "comment": "Most probably this referes to: Shangdong, Zhejiang Province (But not necessarily)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Shangtung"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          120.395417, 
+          28.453934
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Shansi", 
+       "tgn": 7002086, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/37.666667+112.25", 
+       "comment": "many possibilities Region / inhabited places", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Shansi"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          112.25, 
+          37.666667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Shantung", 
+       "tgn": 7002085, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/36.333333+118.25", 
+       "comment": "Uncertain without more info: Could refer to Shandong Province (TGN: 7002085), but cannot really be sure.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Shantung"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          118.25, 
+          36.333333
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Shek-hing, Kwangse", 
+       "comment": "Not Found (Somewhere in Guangxi Province seemingly)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Shek-hing, Kwangse"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Siang-hsien, Honam", 
+       "tgn": 8697449, 
+       "placetype": "Second level subdivision", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/34.83107+126.09872", 
+       "comment": "Uncertain, but highly likely it can be found on this South Korean Island", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Siang-hsien, Honam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          126.09872, 
+          34.83107
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Siang-hsien, Honan", 
+       "tgn": 1072787, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/28.666667+112.883333", 
+       "comment": "Uncertain, but quite likely to refer to Siangyinhsien or modern Wenxing, Hunan province", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Siang-hsien, Honan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          112.883333, 
+          28.666667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Siaomei, Chekiang", 
+       "tgn": 8678526, 
+       "placetype": "Fourth level subdivision", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/27.8223+118.969", 
+       "comment": "Uncertain, but highly probable to be right in this case", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Siaomei, Chekiang"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          118.969, 
+          27.8223
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sihcheo, Shansi", 
+       "tgn": 1139928, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/36.695249+110.95564", 
+       "comment": "Uncertain, but highly probable it refers \"Sichow\" which is now Xi Xian or \"Longquan, Shanxi Province\"", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sihcheo, Shansi", "Sihchau, Shansi"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          110.95564, 
+          36.695249
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Singapore", 
+       "tgn": 7000381, 
+       "placetype": "Nation", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/1.3667+103.8", 
+       "comment": "nation of Singapore", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sigapore", "Singapora", "Singapore", "Singapor e", "Singapre", "Sinpapore", "S'pore", "S'pore.", "S’pore", "S’pore.", "S’apore", "S. E. S’pore", "Singapore.", "Singap", "Sing", "Singapr", "S'apore", "Signapore", "Sin’pore", "Sinagpore", "Singapi", "Singapor", "Singapoie", "Sin'pore", "Singagore"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          103.8, 
+          1.3667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Singau, Shensi", 
+       "comment": "Unclear: perhaps \"Sigou, Shaanxi Province\", TGN: 8091989; maybe \"Xinangou\" 8093876.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Singau, Shensi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Singhi, Sarawak", 
+       "googlemaps": "https://www.google.com/maps/place/1.5+110.166667", 
+       "comment": "No TGN available: Refers to (probably) a small villange somewhere near Mount Singai - a few kilometers Southwest of Kuching", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Singhi, Sarawak"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          110.166667, 
+          1.5
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Soaikieng, Cambodia", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Soaikieng, Cambodia"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Soasia, Fokien", 
+       "comment": "Not found: somewhere in Fujian Province (TGN: 7001796)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Soasia, Fokien"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Songkhone, Cochinchine", 
+       "tgn": 1082472, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/17.9667+105.1667", 
+       "comment": "Not found: Possibly this is actually Ban Songkhon, Lao (TGN: 1082472)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Songkhone, Cochinchine"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.1667, 
+          17.9667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Soungarie, Manchuria", 
+       "tgn": 6001821, 
+       "placetype": "General region", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/44+87", 
+       "comment": "Not sure if this place exists; could be confused with \"Dzungaria\" (TGN: 6001821) a vast region in the NorthWEST of China, not Manchuria. They might mean two locations.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Soungarie, Manchuria"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          87, 
+          44
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "South Kiangse", 
+       "comment": "The Southern part of Jiangxi Province (TGN: 7002082)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "South Kiangse"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Souvang, Tonkin", 
+       "googlemaps": "https://www.google.com/maps/place/19.886907+105.461892", 
+       "comment": "Very uncertain: possibly Sao Vàng, Thanh Hoa (19.886907, 105.461892)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Souvang, Tonkin"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          105.461892, 
+          19.886907
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Stung Treng, Cambodge", 
+       "tgn": 7000832, 
+       "placetype": "Province", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/13.75+106.25", 
+       "comment": "Province is actually apart of modern Cambodia, and has belonged to Laos in the past; the link to Cochinchina is very strange.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Stungtreng, Cochinchine"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          106.25, 
+          13.75
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Sungari, Manchuria", 
+       "tgn": 1130174, 
+       "placetype": "River", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/47.709444+132.512222", 
+       "comment": "Uncertain where precisely a settlement by the name of Sungari was located. TGN given refers to the important river in Manchuria now called the \"Songhua\"", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Sungari, Manchuria"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          132.512222, 
+          47.709444
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Ta-tong-fu, Shansi", 
+       "tgn": 7001922, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/40.0833+113.4667", 
+       "comment": "Likely refers to \"Datong, Shanxi province\", but rather uncertain", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Ta-tong-fu, Shansi"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          113.4667, 
+          40.0833
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tabewie Seoul", 
+       "comment": "two places", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tabewie Seoul"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Taegu", 
+       "tgn": 7001326, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/35.8667+128.6", 
+       "comment": "", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Taiku, Corea"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          128.6, 
+          35.8667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Taikoku", 
+       "tgn": 7004306, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/25.047+121.525", 
+       "comment": "For Taihoku", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Taikoku"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          121.525, 
+          25.047
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Taiping, Kwangtung", 
+       "tgn": 8623671, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/22.769527+111.568818", 
+       "comment": "TGN for Luocheng, Taiping seems to be a District of Luocheng, but multiple possiblities", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Täiping, Kwangtung", "Taiping, Kwangtung"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          111.568818, 
+          22.769527
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tamhoi, Saigon", 
+       "comment": "two locations", 
+       "uncertain": "true", 
+       "variations": [ 
+         
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tang Un, West River", 
+       "googlemaps": "https://www.google.com/maps/place/23.466917+111.372987", 
+       "comment": "Uncertain: may be: \"Tangyuancun\", Guangxi Province (23.466917, 111.372987)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tang Un, West River", "Tang-Un, West River", "Tang-un, West River"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          111.372987, 
+          23.466917
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tangchou, Chili", 
+       "tgn": 7001966, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/38.31+116.86", 
+       "comment": "Likely refers to \"Ts'ang-chou, Hebei province\" but not clear (could also refer to Tungchou, Beijing Shi (TGN: 1072326)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tangchou, Chili"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          116.86, 
+          38.31
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tao-tin-tia, South Formosa", 
+       "tgn": 7001004, 
+       "placetype": "Special municipality", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/22.6667+120.25", 
+       "comment": "Unsure, but Very likely refers to Gaoxiong or Kaohsiung City in Taiwan (TGN: 7001004)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tao-tin-tia, South Formosa"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          120.25, 
+          22.6667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tehngan", 
+       "googlemaps": "https://www.google.com/maps/place/32.330158+114.300239", 
+       "comment": "Teh Ngan seems to be 120 miles north of Hankow, this would be Hunan tough; but the region Hupei and Hunan seemed to be the same at that time? source: https://archive.org/stream/28700076.1906.emory.edu/28700076_1906_djvu.txt", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tehngan, Hupeh", "Tehngan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          114.300239, 
+          32.330158
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Thanhson, Annam", 
+       "googlemaps": "https://www.google.com/maps/place/11.572218+108.993229", 
+       "comment": "uncertain, multiple possiblities", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Thanhson, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          108.993229, 
+          11.572218
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Thongthauha, Kwangtung", 
+       "comment": "Not Found; Somewhere in Canton Province", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Thongthauha, Kwangtung"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Thuan-an, Annam", 
+       "googlemaps": "https://www.google.com/maps/place/16.548889+107.643611", 
+       "comment": "uncertain, multiple possiblities", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Thuan-an, Annam", "Thuanan, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          107.643611, 
+          16.548889
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Thuankhanh, Annam", 
+       "comment": "Highly Uncertain: Possibly referring to \"Tinh Khánh Hòa\" - another name for Khánh Hòa province (TGN: 7594824) - it's somehow related to this region.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Thuankhanh, Annam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tokuyama", 
+       "tgn": 1081558, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/34.0667+131.8", 
+       "comment": "There is a small possibility they are refering to modern-day \"Hongō, Gifu prefecture\" (TGN: 1140610)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tokuyama, Japan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          131.8, 
+          34.0667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tongku, Chihli", 
+       "tgn": 8682614, 
+       "placetype": "Former administrative division", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/39.055049+117.644882", 
+       "comment": "Very likely refers to \"Tanggu Qu, Tianjin\"", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tongku, Chihli"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          117.644882, 
+          39.055049
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tremuche, Eastern Siberia", 
+       "comment": "Not found: Eastern Siberia is hugely expansive and this case there are no clues to help.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tremuche, Eastern Siberia"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tschihin, Kwangtung", 
+       "comment": "Not Found: Lies somewhere in Guangdon Province (TGN: 7005232)", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tschihin, Kwangtung"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tschu-Thongau, Kwangtung", 
+       "comment": "Not Found: German Mission in Canton Province - somewhere", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tschu-Thongau, Kwangtung"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tsincheo", 
+       "tgn": 7001872, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/36.057006+103.839868", 
+       "comment": "Tgn for Lanzhou; Highly uncertain, some references to Tsincheo can be found, but there is only a very superficiel connection to Lanzhou", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tsincheo, Kansuh", "Tsincheo, Ksuhan Province"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          103.839868, 
+          36.057006
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tsing-kiang-pu, Kiangsu", 
+       "tgn": 1072055, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/31.447778+121.093889", 
+       "comment": "A little uncertain; very likely corresponds with modern Chengxiang, Jiangsu Province", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tsingkiangpu", "Tsing-kiang-pu, Kiangsu", "Ts'ing-kiang-pu, Kiangsu"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          121.093889, 
+          31.447778
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Tsou-p'ing-fu, Shantung", 
+       "comment": "Not Found; somewhere in Shandong Province", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Tsou-p'ing-fu Shantung", "Tsou-p'ing-fu, Shantung"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Umcheng, Shansi", 
+       "comment": "Likely refers to Yuncheng, Shanxi Province (TGN: 8678046), but quite uncertain", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Umcheng, Shansi"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Ussuri, Siberia", 
+       "tgn": 7014478, 
+       "placetype": "River", 
+       "placecategory": "Polygon", 
+       "googlemaps": "https://www.google.com/maps/place/48.451667+135.078056", 
+       "comment": "The Usuri is a major river in Eastern Siberia, but no settlement was found by this name; TGN refers only to the river itself.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Ussuri, Siberia"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          135.078056, 
+          48.451667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Van Yen, Annam", 
+       "googlemaps": "https://www.google.com/maps/place/21.168863+107.538829", 
+       "comment": "Van Yen is located in Tonkin, not Annam", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Van Yen, Annam"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          107.538829, 
+          21.168863
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Van-dao, Annam", 
+       "comment": "Not Found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Van-dao, Annam"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Visayas, Philippines", 
+       "comment": "Precise Coordinates unavailable/impractical; Refers to a whole Archipelago in the Philippines; it's one of three main isalnd groups and includes Chebu for example", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Visayas, Philippines"
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Yamaguchi", 
+       "tgn": 7004882, 
+       "placetype": "Inhabited place", 
+       "placecategory": "Point", 
+       "googlemaps": "https://www.google.com/maps/place/34.1667+131.4667", 
+       "comment": "Two places in Japan", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Yamaguchi", "Yamaguchi, Japan"
+       ]
+    }, 
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          131.4667, 
+          34.1667
+       ]
+    }
+  }, 
+  {
+    "type": "Feature",
+    "properties": {
+       "name": "Yberia, Philippines", 
+       "comment": "Not found.", 
+       "uncertain": "true", 
+       "variations": [ 
+         "Yberia, Philippines"
+       ]
+    }
+  } ]
+}

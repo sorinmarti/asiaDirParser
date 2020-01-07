@@ -1,0 +1,705 @@
+prefered placename	tgn id	latitude	longitude	tgn placetype	place category	parents	google maps	Comment	Uncertainty	name var 1	name var 2	name var 3	name var 4	name var 5	name var 6	name var 7	name var 8	name var 9	name var 10	name var 11	name var 12	name var 13	name var 14	name var 15	name var 16	name var 17	name var 18	name var 19	name var 20	name var 21	name var 22	name var 23	name var 24	name var 25	name var 26	name var 27	name var 28	name var 29	name var 30	name var 31	name var 32	name var 33	name var 34	name var 35	name var 36
+Aduana		10.291667	123.904444		Point		https://www.google.com/maps/place/10.291667+123.904444		false	Aduana, Cebu	Aduana																																		
+Albay	1001094	13.2167	123.55	Province	Polygon		https://www.google.com/maps/place/13.2167+123.55		false	Albay, Philippines																																			
+Amoy	7001465	24.479794	118.081869	Inhabited place	Point	GR_Amoy	https://www.google.com/maps/place/24.479794+118.081869		false	Amoy	Amoy.																																		
+Amur	1003354	54	128	Region	Polygon		https://www.google.com/maps/place/54+128	There are differents Amurs and a river with this name. - Best to link it to the region in Russia (Amurskaya Oblast) - the TGN exists and we can't be that they were definitely referring to Amur the town within modern Chinese Borders. This would require further research to confirm, but the region is not wrong in any case, though not as specific as might be hoped.	true	Amur	Amur, Siberia	Amur, Eastern Siberia																																	
+An-shuen						GR_Anshun	https://www.google.com/maps/place/26.25+105.933333		false	An-shuen, Kweichow	An-shuen																																		
+Andien, Annam		11.024559	106.389885		Point		https://www.google.com/maps/place/11.024559+106.389885	highly uncertain, An Tịnh seems to be called Andien at least until the Vietnam War, but it's located in Cochinchina	true	Andien, Annam																																			
+Anhwei	7002075	31.916667	117.166667	Province	Polygon		https://www.google.com/maps/place/31.916667+117.166667		false	Anhwei																																			
+Anking	1066557	30.513646	117.047234	Inhabited place	Point	GR_Anking	https://www.google.com/maps/place/30.513646+117.047234		false	Anking																																			
+Annam	6000295	null	null	Historical region	Polygon		https://www.google.com/maps/place/null+null	Coordinates are an estimate. TGN does not supply coordinates. The middle part of Vietnam would be fine for general coordinates, using Hué for example would be fine	false	Annam	Provinces de l’Annam	Annum																																	
+Anpoa, Fokien							https://www.google.com/maps/place/+	Not found	true	Anpoa, Fokien																																			
+Anshun	1066563	26.25	105.933333	Inhabited place	Point	GR_Anshun	https://www.google.com/maps/place/26.25+105.933333	highly uncertain, Anshun is a city in middle/southern China	true	Anshu, North China	Anshun																																		
+Antung	7002198	40.129167	124.394722	Inhabited place	Point		https://www.google.com/maps/place/40.129167+124.394722	via map	true	Antung																																			
+Aoyama	1079812	34.6	136.2167	Inhabited place	Point		https://www.google.com/maps/place/34.6+136.2167	There are two cities in Japan, the other one is in today's Tokyo prefecture: https://de.wikipedia.org/wiki/Aoyama	true	Aoyama	Aoyama, Japan																																		
+Ayuthia, Siam	7000948	14.283	100.5	Province	Polygon		https://www.google.com/maps/place/14.283+100.5		false	Ayuthia, Siam																																			
+Bac-Ninh, Tonkin	1087051	21.1833	106.05	Inhabited place	Point		https://www.google.com/maps/place/21.1833+106.05		false	Bac-Ninh Tonkin	Bacninh	Bacninh, Tonkin																																	
+Baclieu	1087050	9.2833	105.7333	Inhabited place	Point		https://www.google.com/maps/place/9.2833+105.7333		false	Baclieu	Baclieu, Cochin-China	Baclieu, Cochinchine	Baclien, Cochinchine																																
+Balanga	1083989	14.6833	120.55	Inhabited place	Point		https://www.google.com/maps/place/14.6833+120.55		false	Balanga	Balanga, Philippines,																																		
+Balek Pulan		5.35	100.233333		Point	GR_Penang	https://www.google.com/maps/place/5.35+100.233333	This is a district of Penang, Malaysia and might have to be put there	true	Balek Pulan, Penang	Balek Pulan	Balek Pulau	Balek Pulau, Penang																																
+Long Xuyen	1087171			Inhabited place	Point	GR_Long Xuyen			false	Long Xuyen																																			
+Banam						GR_Long Xuyen	https://www.google.com/maps/place/10.3833+105.4167	TGN for Long Xuyen; seemingly the monastery of Banam was located there	true	Banam		Banam, Cochin China																																	
+Bandau		4.417254	114.949949		Point		https://www.google.com/maps/place/4.417254+114.949949	No tgn available	false	Bandau, British North Borneo	Bandau																																		
+Bandoeng	7002853	-6.95	107.5667	Inhabited place	Point		https://www.google.com/maps/place/-6.95+107.5667	https://de.wikipedia.org/wiki/Bandung	false	Bandoeng																																			
+Bangkok	7000983	13.753	100.501	Inhabited place	Point	GR_Bangkok	https://www.google.com/maps/place/13.753+100.501		false	Bangkok	Bangkok.	Baugkok																																	
+(Chingmai) Bangkok						GR_Bangkok				(Chingmai) Bangkok																																			
+Banguey		7.25	117.166667		Point		https://www.google.com/maps/place/7.25+117.166667		false	Banguey, British North Borneo	Banguey																																		
+Banplasoi, Siam		13.366667	100.983056		Point		https://www.google.com/maps/place/13.366667+100.983056	At least in the modern day, it is a district of Chon Buri, Thailand/Siam	true	Banplasoi, Siam	Banplasoi																																		
+Banxang		19.871292	102.237943		Point		https://www.google.com/maps/place/19.871292+102.237943	No TGN, but Village location is quite clear - lies in Laos at the moment but has been a part of Thailand/Siam at various times in the past - i.e. WWII	true	Banxang	Banxang, Siam																																		
+Baoha, Tonkin		22.190278	104.367778		Point		https://www.google.com/maps/place/22.190278+104.367778		false	Baoha	Baoha, Tonkin																																		
+Baria, Cochin-China		10.510281	107.180676		Point		https://www.google.com/maps/place/10.510281+107.180676		false	Baria	Baria, Cochin-China																																		
+Batang Padang		4.083333	101.333333		Polygon		https://www.google.com/maps/place/4.083333+101.333333	No TGN; Coordinates have been placed apporximately close to the centre of this important administrative sub-unit/district of Perak, Malaysia	false	Batang Padang	Batang Padang, Perak	Batan Padang, Perak	Batan Padang																																
+Batangas, Philippines	1084025	13.75	121.05	Inhabited place	Point		https://www.google.com/maps/place/13.75+121.05		false	Batangas, Philippines	Batangas																																		
+Batavia	7002854	-6.1333	106.75	Inhabited place	Point		https://www.google.com/maps/place/-6.1333+106.75	Modern: Jakarta, Indonesia	false	Batavia	B’via																																		
+Battambang	1066360	13.1	103.2	Inhabited place	Point		https://www.google.com/maps/place/13.1+103.2		false	Battambang, Indo-China	Battambang	Battambang, Siam																																	
+Batu Gajah	1082686	4.45	101.0333	Inhabited place	Point		https://www.google.com/maps/place/4.45+101.0333		false	Batu Gajah	Batu Gajah, Perak	Batu-Gajah, Perak	Batu Gajah, Kinta, Perak	Batu Gojah, Perak																															
+Batu Pahat	1082688	1.8333	102.8	Inhabited place	Point		https://www.google.com/maps/place/1.8333+102.8		false	Batu Pahat	Batu Pahat, Johore																																		
+Ben-thuy, Annam		18.648849	105.717851		Point		https://www.google.com/maps/place/18.648849+105.717851		false	Ben Thuy, Annam	Ben Thuy	Benthuy, Annam	Ben-thuy, Annam																																
+Bengkalis	1077486	1.45	102.1667	Inhabited place	Point		https://www.google.com/maps/place/1.45+102.1667		false	Bengkalis	Bengkalis, Sumatra																																		
+Bentong	1082698	3.5333	101.9167	Inhabited place	Point		https://www.google.com/maps/place/3.5333+101.9167		false	Bentong	Bentong, Pahang																																		
+Bentré, Cochin-China	1087264	10.2333	106.3833	Inhabited place	Point		https://www.google.com/maps/place/10.2333+106.3833		false	Bentré	Bentré, Cochin-China	Bentre, Cochinchine	Bentré, Cochinchine	Bentré, Cochin-china	Bêntré, Cochin-China																														
+Bienhoa, Cochin-China	1087066	10.9667	106.8333	Inhabited place	Point		https://www.google.com/maps/place/10.9667+106.8333		false	Bienhoa	Bienhoa, Cochinchine	Bienhoa, Cochin-China																																	
+Bilit		5.501446	118.219074		Point		https://www.google.com/maps/place/5.501446+118.219074		false	Bilit, B. N. Borneo	Bilit																																		
+Bindinh, Tonkin						GR_Bindinh	https://www.google.com/maps/place/14.166667+109	Is in Annam, not Tonkin	true	Bindinh, Tonkin																																			
+Binh-phu, Annam		15.625833	108.324167		Point		https://www.google.com/maps/place/15.625833+108.324167		false	Binhphu	Binhphu, Annam	Binh-phu, Annam																																	
+Bindinh	7594807	14.166667	109	Province	Polygon	GR_Bindinh	https://www.google.com/maps/place/14.166667+109		false	Binhdinh	Binhdinh, Annam																																		
+Blagowestschensk	7014759	50.3167	127.5	Inhabited place	Point		https://www.google.com/maps/place/50.3167+127.5		false	Blagowestschensk, Siberia	Blagowestshensk, Eastern Siberia	Blagowechensk, Siberia	Blagowestschensk	Blagowestschensk, Eastern Siberia																															
+Bongau		5.02917	119.77306		Point		https://www.google.com/maps/place/5.02917+119.77306		false	Bongau, British North Borneo	Bongau																																		
+Bongmieu, Annam	1087077	15.4167	108.4	Inhabited place	Point		https://www.google.com/maps/place/15.4167+108.4		false	Bongmieu	Bongmieu, Annam																																		
+British North Borneo	7018970	5.5	117	State (political division)	Polygon		https://www.google.com/maps/place/5.5+117		false	B. N. B.	B.N. B.	B.N.B.	B. N. B’neo	B. N. Borneo	B.N. Borneo	Borneo	British North B’neo	British North Borneo																											
+Brunei	1000107	4.5	114.6667	Nation	Polygon		https://www.google.com/maps/place/4.5+114.6667		false	Brunei	Brunei, N. B.	Brunei, Borneo																																	
+Buichu, Tonkin		20.304301	106.337053		Point		https://www.google.com/maps/place/20.304301+106.337053	Diocèse de Bui Chu	true	Buichu	Buichu, Tonkin																																		
+Bulacan	1001162	15	121.0833	Province	Polygon		https://www.google.com/maps/place/15+121.0833		false	Bulacan, Philippines	Bulacan																																		
+Bundu		5.536124	115.542076		Point		https://www.google.com/maps/place/5.536124+115.542076		false	Bundu, British North Borneo	Bundu																																		
+Cabagan	1084081	17.4333	121.75	Inhabited place	Point		https://www.google.com/maps/place/17.4333+121.75		false	Cabagan	Cabagan, Philippines	Cobagan, Philippines																																	
+Cac Ba, Tonkin	1006740	20.8333	107	Island (landform)	Polygon		https://www.google.com/maps/place/-20.8333+107		false	Cac Ba, Tonkin																																			
+Cagayan	1001171	18	121.8333	Province	Polygon		https://www.google.com/maps/place/18+121.8333		false	Cagayan	Cagayan, Philippine	Cagayan, Philippines																																	
+Calbayog	1084102	12.0667	124.6333	Inhabited place	Point		https://www.google.com/maps/place/12.0667+124.6333		false	Calbayog, Philippines	Calboyog, Philippines																																		
+Cambodge	1000109	13	105	Nation	Polygon		https://www.google.com/maps/place/13+105		false	Cambodge	Carnbodge	Cambodia	Camboge																																
+Camkhé, Tonkin		21.406072	105.103024		Polygon		https://www.google.com/maps/place/21.406072+105.103024	Refers to modern Cẩm Khê District	false	Camkhé, Tonkin																																			
+Cantho, Cochin China	1087088	10.0333	105.7833	Inhabited place	Point		https://www.google.com/maps/place/10.0333+105.7833		false	Cantho, Cochin China	Cantho, Cochinchine	Canthó, Cochinchine																																	
+Canton	7018040	23.116667	113.25	Inhabited place	Point		https://www.google.com/maps/place/23.116667+113.25		false	Canton	Canton.	C’ton	Cantor																																
+Caoayan		17.538221	120.395499		Point		https://www.google.com/maps/place/17.538221+120.395499		false	Caoayan, Philippines	Caoayan																																		
+Caobang, Tonkin	1087089	22.6667	106.2667	Inhabited place	Point		https://www.google.com/maps/place/22.6667+106.2667		false	Caobang, Tonkin																																			
+Cap St. Jaques	1087282	10.35	107.0667	Inhabited place	Point		https://www.google.com/maps/place/10.35+107.0667	Today: Vung Tau (https://en.wikipedia.org/wiki/V%C5%A9ng_T%C3%A0u) Cep St. James is just an alternative English name from the colonial era	false	Cap St. Jaques	Cap St. Jaques, Cochinchine	Cap St. Jaques, Conchinchine	Cap. St. Jaques, Cochin Cnine	Cap. St. Jaques, Cochinchine	Cape St. James																														
+Carlatan		16.635287	120.319692		Point		https://www.google.com/maps/place/16.635287+120.319692		false	Carlatan, Philippines	Carlatan																																		
+Cebu	1001185	10.321	123.754	Province	Polygon		https://www.google.com/maps/place/10.321+123.754		false	Cebu	Cebú	Cébu	Cebu, Philippines	Cebú, Philippines	Cebu, Phillippines	Gebu	Cebù																												
+Cercle de Langson, Tonkin						GR_Langson	https://www.google.com/maps/place/21.852639+106.76101	A military unit operating from Langson, though covering more than one city	true	Cercle de Langson, Tonkin																																			
+Ch'ing-chowfu	1139978	36.696667	118.479722	Inhabited place	Point		https://www.google.com/maps/place/36.696667+118.479722		false	Ch'ing-chowfu, Shantung	Ch'ing-chowfu	Ch'ing-chou-fu, Shantung	Ch'ingchou-fu, Shantung																																
+Changchow	1073899	24.513333	117.655556	Inhabited place	Point		https://www.google.com/maps/place/24.513333+117.655556	via map	true	Changchow	Chiang-chiu, Fuhkien																																		
+Changchun	7001472	43.88	125.322778	Inhabited place	Point		https://www.google.com/maps/place/43.88+125.322778		false	Changchun																																			
+Changsha	8613195	26.714722	112.383889	Inhabited place	Point		https://www.google.com/maps/place/26.714722+112.383889		false	Changsha	C'sha																																		
+Changshan	8208127	28.959681	118.509604	Third level subdivision	Polygon		https://www.google.com/maps/place/28.959681+118.509604	It's a county...maybe a little too big for a specific point, but maybe not. Not sure.	false	Changshan, Chekiang	Changshan																																		
+Changtu	1072268	42.293056	123.841389	Inhabited place	Point		https://www.google.com/maps/place/42.293056+123.841389	Changtu is a district in the city Tieling, uncertain	true	Changtu																																			
+Chantabun, Siam		12.6	102.15		Polygon		https://www.google.com/maps/place/12.6+102.15	Refers to an entire Thai province	false	Chantabun, Siam	Chantabun																																		
+Chaoyang	1138827	41.570278	120.458611	Inhabited place	Point		https://www.google.com/maps/place/41.570278+120.458611		false	Ch'aoyang, Mongolia	Chaoyang																																		
+Chaudoc, Cochin-China	1087093	10.7	105.05	Inhabited place	Point		https://www.google.com/maps/place/10.7+105.05		false	Chandoc, Cochin-China	Chaudoc, Cochin-China	Chaudoc, Cochinchine																																	
+Chefoo	8679590	37.533333	121.4	Inhabited place	Point		https://www.google.com/maps/place/37.533333+121.4	via map	true	Chefoo	Cliefoo	C'foo	Chefop																																
+Chekiang	7002076	29.166667	120	Province	Polygon		https://www.google.com/maps/place/29.166667+120		false	Chekiang	Chekiang Province	Chehkiang																																	
+Chemulpo	7000998	37.4667	126.6333	Inhabited place	Point		https://www.google.com/maps/place/37.4667+126.6333		false	Chemulpo	Chemulpo Corea	Chemulpo, Corea	Chemuplo, Corea																																
+Chenan							https://www.google.com/maps/place/+	not found; possibly refers to "Shih-nan"/modern-day "Enshi, Hubei" (TGN: 8203460)	true	Chenan, Southern Hupeh	Chenan																																		
+Chengku	8202846	33.149167	107.325833	Inhabited place	Point		https://www.google.com/maps/place/33.149167+107.325833		false	Chengku, Shensi	Chengku																																		
+Chengtu	7001761	30.666667	104.066667	Inhabited place	Point		https://www.google.com/maps/place/30.666667+104.066667		false	Chengtu, Szechuen	Chentu, Szechuen	Chéntu, Szechuen																																	
+Cheokiakeo							https://www.google.com/maps/place/+	No place found via Getty, Google, Google maps. An old map will be required	true	Cheokiakeo, Hona	Cheokiakeo, Honam	Cheokiako, Honan	Cheo-kia-kéo, Honan																																
+Chernigowka	1137069	49.6167	129.95	Inhabited place	Point		https://www.google.com/maps/place/49.6167+129.95	three different Chernigovka in the vicinity	true	Chernigowka, Eastern Siberia																																			
+Chiangchew	8631873	24.913889	118.585833	Inhabited place	Point		https://www.google.com/maps/place/24.913889+118.585833		false	Chiangchew, Fokien	Chiangchew																																		
+Chiangmai	7005219	18.8	98.9833	Inhabited place	Point		https://www.google.com/maps/place/18.8+98.9833		false	Chiangmai	Chiangmai, Siam	Chingmai, Siam	Chengmai, Siam	Chiengmai, Siam																															
+Chiangpei	8628706	29.728298	106.635059	Inhabited place	Point		https://www.google.com/maps/place/29.728298+106.635059		false	Chiangpei, Szechuen	Chiangpei																																		
+Chichou	1139218	37.562222	115.558889	Inhabited place	Point		https://www.google.com/maps/place/37.562222+115.558889	several possibilities	true	Chichow, Chihli	Chichow	Chichou, Chilhi	Chichou																																
+Chihli	7002077	39	115.666667	First level subdivision	Polygon		https://www.google.com/maps/place/39+115.666667	We have to decided this one. Chihli is not exactly the same as modern Hebei. It also included Beijing andTianjin, for example, which are not a part of Hebei	true	Chihli	Chili																																		
+China	1000111	35	105	Nation	Polygon		https://www.google.com/maps/place/35+105		false	China																																			
+Chinanfoo						GR_Tsinan	https://www.google.com/maps/place/36.683333+117.05	seems to be Jinan, but uncertain; more resaerch/time needed	true	Chinanfoo	Chinanfoo, Shangtung	Chinanfoo, Shantung																																	
+Chinchow	7001482	41.107778	121.141667	Inhabited place	Point		https://www.google.com/maps/place/41.107778+121.141667		false	Chinchow	Chinchow, Manchuria																																		
+Chinkiang	7001779	32.210863	119.455076	Inhabited place	Point		https://www.google.com/maps/place/32.210863+119.455076		false	Chingkiang	Chinkiang	Chinkiang.																																	
+Chinnampo	7002227	38.737	125.407	Inhabited place	Point		https://www.google.com/maps/place/38.737+125.407		false	Chinnampo	Chinnampo, C’sen																																		
+Chinwangtao	1071115	39.931667	119.588333	Inhabited place	Point		https://www.google.com/maps/place/39.931667+119.588333		false	Chingwantao	Chinwangtao																																		
+Cho-bo, Tonkin		20.767733	105.166557		Point		https://www.google.com/maps/place/20.767733+105.166557	This definitely needs to be looked at and confirmed; highly uncertain, but a difficult place to find nowadays. Likely a point rather than a region/province - in fact it might be in Lào Cai province in the very North, but needs some time/research	true	Cho-bo, Tonkin	Chobo, Tonkin	Cho Bo																																	
+Chofu	1079875	35.65	139.55	Inhabited place	Point		https://www.google.com/maps/place/35.65+139.55		false	Chofu, Japan	Chofu																																		
+Cholon	1004283	10.7333	106.65	Neighborhood	Point	GR_Saigon	https://www.google.com/maps/place/10.7333+106.65	Neighbourhood in Saigon	true	Cholon	Cholon, Cochinchina	Cholon, Cochinchine	Cholon, Saigon	Cholon, Cochin China	Cholon, Cochin-China																														
+Chongtshun		22.53	113.35		Point		https://www.google.com/maps/place/22.53+113.35	coordinates for Zhongshan; it is likely this one, but not 100%	true	Chongtshun, Kwangtung	Chongtshun																																		
+Choquan, Cochin China		10.752889	106.679178		Point		https://www.google.com/maps/place/10.752889+106.679178	seems to be part of Ho Chi Minh City; specific coordinates listed but perhaps it needs to be placed under Saigon.	true	Choquan, Cochin China	Choquan, Cochin-China																																		
+Chosen	7000299	37	127.5	Nation	Polygon		https://www.google.com/maps/place/37+127.5		false	Chosen																																			
+Chuchow-fu	1071195	28.959444	118.868611	Inhabited place	Point		https://www.google.com/maps/place/28.959444+118.868611	Chucheo, Chekiang (the third variation here) is quite uncertain, but it is likely the same place, perhaps we can confirm that with some more research with old maps/Chinese-English dictionaries. Quzhou, Zhejiang province is the modern name.	true	Chuchow-fu, Chekiang	Chuchow-fu	Chucheo, Chekiang																																	
+Chuki	8685113	32.325686	109.723369	Inhabited place	Point		https://www.google.com/maps/place/32.325686+109.723369		false	Chuki, Mid-China	Chuki																																		
+Chukshan		22.1875	108.578		Point		https://www.google.com/maps/place/22.1875+108.578	This is highly uncertain: might refer to Zhushancun, Guangxi province, but this might be a stretch. More research needed.	true	Chukshan, Kwangsi	Chukshan																																		
+Chung-hua							https://www.google.com/maps/place/+	Not found.	true	Chinghwa	Chung-hua																																		
+Chungkiang	8675458	31.03959	104.674476	Inhabited place	Point		https://www.google.com/maps/place/31.03959+104.674476	Very similar to: Chinkiang (maybe same place?)	false	Chungkiang																																			
+Chungking	7001787	29.562778	106.552778	Inhabited place	Point		https://www.google.com/maps/place/29.562778+106.552778	as Chongqing	false	Chugking	Chungkin	Chungking																																	
+China	6001494	11	107	General region	Polygon	GR_China	https://www.google.com/maps/place/11+107		false	Cochin China	Cochin-China	Cochinchina	Cochinchine																																
+Corea	7000299	37	127.5	Nation	Polygon		https://www.google.com/maps/place/37+127.5	TGN for South Corea, may need to be defined manually	true	Corea																																			
+Cua-vist, Annam		16.910499	107.174698		point		https://www.google.com/maps/place/16.910499+107.174698	Uncertain: location for Cửa Việt listed - Highly uncertain whether this is the same place, but very hard to find anything else.	true	Cua-vist, Annam																																			
+Cuatung, Annam		17.018088	107.096013		Point		https://www.google.com/maps/place/17.018088+107.096013		false	Cuatung, Annam																																			
+Cumong, Annam		13.564466	109.25043		Point		https://www.google.com/maps/place/13.564466+109.25043	Uncertain, but likely refers to the swampy area around the Estuary in Sông Cầu district - Phú Yên province	true	Cumong, Annam																																			
+Dairen	7002197	38.912222	121.602222	Inhabited place	Point		https://www.google.com/maps/place/38.912222+121.602222		false	Dairen																																			
+Daitotei	7489943	25.11531	121.531783	Inhabited place	Point		https://www.google.com/maps/place/25.11531+121.531783	3 getty results, all close to each other.  https://en.wikipedia.org/wiki/Twatutia	true	Daitotei	Daitotei, Formosa																																		
+Dapcau, Tonkin		21.202809	106.094734		Point		https://www.google.com/maps/place/21.202809+106.094734		false	Dapcau, Tonkin																																			
+Darvel Bay		4.843312	118.451843		Polygon		https://www.google.com/maps/place/4.843312+118.451843	Bay to the East of former British North Borneo	false	Darvel Bay, British North Borneo	Darvel Bay,																																		
+Datong	8208835	40.093611	113.291389	Inhabited place	Point	GR_Datong	https://www.google.com/maps/place/40.093611+113.291389		false	Datong																																			
+Tatongfu, Shansi						GR_Datong	https://www.google.com/maps/place/40.093611+113.291389		false	Tatongfu, Shansi																																			
+Davao	1084177	7.073	125.612	Inhabited place	Point		https://www.google.com/maps/place/7.073+125.612		false	Davao	Davao, P.l.	Darao																																	
+Dindings, Perak		4.333333	100.666667		Polygon		https://www.google.com/maps/place/4.333333+100.666667	Refers to "Manjung District", Perak, Malaysia	false	Dindings																																			
+Dong Hoi, Annam	1087112	17.468	106.622	Inhabited place	Point		https://www.google.com/maps/place/17.468+106.622	Places seems to be in Annam, third entry (Tonkin) is strange	true	Dong Hoi, Annam	Donghoi, Annam	Donghoi, Tonkin																																	
+Donkabuang, Siam		13.811839	99.875949		Point		https://www.google.com/maps/place/13.811839+99.875949	Seems to be located within the Ban Pong District (TGN: 1085474)	true	Donkabuang, Siam	Donkabuang																																		
+Donkho, Laos		15.153683	105.73844		Point		https://www.google.com/maps/place/15.153683+105.73844		false	Donkho, Laos																																			
+East Coast of Sumatra		0.2433	103.720336		Polygon		https://www.google.com/maps/place/0.2433+103.720336	Non-specific region/location	true	East Coast of Sumatra	E. C. Sumatra																																		
+Eastern Siberia						GR_Siberia	https://www.google.com/maps/place/null+null	TGN for Siberia region	true	Eastern Siberia	Eastern Sib																																		
+Etajima	1079927	34.25	132.5	Inhabited place	Point		https://www.google.com/maps/place/34.25+132.5		false	Etajima-Aki, Japan	Etajima																																		
+Faifo	1087137	15.9	108.3167	Inhabited place	Point		https://www.google.com/maps/place/15.9+108.3167		false	Faifo, Annam																																			
+Fatshan	7018049	23.026771	113.131483	Inhabited place	Point		https://www.google.com/maps/place/23.026771+113.131483		false	Fatshan, Canton	Fatshan																																		
+Federated Malay States	8711654	4	102.1	Former territory/Colony/Dependent state	Polygon		https://www.google.com/maps/place/4+102.1		false	Federated Malay States	F. M. S	F. M. S.	F.M.S	F.M.S.	F.MS.	F.M'.S.																													
+Fokien	7001796	26.25	118	Province	Polygon	GR_Fokien	https://www.google.com/maps/place/26.25+118		false	Fokien																																			
+Foochow	1068154	27.95999	116.333333	Inhabited place	Point		https://www.google.com/maps/place/27.95999+116.333333		false	Foochow																																			
+Formosa	1000141	24	121	Nation	Polygon	GR_Formosa	https://www.google.com/maps/place/24+121		false	Formosa																																			
+South Formosa						GR_Formosa			false	South Formosa																																			
+Fukagawa	1004503	35.6667	139.8	Neighborhood	Point	GR_Tokyo	https://www.google.com/maps/place/35.6667+139.8	part of Yokohama, today Tokyo - should maybe be listed under Tokyo	true	(Fukagawa) Yokohama																																			
+Fukien						GR_Fokien	https://www.google.com/maps/place/26.25+118		false	Fukien																																			
+Fukuoka	7004478	33.65	130.35	Inhabited place	Point		https://www.google.com/maps/place/33.65+130.35		false	Fukuoka	Fukuoka, Japan	Fúkuoka, Japan																																	
+Fukuyama	7016660	34.4833	133.35	Inhabited place	Point		https://www.google.com/maps/place/34.4833+133.35		false	Fukuyama, Japan	Fukuyama																																		
+Fukwing	8199914	22.670433	113.810683	Fourth level subdivision	Polygon		https://www.google.com/maps/place/22.670433+113.810683		false	Fukwing, Kwangtung	Fukwing																																		
+Funabashi	1079961	35.7	139.9833	Inhabited place	Point		https://www.google.com/maps/place/35.7+139.9833		false	Funabashi	Funabashi, Chiba, Japan																																		
+Fusan	7000996	35.0833	129.0333	Inhabited place	Point		https://www.google.com/maps/place/35.0833+129.0333		false	Fusan	Fusan, Corea																																		
+Gaols, Perak						GR_Perak	https://www.google.com/maps/place/5+101	Gaols is a prison, therefore a Point, but the position is unknown	false	Gaols, Perak																																			
+Gensan	7002230	39.152	127.443	Inhabited place	Point		https://www.google.com/maps/place/39.152+127.443		false	Gensan	Gensan, Corea																																		
+Giadinh, Cochin-China	1087117	10.8	106.7	Part of inhabited place	Point		https://www.google.com/maps/place/10.8+106.7	This is a part of Saigon and could be listed there	true	Giadinh, Cochin-China																																			
+Gifu	7004481	35.45	136.7667	Inhabited place	Point		https://www.google.com/maps/place/35.45+136.7667		false	Gifu, Japan	Gifu																																		
+Gocong, Cochinchina	1087119	10.8333	106.8333	Inhabited place	Point		https://www.google.com/maps/place/10.8333+106.8333		false	Gocong, Cochin-China	Gocong	Gocong, Cochinchine																																	
+Habarovsk, Siberia	7014787	48.5	135.1	Inhabited place	Point		https://www.google.com/maps/place/48.5+135.1		false	Habarovsk	Habarofsk, Siberia	Chabaroffsk, Siberia	Chabaroffsk	Khabarowka, Siberia																															
+Hagiang, Tonkin	1087122	22.8333	104.9833	Inhabited place	Point		https://www.google.com/maps/place/22.8333+104.9833		false	Hagiang, Tonkin	Hagiang																																		
+Haichêng	1139053	40.851582	122.747537	Inhabited place	Point		https://www.google.com/maps/place/40.851582+122.747537	two locations with the same name in the Manchuria region	true	Haichêng, Manchuria	Haichêng																																		
+Haiduong, Tonkin	1087127	20.9333	106.3167	Inhabited place	Point		https://www.google.com/maps/place/20.9333+106.3167		false	Haiduong	Haiduong, Tonkin																																		
+Hainan	7001800	19.25	109.75	Province	Polygon		https://www.google.com/maps/place/19.25+109.75		false	Hainan																																			
+Haininh, Tonkin		21.501	107.4296		Polygon		https://www.google.com/maps/place/21.501+107.4296	This one is highly uncertain, but it seems to be some kind of small district in the Northeast of Tonkin; needs further research.	false	Haininh	Haininh, Tonkin																																		
+Haiphong	7001067	20.8667	106.6833	Inhabited place	Point		https://www.google.com/maps/place/20.8667+106.6833		false	H'phong	H’phong	H’phong.	H'Phong	Haiphong	Haiphong.	Haiph																													
+Hakodate	7004843	41.7667	140.7333	Inhabited place	Point		https://www.google.com/maps/place/41.7667+140.7333		false	Hakodate	Hakodate, Japan																																		
+Hamada	1080037	34.9333	132.0667	Inhabited place	Point		https://www.google.com/maps/place/34.9333+132.0667		false	Hamada, Japan	Hamada																																		
+Hanam, Tonkin	7594819	20.533333	105.966667	Province	Polygon		https://www.google.com/maps/place/20.533333+105.966667		false	Hanam	Hanam, Tonkin																																		
+Hangchow	7001806	30.29365	120.161419	Inhabited place	Point		https://www.google.com/maps/place/30.29365+120.161419		false	Hangchow	H’chow	Hangchow, Chekiang	H'chow																																
+Hanhong	8204091	36.6388	112.204	Fourth level subdivision	Polygon		https://www.google.com/maps/place/36.6388+112.204		false	Hanchong, Shensi	Hanhong, Shensi	Hanhong																																	
+Hankow	7018028	30.583333	114.266667	Inhabited place	Point		https://www.google.com/maps/place/30.583333+114.266667		false	Hankow	H'kow	Honkow	Haukow	Hangkow	Hankok	H’kow	Teh-ngan, Hankow																												
+Hanoi	7001070	21.0167	105.8667	Inhabited place	Point		https://www.google.com/maps/place/21.0167+105.8667		false	Hanoi																																			
+Hanyang		30.5397	114.2119		Point		https://www.google.com/maps/place/30.5397+114.2119	Hanyang was one of the three cities (Hanyang, Hankou, and Wuchan) that form the modern city Wuhan, Hubei); Needs remain separated.	true	Hanyang	Hanyang, Hupeh																																		
+Harbin	7002066	45.75	126.65	Inhabited place	Point		https://www.google.com/maps/place/45.75+126.65		false	Harbin	Harbni	Haroin																																	
+Hatien	1087125	10.4	104.5	Inhabited place	Point		https://www.google.com/maps/place/10.4+104.5		false	Hatien	Hatien, Cochinchine	Hatien, Cochinchina																																	
+Hatinh	1087126	18.35	105.9167	Inhabited place	Point	GR_Hatinh	https://www.google.com/maps/place/18.35+105.9167		false	Hatinh	Hatinh, Annam																																		
+Hodo, Annam						GR_Hatinh	https://www.google.com/maps/place/18.35+105.9167		true	Hodo, Annam																																			
+Hatinh, Tonkin						GR_Hatinh	https://www.google.com/maps/place/18.35+105.9167	geographically part of Annam, but seems to be regarded politically as part of Tonkin	true	Hatinh, Tonkin																																			
+Hiaokan	1072825	30.9167	113.9	Inhabited place	Point		https://www.google.com/maps/place/30.9167+113.9		false	Hiaokan																																			
+Hiephoa, Annam		15.586111	108.009722		Point		https://www.google.com/maps/place/15.586111+108.009722		false	Hiephoa, Annam																																			
+Himeji	7004486	34.8333	134.6667	Inhabited place	Point		https://www.google.com/maps/place/34.8333+134.6667		false	Himeji, Japan	Himegi, Japan																																		
+Hiogo	1004712	34.65	135.1667	Neighborhood	Point		https://www.google.com/maps/place/34.65+135.1667	Neighbourhood of Kobe, so might have to be relisted	true	Hiogo																																			
+Hiroshima	7004499	34.3833	132.45	Inhabited place	Point		https://www.google.com/maps/place/34.3833+132.45		false	Hiroshima	Hiroshima, Japan																																		
+Ho-shi-tun							https://www.google.com/maps/place/+	Not found; very little to go on - possibly linked to the place below?? But sounds more Jpanaese in a way	true	Ho-shi-tun																																			
+Ho-tsin	1068667	35.58	110.699722	Inhabited place	Point		https://www.google.com/maps/place/35.58+110.699722		false	Ho-tsin, Shansi																																			
+Hoabinh	1087133	20.8167	105.3333	Inhabited place	Point		https://www.google.com/maps/place/20.8167+105.3333		false	Hoabinh	Hoabinh, Tonkin																																		
+Hochau	8204050	35.236111	110.139722	Inhabited place	Point		https://www.google.com/maps/place/35.236111+110.139722	tgn for Heyang; wrong province	true	Hochau, Shansi	Hochau																																		
+Hoihow	1068538	20.045833	110.341667	Inhabited place	Point		https://www.google.com/maps/place/20.045833+110.341667		false	Hoihow	Hoiliow																																		
+Hokow		22.538506	104.01109		Point		https://www.google.com/maps/place/22.538506+104.01109		false	Hokow																																			
+Hokshuha	8651498	23.721306	115.348822	Inhabited place	Point		https://www.google.com/maps/place/23.721306+115.348822	TGN for Heshuxia, in accordance with Reference Guide to Christian Missionary Societies in China	true	Hokshuha	Hokshuha, Kwangtung																																		
+Honai	1080159	33.5	132.4167	Inhabited place	Point		https://www.google.com/maps/place/33.5+132.4167		false	Honai																																			
+Honan	7016672	34	113.666667	Province	Polygon		https://www.google.com/maps/place/34+113.666667		false	Honan																																			
+Honecohé		12.558293	109.217714		Point		https://www.google.com/maps/place/12.558293+109.217714		true	Honecohé	Honecohé, Annam																																		
+Hong Yen	7594823	20.816667	106.05	Province	Polygon		https://www.google.com/maps/place/20.816667+106.05		true	Hong Yen	Hong Yen, Tonkin	Hongyen, Tonkin	Hong-yen, Tonkin	Hongyuen, Tonkin	Hungyen, Tonkin																														
+Hongay	1087140	20.95	107.1	Inhabited place	Point		https://www.google.com/maps/place/20.95+107.1		false	Hongay	Hongay, Tonkin																																		
+Honghoa		21.254511	105.286135		Point		https://www.google.com/maps/place/21.254511+105.286135	There is also a Hung Hoa in Cochinchine	true	Honghoa	Honghoa, Tonkin	Hung-hoa, Tonkin	Hunghao, Tonkin	Hunghoa, Tonkin																															
+Hongkong	7004542	22.25	114.1667	Semi-independent political entity	Polygon		https://www.google.com/maps/place/22.25+114.1667		false	Hongkoing	Hongkong	Hongkong.	Hong Kong	H'kong	H'kong.	H’kong	H’kong.	H'Kong	H’Kong	Honkoug	H kong.	Hongkoug	Hongkon	Hongkog	Honkgong	Honkong	H’kong-	Hcngkong	Hongkong:	Hongkorg	Hontrkong														
+Hsiao-i-hsien	1072904	37.122778	111.802222	Inhabited place	Point		https://www.google.com/maps/place/37.122778+111.802222		false	Hsiao-i-hsien	Hsiao Ihsien, Shansi																																		
+Hsincheo	8682200	34.384882	109.055427	Fourth level subdivision	Polygon		https://www.google.com/maps/place/34.384882+109.055427		true	Hsincheo, Shansi																																			
+Hsingsi, Kueichow Province							https://www.google.com/maps/place/+	Not found	true	Hsingsi, Kueichow Province																																			
+Hsjnyang	7016661	41.792222	123.432778	Inhabited place	Point		https://www.google.com/maps/place/41.792222+123.432778	TGN for Shenyang	false	Hsjnyang	Hsjnyang, Manchuria																																		
+Huaphai		15.38567	105.480664		Point		https://www.google.com/maps/place/15.38567+105.480664		false	Huaphai, Siam	Huaphai																																		
+Huchow	1069085	30.870301	120.093297	Inhabited place	Point		https://www.google.com/maps/place/30.870301+120.093297		false	Huchow																																			
+Huiwa	1069006	25.032314	118.794951	Inhabited place	Point		https://www.google.com/maps/place/25.032314+118.794951	Tgn for Hui'an	true	Huiwa	Huiwa, Fokien																																		
+Hunan	7002079	27.666667	111.75	Province	Polygon	GR_Hunan	https://www.google.com/maps/place/27.666667+111.75		false	Hunan																																			
+Hunchun	8203046	42.8675	130.358056	Inhabited place	Point		https://www.google.com/maps/place/42.8675+130.358056		false	Hunchun																																			
+Hupeh	7002078	31	112.25	Province	Polygon	GR_Hupeh	https://www.google.com/maps/place/31+112.25		false	Hupeh																																			
+Northern Hupeh						GR_Hupeh	https://www.google.com/maps/place/31+112.25		false	Northern Hupeh																																			
+Hué	7004240	16.4667	107.5833	Inhabited place	Point		https://www.google.com/maps/place/16.4667+107.5833		false	Hué	Hué, Annam																																		
+Hyogo	7016675	35.040316	134.825968	Prefecture	Polygon		https://www.google.com/maps/place/35.040316+134.825968		false	Hyogo																																			
+Ichang	7001836	30.77135	111.321458	Inhabited place	Point		https://www.google.com/maps/place/30.77135+111.321458		false	Ichang	ichang																																		
+Ichow-fu	1069912	35.063056	118.342778	Inhabited place	Point		https://www.google.com/maps/place/35.063056+118.342778		false	Ichow-fu, Shantung	Ichow-fu	Ichowfu	Ichowfu, Shantung																																
+Ilocos		16.62	120.32		Polygon		https://www.google.com/maps/place/16.62+120.32		false	Ilocos, Filipinos																																			
+Ilocos Súr	1001306	17.261	120.533	Province	Polygon	GR_Ilocos Súr	https://www.google.com/maps/place/17.261+120.533		false	Ylocos Súr, Filipinas	Ilocos Súr	Ilocos Súr, Philippines																																	
+Iloilo	1084264	10.7	122.5667	Inhabited place	Point	GR_Iloilo	https://www.google.com/maps/place/10.7+122.5667		false	Iloilo	Iloilo, P.I.	Ilioilo	Iioilo																																
+Jaro, Iloilo						GR_Iloilo	https://www.google.com/maps/place/10.7+122.5667		false	Jaro, Iloilo	Jaro, Philippines																																		
+Molo, Iloilo						GR_Iloilo	https://www.google.com/maps/place/10.7+122.5667		false	Molo, Iloilo	Molo, Philippines																																		
+Obispado, Iloilo						GR_Iloilo	https://www.google.com/maps/place/10.7+122.5667		false	Obispado, Iloilo																																			
+Ipoh	1082739	4.6	101.0333	Inhabited place	Point		https://www.google.com/maps/place/4.6+101.0333		false	Ipoh	Ipoh, Perak	Ipoh, perak																																	
+Iriga	1084272	13.4333	123.4	Inhabited place	Point		https://www.google.com/maps/place/13.4333+123.4		false	Iriga	Iriga, Phillipines																																		
+Isabela de Luzon	1001314	17	122	Province	Polygon		https://www.google.com/maps/place/17+122		false	Isabela de Luzon																																			
+Isé Province	1080249	34.4833	136.7	Inhabited place	Point		https://www.google.com/maps/place/34.4833+136.7		false	Isé Province, Japan	Isé Province																																		
+Iwane-machi	1080541	35.3833	139.95	Inhabited place	Point		https://www.google.com/maps/place/35.3833+139.95		false	Iwane-machi	Iwane-machi, Japan																																		
+Japan	1000120	36	138	Nation	Polygon		https://www.google.com/maps/place/36+138		false	Japan																																			
+Jasin	1082741	2.3	102.4	Inhabited place	Point		https://www.google.com/maps/place/2.3+102.4		false	Jasin	Jasin Malacca	Jasin, Malacca																																	
+Java	7003695	-7.491667	110.004444	Island (landform)	Polygon		https://www.google.com/maps/place/-7.491667+110.004444		false	Java																																			
+Jelebu		3	102.083333		Polygon		https://www.google.com/maps/place/3+102.083333	Jelebu District	false	Jelebu																																			
+Jesselton	1082804	5.9833	116.0667	Inhabited place	Point		https://www.google.com/maps/place/5.9833+116.0667	New from 1973 draft	true	Jesselton	Jesselton, B. N. B																																		
+Johor Baharu	1082750	1.4833	103.7333	Inhabited place	Point	GR_Johor Baharu	https://www.google.com/maps/place/1.4833+103.7333		false	Johor Baharu	Johore Bahru, Johore																																		
+Tebrau, Johore						GR_Johor Baharu	https://www.google.com/maps/place/1.4833+103.7333	seems to be a district of Johor Baharu	false	Tebrau, Johore																																			
+Johore	7016691	2	103.5	State (political division)	Polygon		https://www.google.com/maps/place/2+103.5		false	Johore	Jonore	Joliore																																	
+K'u-hsien, Szechuen							https://www.google.com/maps/place/+	Not found	true	K'u-hsien, Szechuen	K'ü-hsien, Szechuen																																		
+Kachek	1071125	19.2425	110.464167	Inhabited place	Point		https://www.google.com/maps/place/19.2425+110.464167		false	Kachek																																			
+Kagoshima	7004844	31.6167	130.5333	Inhabited place	Point		https://www.google.com/maps/place/31.6167+130.5333		false	Kagoshima	Kagoshima, Japan																																		
+Kaiping	1069496	22.381245	112.684921	Inhabited place	Point		https://www.google.com/maps/place/22.381245+112.684921		false	Kaiping																																			
+Kajang	1082751	2.9833	101.7667	Inhabited place	Point		https://www.google.com/maps/place/2.9833+101.7667		false	Kajang, Selangor	Kajang																																		
+Kalgan	7001475	40.81	114.879444	Inhabited place	Point		https://www.google.com/maps/place/40.81+114.879444		false	Kalgan	Kalgan, Chihli																																		
+Kampong	1066366	12	105.45	Inhabited place	Point		https://www.google.com/maps/place/12+105.45		true	Kampong, Cambodge	Kampong																																		
+Kampot	1066372	10.6167	104.1833	Inhabited place	Point	GR_Kampot	https://www.google.com/maps/place/10.6167+104.1833		false	Kampot, Cambodge	Kampot																																		
+Kampot, Cochin-China						GR_Kampot	https://www.google.com/maps/place/10.6167+104.1833	Presumably a city in Cambodga and not Vietnam	true	Kampot, Cochin-China																																			
+Kanazawa	7004554	36.5833	136.6333	Inhabited place	Point		https://www.google.com/maps/place/36.5833+136.6333		false	Kanazawa, Japan	Kanazawa																																		
+Kang Boe, Fokien						GR_Amoy	https://www.google.com/maps/place/+	seems to be a district of Xiamen now, but uncertain	true	Kang Boe, Fokien																																			
+Kangboe						GR_Amoy	https://www.google.com/maps/place/24.479794+118.081869	seems to be a district of Xiamen now, but uncertain	true	Kangboe, Fukien																																			
+Kanghau						GR_Tungkun	https://www.google.com/maps/place/23.048889+113.744722	identified via: https://kachelmannwetter.com/li/wetter/6854260-kanghua	true	Kanghau	Kanghau, Kwangtung																																		
+Kanowit	1082783	2.05	112.25	Inhabited place	Point		https://www.google.com/maps/place/2.05+112.25		false	Kanowit, Sarawak	Kanowit																																		
+Kansuh	1001261	37.75	102.75	Province	Polygon	GR_Kansuh	https://www.google.com/maps/place/37.75+102.75	Province of Gansu	true	Kansuh	Kansuli																																		
+Kaochow	8204212	21.939243	110.846074	Inhabited place	Point		https://www.google.com/maps/place/21.939243+110.846074	uncertain regarding the region	true	Ko-chau, Kwangse	Kaochow																																		
+Kayingchow	8631637	24.297687	116.107241	Inhabited place	Point		https://www.google.com/maps/place/24.297687+116.107241	Tgn for Meizhou	true	Kayingchow, Kwangtung	Kayingchow																																		
+Kayuen	8622616	42.533056	124.040278	Inhabited place	Point		https://www.google.com/maps/place/42.533056+124.040278	tgn for Kaiyuan	false	Kayuen, Manchuria	Kayuen, North China																																		
+Kedah	7016702	6	100.666667	State (political division)	Polygon		https://www.google.com/maps/place/6+100.666667		false	Kedah																																			
+Kelantan	1001885	5.333333	102	State (political division)	Polygon		https://www.google.com/maps/place/5.333333+102		false	Kelantan																																			
+Ketong	8493360	26.153171	109.713017	Inhabited place	Point		https://www.google.com/maps/place/26.153171+109.713017	Ketong in China	true	Ketong, Sarawak																																			
+Khanh-hoi, Cochinchine		9.319924	104.833118		Point		https://www.google.com/maps/place/9.319924+104.833118		true	Khanh-hoi, Cochinchine	Khanhoi, Cochinchine																																		
+Khone		13.948056	105.940556		Point		https://www.google.com/maps/place/13.948056+105.940556	Located in Laos not Cochinchine	true	Khone, Láos, Cochinchine	Khone																																		
+Khong	1082500	14.1167	105.85	Inhabited place	Point		https://www.google.com/maps/place/14.1167+105.85		false	Khong, Cochin China	Khong	Khong, Cochinchina																																	
+Kia-ting-fu	1069726	29.562275	103.76386	Inhabited place	Point	GR_Kia-ting-fu	https://www.google.com/maps/place/29.562275+103.76386		false	Kia-ting-fu, Szechuen	Kia-ting-fu																																		
+Kiaisiu, Shansi							https://www.google.com/maps/place/+	Not found	true	Kiaisiu, Shansi																																			
+Kiangshan		28.736111	118.625		Point		https://www.google.com/maps/place/28.736111+118.625	multiple possibilities	true	Kiangshan, Chekiang																																			
+Kiangsi	7002082	27.666667	115.666667	Province	Polygon	GR_Kiangsi	https://www.google.com/maps/place/27.666667+115.666667		false	Kiangsi	Kiangsee Liki	Kiangse Province	Kiangsi Province																																
+East Kiangse						GR_Kiangsi			false	East Kiangse																																			
+Kiangsu	7002081	33	119.833333	Province	Polygon		https://www.google.com/maps/place/33+119.833333		false	Kiangsu																																			
+Kiao-chow	7001848	36.283889	120.003333	Inhabited place	Point		https://www.google.com/maps/place/36.283889+120.003333		false	Kiaochow	Kiao-chow																																		
+Tsintau, Kiaochau	7001776			Inhabited place	Point				false	Tsintau, Kiaochau	Tsintau, Kiaochao Bay	Kiaochau	Kiaochou																																
+Kiashing		30.766667	120.75		Point		https://www.google.com/maps/place/30.766667+120.75	For Kashing	true	Kiashing																																			
+Kiating						GR_Kia-ting-fu	https://www.google.com/maps/place/29.562275+103.76386		false	Kiating, Szechuen	Kiating																																		
+Kimbong		15.866401	108.319663		Point		https://www.google.com/maps/place/15.866401+108.319663		false	Kimbong, Annam	Kimbong																																		
+Kin-men	7469009	24.45333	118.38861	County	Polygon		https://www.google.com/maps/place/24.45333+118.38861	Taiwanese Island, therefore in conflict with Southern Hupeh	true	Kin-men, Southern Hupeh	Kin-men																																		
+Kinchow, Southern Hupeh	8622529	30.350278	112.190278	Third level subdivision	Polygon		https://www.google.com/maps/place/30.350278+112.190278	For Jingzhou	false	Kinchow, Southern Hupeh																																			
+Kinkiaeg							https://www.google.com/maps/place/+		false	Kinkiaeg																																			
+Kinta		4.583333	101.083333		Polygon		https://www.google.com/maps/place/4.583333+101.083333		false	Kinta, Perak	Kinta																																		
+Kirin	1069269	43.850833	126.560278	Inhabited place	Point		https://www.google.com/maps/place/43.850833+126.560278		false	Kirim, Manchuria	Kirin	Kirin, Manchuria																																	
+Kiukiang	7001850	29.733333	115.983333	Inhabited place	Point	GR_Kiukiang	https://www.google.com/maps/place/29.733333+115.983333	via map	true	Kuikiang	Kiukiung	Kiukiang																																	
+Kewkiang						GR_Kiukiang		via map	true	Kewkiang	Kewkiaug	Kewkinag																																	
+Kiungchow	7032324	20.005833	110.354167	Inhabited place	Point		https://www.google.com/maps/place/20.005833+110.354167		false	Kiungchow																																			
+Klang	1082788	3	101.45	Inhabited place	Point		https://www.google.com/maps/place/3+101.45		false	Klang	Klang, Selanger	Klang, Selangor																																	
+Kluang	1077865	-2.6833	103.9	Inhabited place	Point		https://www.google.com/maps/place/-2.6833+103.9		false	Kluang Johore	Kluang, Johore																																		
+Kobe	7004560	34.6667	135.2	Inhabited place	Point		https://www.google.com/maps/place/34.6667+135.2		false	Kob	Kobe	Kobe.	Kobo	Keob																															
+Kochi	7004893	33.55	133.5333	Inhabited place	Point		https://www.google.com/maps/place/33.55+133.5333		false	Kochi, Japan	Kochi																																		
+Kofu	1140416	35.7	138.5667	Inhabited place	Point		https://www.google.com/maps/place/35.7+138.5667	two possibilites	false	Kofu, Japan	Kofu																																		
+Koishikawa, Japan							https://www.google.com/maps/place/+		false	Koishikawa, Japan																																			
+Koke							https://www.google.com/maps/place/+	uncvertain, Kobe is the closest possibility	true	Koke																																			
+Kompong Thom	1066370	12.7	104.9	Inhabited place	Point		https://www.google.com/maps/place/12.7+104.9		false	Kompong Thom, Cambodge	Kompong Thom	Kompong-thom, Cambodge	Kamphong Thom, Cambodia	Kompongthom, Cambodia																															
+Kompong chuan, Cambodge	1066367	12.25	104.6667	Inhabited place	Point		https://www.google.com/maps/place/12.25+104.6667	TGN for Kâmpóng Chhnăng	true	Kompong chuan, Cambodge	Kompong chuan																																		
+Kongmoon	8208273	22.583333	113.083333	Inhabited place	Point		https://www.google.com/maps/place/22.583333+113.083333		false	Kongmoon																																			
+Korat	7000979	15	102.1	Inhabited place	Point		https://www.google.com/maps/place/15+102.1		false	Korat, Siam	Korat																																		
+Kota Belud	1082803	6.3667	116.3167	Inhabited place	Point		https://www.google.com/maps/place/6.3667+116.3167		false	Kota Belud, B. N. Borneo																																			
+Kowloon Frontier	7018486	22.3167	114.1833	Peninsula	Polygon		https://www.google.com/maps/place/22.3167+114.1833	Cooridnates of the Kowloon Peninsula	true	K’loon Frontier	Kowloon	Kowloon Frontier	Kowloon, H'kong	Frontier	Kowloon, Hongkong	Kowloon, H’kong																													
+Kratie	7000825	12.66667	106.08333	Province	Polygon	GR_Kratie	https://www.google.com/maps/place/12.66667+106.08333	City in Cambodge	false	Kratie, Cambodge	Kratie																																		
+Kratie, Cochinchine						GR_Kratie			true	Kratie, Cochinchine																																			
+Krauchmar, Cochin-China		12.166667	105.666667		Point		https://www.google.com/maps/place/12.166667+105.666667	City in Cambodge	true	Krauchmar, Cochin-China																																			
+Krian		5	100.5		Polygon		https://www.google.com/maps/place/5+100.5		false	Krian	Krian District, Perak	Krian, Perak																																	
+Ksuhan Province	1069581	31.35	120.95	Inhabited place	Point		https://www.google.com/maps/place/31.35+120.95	uncertain, multiple possiblities	true	Ksuhan Province																																			
+Kuala Kangsar	1082810	4.8333	100.9167	Inhabited place	Point		https://www.google.com/maps/place/4.8333+100.9167		false	Kuala Kangar Perak	Kwala Kangsa, Perak																																		
+Kuala Lipis	1082818	4.1833	102	Inhabited place	Point		https://www.google.com/maps/place/4.1833+102		false	Kuala Lipis																																			
+Kuala Lumpur	7001459	3.1667	101.7	Inhabited place	Point		https://www.google.com/maps/place/3.1667+101.7		false	K. Lumpur	K. Lumpur, Selangor	Kuala Kumpur	Kuala Lumpur	Kuala Lumpur, Sel.	Kuala Lumpur, Selangor	Kuala Lumpur, Selangr	Kwala Lumpur	Kwala Lumpur, Selangor	Kwala Lumpor, Selangor																										
+Kuala Tinggi	1082806	1.75	103.8833	Inhabited place	Point		https://www.google.com/maps/place/1.75+103.8833	For Kota Tinggi	true	Kuala Tinggi	Kuala Tinggi, Johore																																		
+Kuan-hsien	8208530	31.0146	103.582	Inhabited place	Point		https://www.google.com/maps/place/31.0146+103.582		false	Kuan-hsien, Szechuen	Kuan-hsien	Kuanhsien, Szechuen																																	
+Kuantan	1082825	3.8333	103.3167	Inhabited place	Point		https://www.google.com/maps/place/3.8333+103.3167		false	Kuantan	Kuantan, Pahang																																		
+Kucheo, Chekiang							https://www.google.com/maps/place/+	Not found	true	Kucheo, Chekiang																																			
+Kuching	1082827	1.5333	110.3333	Inhabited place	Point	GR_Kuching	https://www.google.com/maps/place/1.5333+110.3333		false	Kuching	Kuching, Sarawak																																		
+Sarawak Proper, Sarawak						GR_Kuching			false	Sarawak Proper, Sarawak																																			
+Kudat	1082828	6.9	116.7833	Inhabited place	Point		https://www.google.com/maps/place/6.9+116.7833		false	Kudat, British North Berneo	Kudat	Kudat, British North Borneo																																	
+Kueichow						GR_Kweichow	https://www.google.com/maps/place/27+107		false	Kueichow																																			
+Kueiyang	7001855	26.583333	106.716667	Inhabited place	Point		https://www.google.com/maps/place/26.583333+106.716667		false	Kueiyang, Kueichow	Kueiyang																																		
+Kuhwu, Shansi							https://www.google.com/maps/place/+	Not found	true	Kuhwu, Shansi																																			
+Kumamoto	7004598	32.8333	130.7	Inhabited place	Point		https://www.google.com/maps/place/32.8333+130.7		false	Kumamoto, Japan	Kumamoto																																		
+Kwala Kubu		3.566667	101.65		Point		https://www.google.com/maps/place/3.566667+101.65		false	Kwala Kubu, Selangor	Kwala Kubu																																		
+Kwala Langat, Selangor		2.833333	101.5		Polygon		https://www.google.com/maps/place/2.833333+101.5		false	Kwala Langat, Selangor																																			
+Kwala Selangor	1082822	3.4	101.2	Inhabited place	Point		https://www.google.com/maps/place/3.4+101.2		false	Kwala Selangor	Kwala Selangor, Selangor																																		
+Kwangse	8569600	23.336944	102.315833	Inhabited place	Point		https://www.google.com/maps/place/23.336944+102.315833	TGN for Yuesi  seems to be the old name for Kwang-se	false	Kwangchi	Kwangse	Kwangsi	Kwang-si																																
+Kwangtung	7005232	23.5	113.25	Province	Polygon	GR_Kwangtung	https://www.google.com/maps/place/23.5+113.25	Hinnen seems to be a missionary station in Guangdong; TGN for Guangdong	true	Kwangtung																																			
+Hinnen Kwangtung						GR_Kwangtung			true	Hinnen Kwangtung																																			
+Kwei-hsien		23.096389	109.609167		Point		https://www.google.com/maps/place/23.096389+109.609167		false	Kwei-hsien, Kwangse	Kwei-hsien																																		
+Kwei-hwa-chén, Shansi							https://www.google.com/maps/place/+	Kwei-hwa-chén is in the inner mongolia province, although there seems to be some confusion regarding it's position in european studies.	true																																				
+Kweichow	7002080	27	107	Province	Polygon	GR_Kweichow	https://www.google.com/maps/place/27+107	several entries	true	Kweichow																																			
+Kweilin	8202408	25.281944	110.286389	Inhabited place	Point		https://www.google.com/maps/place/25.281944+110.286389	TGN for Kweilin	true	Kwailam, West River																																			
+Kyoto	7004603	35	135.75	Inhabited place	Point		https://www.google.com/maps/place/35+135.75		false	Kyoto	Kioto, Japan	Kyoto, Japan																																	
+Kyushu	7000901	33	131	Region (geographic)	Polygon		https://www.google.com/maps/place/33+131		false	Kyushu																																			
+Kébao		20.938889	106.8		Point		https://www.google.com/maps/place/20.938889+106.8		false	Kébao, Tonkin	Kebao, Tonkin																																		
+Késó, Tonkin		20.5	105.9		Point		https://www.google.com/maps/place/20.5+105.9		false	Késó, Tonkin																																			
+Kê-roy, Tonkin Septentrional							https://www.google.com/maps/place/+	Not found	true	Kê-roy, Tonkin Septentrional																																			
+Labuan	7018385	5.333333	115.2	Federal territory	Polygon		https://www.google.com/maps/place/5.333333+115.2		false	Labuan	Laburn	Labuan, British North Borneo																																	
+Lagan		11.166667	108.7		point		https://www.google.com/maps/place/11.166667+108.7	Pointe Lagan	true	Lagan, Annam	Lagan																																		
+Lahat	1082835	4.5333	101.0333	Inhabited place	Point		https://www.google.com/maps/place/4.5333+101.0333		false	Lahat, Perak	Lahat																																		
+Lakawn		8.433333	99.966667		Point		https://www.google.com/maps/place/8.433333+99.966667		false	Lakawn	Lakawn, Siam																																		
+Lam		21.152834	105.47214		Point		https://www.google.com/maps/place/21.152834+105.47214	TGN for Duong Lam	true	Lam, Tonkin	Lam																																		
+Lampilao, Fokien							https://www.google.com/maps/place/+	Not Found: could be in the south of Fujien Province, perhaps 8 miles/12 Km from the coast.	true	Lampilao, Fokien																																			
+Langson	1087162	21.852639	106.76101	Inhabited place	Point	GR_Langson	https://www.google.com/maps/place/21.852639+106.76101		false	Langson	Langson, Tonkin																																		
+Lanchow	7001872	36.057006	103.839868	Inhabited place	Point	GR_Lanchow	https://www.google.com/maps/place/36.057006+103.839868		false	Lanchow																																			
+Lan-cheo, Kansuh						GR_Lanchow			true	Lan-cheo, Kansuh	Lancheo, Kansuh																																		
+Lao Kay	1087164	22.5	103.9667	Inhabited place	Point		https://www.google.com/maps/place/22.5+103.9667		false	Lao Kay, Tonkin																																			
+Lao-ho-keo	1068375	32.385833	111.667778	Inhabited place	Point		https://www.google.com/maps/place/32.385833+111.667778		false	Lao-ho-keo, Hupeh	Lao-ho-keo	Laohokeo, Hupeh	Lao-ho-kéo, Hupeh																																
+Laobrang, Thibet		35.195556	102.508056		Point		https://www.google.com/maps/place/35.195556+102.508056	a tibetan monastery	true	Laobrang, Thibet																																			
+Laokay	1087164	22.5	103.9667	Inhabited place	Point		https://www.google.com/maps/place/22.5+103.9667		false	Laokay	Laokay, Tonkin																																		
+Laotian Regions, Siam							https://www.google.com/maps/place/+	Territory of Laos in Siam, needs to be defined manually	true	Laotian Regions, Siam																																			
+Lappa		22.12	113.510114		Point		https://www.google.com/maps/place/22.12+113.510114		false	Lappa	Lappa, Macao	Lappa Macao																																	
+Larut		4.916667	100.75		Polygon		https://www.google.com/maps/place/4.916667+100.75		false	Larut	Larut, Perak																																		
+Lateng, West River	8347675	23.9659	108.05	Inhabited place	Point		https://www.google.com/maps/place/23.9659+108.05		false	Lateng, West River																																			
+Legaspi	1084348	13.1333	123.7333	Inhabited place	Point		https://www.google.com/maps/place/13.1333+123.7333	https://de.wikipedia.org/wiki/Legazpi_City	false	Legaspi	Legaspi, P.I.	Legaspi, Philippines																																	
+Leyte	7003707	11.3833	124.4833	Inhabited place	Point		https://www.google.com/maps/place/11.3833+124.4833		false	Leyte	Leite, Philippines																																		
+Liang-cheo, Kansuh						GR_Kansuh	https://www.google.com/maps/place/+	seems to be a monastery in the Gansu region, TGN for Gansu	true	Liang-cheo, Kansuh	Liangcheo, Kansuh																																		
+Liang-hsiang	1069770	39.735978	116.132952	Inhabited place	Point		https://www.google.com/maps/place/39.735978+116.132952		false	Lianghsian-hsien, North China	Liang-hsiang																																		
+Liaoyang	1069795	41.271944	123.173056	Inhabited place	Point		https://www.google.com/maps/place/41.271944+123.173056		false	Liaoyang, Manchuria	Liaoyang, North China																																		
+Lienchow	1069788	24.781857	112.371196	Inhabited place	Point		https://www.google.com/maps/place/24.781857+112.371196		false	Lienchow	Lienchow, Kwangtung																																		
+Lilong	8694688	23.004219	111.540495	Inhabited place	Point		https://www.google.com/maps/place/23.004219+111.540495		false	Lilong	Lilong, Kwangtung																																		
+Limbang	1082844	4.8333	115	Inhabited place	Point		https://www.google.com/maps/place/4.8333+115		false	Limbang, S.arawak	Limbang, Sarawak	Limbang																																	
+Linching	8317016	40.017945	116.685197	Inhabited place	Point		https://www.google.com/maps/place/40.017945+116.685197		true	Linching, North China	Linching																																		
+Lingwu	1069873	38.081401	106.34444	Inhabited place	Point		https://www.google.com/maps/place/38.081401+106.34444		false	Lingwu																																			
+Linshiang	1069911	29.4718	113.444	Inhabited place	Point		https://www.google.com/maps/place/29.4718+113.444		false	Linshiang, Hunan	Linshiang																																		
+Liu-kung Tao	8630500	37.502222	122.181389	Island (landform)	Polygon		https://www.google.com/maps/place/37.502222+122.181389		false	Liu-kung Tao	Liu Kung Tan, Weihaiwei																																		
+Liuchow	1070031	24.312582	109.389157	Inhabited place	Point		https://www.google.com/maps/place/24.312582+109.389157		false	Lui-chau, Kwangse	Liuchow																																		
+Lohau-chai							https://www.google.com/maps/place/+	Not Found: Can possibly be found on the North China Imperial Railway	true	Lohau-chai																																			
+Longchuen	8615408	27.845278	119.339167	Inhabited place	Point		https://www.google.com/maps/place/27.845278+119.339167	three possibilites	true	Longchuen, Chehkiang	Longchuen, Chekiang	Longchuen																																	
+Longheu	8142128	22.679843	114.00534	Inhabited place	Point		https://www.google.com/maps/place/22.679843+114.00534		false	Longheu, Kwangtung	Longheü, Kwangtung	Longheu																																	
+Longthun, Siam							https://www.google.com/maps/place/+	Not found.	true	Longthun, Siam																																			
+Longxuyen						GR_Long Xuyen	https://www.google.com/maps/place/10.3833+105.4167		false	Longxuyen, Cochin China	Longxuyen, Cochin-China	Longxuyen, Cochinchine	Longxuyen Cochin-China	Longxuyen																															
+Longxuyen, Tonkin						GR_Long Xuyen	https://www.google.com/maps/place/+	Longxuyen is in Cochin-China, not in Tonkin	true	Longxuyen, Tonkin																																			
+Lower Perak						GR_Perak	https://www.google.com/maps/place/+		false	Lower Perak																																			
+Lu-ngan-fu	8176882	36.191667	113.1125		Point	GR_Jiao Qu	https://www.google.com/maps/place/36.191667+113.1125	situated in the city of Changzhi	false	Lu-ngan-fu, Shansi																																			
+Luar	7016479	4	97	Autonomous district	Polygon		https://www.google.com/maps/place/4+97	Tgn for region Aceh	true	Luar																																			
+Lucheng	8620154	36.331389	113.224444	Inhabited place	Point		https://www.google.com/maps/place/36.331389+113.224444		false	Lucheng, Shanshe	Lucheng																																		
+Luchow, Szechuen	1070255	28.872391	105.44049	Inhabited place	Point		https://www.google.com/maps/place/28.872391+105.44049	Modern name: Luzhou, Sichuan Province	false	Lucheo, Szechuen																																			
+Lukouchiao, Tientsin	8621074	39.868796	116.277452	Fourth level subdivision	Polygon		https://www.google.com/maps/place/39.868796+116.277452		true	Lukouchiao, Tientsin																																			
+Lunganfu	1070890	32.409336	104.528684	Inhabited place	Point		https://www.google.com/maps/place/32.409336+104.528684	wrong region	true	Lunganfu	Lunganfu, Shansi	Lungan-fu, Shansi																																	
+Lungchingtsun	8627158	42.771389	129.423333	Inhabited place	Point		https://www.google.com/maps/place/42.771389+129.423333		false	Lungchingtsun																																			
+Lungchow	7001881	22.4	106.9833	Inhabited place	Point		https://www.google.com/maps/place/22.4+106.9833	via map	true	Lungchow	Lungko	Lungkow																																	
+Macao	7005019	22.1667	113.55	Semi-independent political entity	Polygon		https://www.google.com/maps/place/22.1667+113.55		false	Macao	Macáo	Macoa																																	
+Macassar	1078833	-5.15	119.4667	Inhabited place	Point		https://www.google.com/maps/place/-5.15+119.4667	New from 1973 draft	true	Macassar	Maccassar																																		
+Mae Klong	1085673	13.4167	100.0167	Inhabited place	Point		https://www.google.com/maps/place/13.4167+100.0167		false	Mekhlong, Siam	Mae Klong																																		
+Maebashi	1080705	36.4	139.0667	Inhabited place	Point		https://www.google.com/maps/place/36.4+139.0667		false	Maebashi, Japan	Maebashi																																		
+Magallanes	1084388	12.8167	123.8667	Inhabited place	Point		https://www.google.com/maps/place/12.8167+123.8667		false	Magallanes Philippines	Magallanes																																		
+Malabon, Manila	7668779	14.669345	120.958164	Special city	Point		https://www.google.com/maps/place/14.669345+120.958164		false	Malabon, Manila	Malabon																																		
+Malacca	1001899	2.25	102.25	State (political division)	Polygon		https://www.google.com/maps/place/2.25+102.25		false	Malacca	Malacca.																																		
+Malay Peninsula	7018618	6	102	Peninsula	Polygon		https://www.google.com/maps/place/6+102	General Geographic Area	false	Malay Peninsula																																			
+Malaya	1000128	2.5	112.5	Nation	Polygon		https://www.google.com/maps/place/2.5+112.5		false	Malaya																																			
+Manchuria	7016767	42	126	General region	Polygon		https://www.google.com/maps/place/42+126	Historical Region in N.E. China	false	Manchuria																																			
+Manila	7003706	14.6167	120.9667	Inhabited place	Point		https://www.google.com/maps/place/14.6167+120.9667		false	Manila.	Manila, P.I.	Man'l	Man’l	Manlia	Manila	Alanila	Mainla																												
+Matang, Perak		4.847163	100.693826		Polygon		https://www.google.com/maps/place/4.847163+100.693826	No TGN Exists, but it exists on maps/near Taiping	true	Matang, Perak																																			
+Matsue	7004638	35.4833	133.0667	Inhabited place	Point		https://www.google.com/maps/place/35.4833+133.0667		false	Matsue, Japan	Matsue																																		
+Matsumoto	7004653	36.3	137.9667	Inhabited place	Point		https://www.google.com/maps/place/36.3+137.9667		false	Matsumoto, Japan	Matsumoto																																		
+Matsuyama	7004655	33.8333	132.7833	Inhabited place	Point		https://www.google.com/maps/place/33.8333+132.7833		false	Matsuyama, Japan																																			
+Medan	1078112	3.5833	98.65	Inhabited place	Point		https://www.google.com/maps/place/3.5833+98.65		false	Medan	Medan, Perak	Medan, S’tra.	Medan, Sumatra	Medin	Medan Sumatra																														
+Meng-tzu	7001884	23.3333	103.35	Inhabited place	Point	GR_Mengtsz	https://www.google.com/maps/place/23.3333+103.35		true	Mêngtszu	Mêngtzu	Mongtszu																																	
+Mengtsz	8620192	23.360024	103.43684	Inhabited place	Point	GR_Mengtsz	https://www.google.com/maps/place/23.360024+103.43684		false	Mengtsz	Mêngtsz	Mengtszu	Mengtzu																																
+Mindanao	7016744	6.5	125	Island (landform)	Polygon		https://www.google.com/maps/place/6.5+125		false	Mindanao, Philippines																																			
+Miyazaki	1140503	35.9333	136.0833	Inhabited place	Point		https://www.google.com/maps/place/35.9333+136.0833		false	Miyazaki, Japan																																			
+Moji	7004636	33.8667	130.8167	Inhabited place	Point		https://www.google.com/maps/place/33.8667+130.8167	Moji is a district in the city Kitakyūshū	false	Moji	Moji, Japan	Moji, Japon																																	
+Mokpo	7002226	34.7833	126.3833	Inhabited place	Point		https://www.google.com/maps/place/34.7833+126.3833		false	Mokpo, Corea																																			
+Molin	8074297	22.244288	112.604125	Inhabited place	Point		https://www.google.com/maps/place/22.244288+112.604125	Molin, Canton/Guangdong/Kwangtung	false	Moilim, Kwangtung	Moilin, Kwangtung	Molim, Kwangtung																																	
+Mongolia	7029379	46	105	Nation	Polygon		https://www.google.com/maps/place/46+105		false	Mongolia																																			
+Muangnan		18.775833	100.773541		Point		https://www.google.com/maps/place/18.775833+100.773541		false	Muangnan, Siam	Muangnan																																		
+Muar	1082880	2.0167	102.5833	Inhabited place	Point		https://www.google.com/maps/place/2.0167+102.5833		false	Muar, Johore	Muar																																		
+Mui-ngoc, Tonkin	1087175	21.5333	107.9667	Inhabited place	Point		https://www.google.com/maps/place/21.5333+107.9667	Near Móng Cái, Vietnam (1087175)	true	Mui-ngoc, Tonkin																																			
+Mukden	7016661	41.792222	123.432778	Inhabited place	Point		https://www.google.com/maps/place/41.792222+123.432778		false	Moukden	Mukden	Makden	M'den	M’den.	Muklen	Mukolen	Mudken	Moukden, Manchuria																											
+Mytho	1087179	10.35	106.35	Inhabited place	Point		https://www.google.com/maps/place/10.35+106.35		false	Mytho, Cochinchine	Mytho, Cochin China	Mytho, Cochin-China	Mythó, Cochin-China																																
+Nagasaki	7004735	32.75	129.8667	Inhabited place	Point		https://www.google.com/maps/place/32.75+129.8667		false	Nagasaki	N’saki																																		
+Nagoya	7004736	35.1333	136.8833	Inhabited place	Point		https://www.google.com/maps/place/35.1333+136.8833		false	Nagoya	Nagoya, Japan																																		
+Naguilian	1084483	17.0667	121.8	Inhabited place	Point		https://www.google.com/maps/place/17.0667+121.8		false	Naiguilian, Philippines																																			
+Nakatsu	7004738	33.6167	131.1833	Inhabited place	Point		https://www.google.com/maps/place/33.6167+131.1833	Uncertain: there are two other places with the same name	true	Nakatsu, Japan																																			
+Nakayama	1080955	33.6333	132.7	Inhabited place	Point		https://www.google.com/maps/place/33.6333+132.7		false	Nakayama, Japan	Nakayama																																		
+Namdinh	1087182	20.4167	106.1667	Inhabited place	Point		https://www.google.com/maps/place/20.4167+106.1667		false	Namdinh, Tonkin	Nandinh, Tonkin	Nam Dinh, Tonkin																																	
+Namhung	1070667	25.2333	114.3333	Inhabited place	Point		https://www.google.com/maps/place/25.2333+114.3333		false	Namhyung, Kwangtung																																			
+Nanchang-fu	7001477	28.683333	115.883333	Inhabited place	Point		https://www.google.com/maps/place/28.683333+115.883333		false	Nanchanfu, Kiangsi																																			
+Naniwa Jogakko	1005163	34.65	135.5	Neighborhood	Point		https://www.google.com/maps/place/34.65+135.5	Neighbourhood in Osaka - Proabably	false	Naniwa Jogakko, Japan																																			
+Nanking	7001892	32.061667	118.777778	Inhabited place	Point		https://www.google.com/maps/place/32.061667+118.777778		false	Nanking	Nankng	Nantziang, Kiangsu	Nantziang, Kiangtzu																																
+Nanning	7001891	22.816667	108.316667	Inhabited place	Point	GR_Nanning	https://www.google.com/maps/place/22.816667+108.316667	via map	false	Nanning																																			
+Negri Sembilan	1001907	2.75	102.166667	State (political division)	Polygon		https://www.google.com/maps/place/2.75+102.166667		false	Negri Sembiban	Negri Sembilam	Negri Sembilan	Negri Semblian	Negri Sernbilan	N. Sembilan	Negri S'lan	Negri Semhilan																												
+Newchang	7002219	40.664823	122.228329	Inhabited place	Point		https://www.google.com/maps/place/40.664823+122.228329	Modern name is: Yingkou, Liaoning Province	false	Newchang	Newchwang	Newcliwang	Newehwang																																
+Nganking						GR_Anking	https://www.google.com/maps/place/30.513646+117.047234		false	Nganking	Ngankin	Nganking, Anhwei																																	
+Nganluhfu, Hupeh							https://www.google.com/maps/place/+	not found	true	Nganluhfu, Hupeh																																			
+Nghe An, Annam	7594829	19.25	104.916667	Province	Polygon		https://www.google.com/maps/place/19.25+104.916667	Province in north/central Vietnam	true	Nghean, Annam																																			
+Ngoc Duong, Tonkin		22.842097	105.01499		Point		https://www.google.com/maps/place/22.842097+105.01499	Ngoc Duong is in central Hà Giang province (TGN: 7594818)	false	Ngoeduong, Tonkin																																			
+Nha-trang, Annam	7016912	12.248089	109.19436	Inhabited place	Point	GR_Nhatrang	https://www.google.com/maps/place/12.248089+109.19436		false	Nha-trang, Annam	Nha Trang	Nhatrang	Nhatrang, Annam																																
+Nhatrang, Tonkin						GR_Nhatrang	https://www.google.com/maps/place/12.248089+109.19436		true	Nhatrang, Tonkin																																			
+Nibong Tebal	1082884	5.2	100.4667	Inhabited place	Point		https://www.google.com/maps/place/5.2+100.4667		false	Nibong Tebal, Province Wellesley South																																			
+Nicolajewsk, Eastern Siberia	1057527	53.1667	140.7333	Inhabited place	Point		https://www.google.com/maps/place/53.1667+140.7333		false	Nicolajewsk, Eastern Siberia	Nicolajefsk	Nicolajewsk	Nicolajewsk, Siberia																																
+Niigata	7004740	37.9667	139.0333	Inhabited place	Point		https://www.google.com/maps/place/37.9667+139.0333		false	Niigata, Japan	Niigata																																		
+Nikolsk	1060741	43.8	131.9833	Inhabited place	Point		https://www.google.com/maps/place/43.8+131.9833	There are two more places in Russia with this name, but both out of Siberia	false	Nikolsk	Nikolsk, Eastern Siberia	Nikolsk, Siberia	Nicolsk, Siberia	Nicolsk	Nicolsk, Eastern Siberia																														
+Ninghai	8631657	37.60277	118.396165	Fourth level subdivision	Polygon		https://www.google.com/maps/place/37.60277+118.396165		false	Ninghai	Ninghai, Shantung																																		
+Ninghai, Chehkiang	1070726	29.289167	121.424722	Inhabited place	Point		https://www.google.com/maps/place/29.289167+121.424722		false	Ninghai. Chehkiang																																			
+Ningpo	7023881	29.878186	121.549453	Inhabited place	Point		https://www.google.com/maps/place/29.878186+121.549453		false	Ningpo																																			
+Ninh-binh, Tonkin	1087190	20.25	105.9833	Inhabited place	Point		https://www.google.com/maps/place/20.25+105.9833		false	Ninhbinh, Tonkin	Ninhdinh, Tonkin	Ninbinh, Tonkin																																	
+Ninh-hoa, Annam	1087191	12.4667	109.1167	Inhabited place	Point		https://www.google.com/maps/place/12.4667+109.1167		false	Ninh-hoa, Annam																																			
+Ninhcuong, Tonkin		20.194389	106.206921		Point		https://www.google.com/maps/place/20.194389+106.206921	Located in Nam Dinh province (TGN: 7594828)	false	Ninhcuong, Tonkin Central																																			
+North China						GR_China	https://www.google.com/maps/place/+	Not very specific - Coordinates possibly futile	true	North China																																			
+North Kiangsi						GR_Kiangsi	https://www.google.com/maps/place/+		true	North Kiangse																																			
+Northern Hunan						GR_Hunan	https://www.google.com/maps/place/+		true	Northern Hunan																																			
+Novokiefsh, Siberia		51.665316	128.920798		Point		https://www.google.com/maps/place/51.665316+128.920798	Located in the Amur[skaya] Oblast (TGN: 1003354) under the modern name: "Novokiyevskiy Uval"	false	Novokiefsh, Siberia	Nowokieffsk, Siberia																																		
+Nueva Caceres	1140740	13.619	123.169	Inhabited place	Point		https://www.google.com/maps/place/13.619+123.169		false	Nueva Caceres, Philippines	Nueva Caceres																																		
+Nyenhangli, Kwangtung		23.799206	115.462014		Point		https://www.google.com/maps/place/23.799206+115.462014	Located in Guangdong/Canton Province: Its modern Chinese name is "Yuankeng", but highly uncertain. see https://books.google.ch/books?id=pyO57ibiyHMC&pg=PA102&lpg=PA102&dq=Nyenhangli,+Kwangtung&source=bl&ots=2kLQlRlDkb&sig=ACfU3U3bF6UPgYCALp6SuklxGtzfSrXnUA&hl=de&sa=X&ved=2ahUKEwjdm-W1sZfmAhVDUlAKHQTAAAcQ6AEwBXoECAoQAQ#v=onepage&q=Nyenhangli%2C%20Kwangtung&f=false	true	Nyenhangli, Kwangtung																																			
+Oita, Japan	7004859	33.25	131.6	Inhabited place	Point		https://www.google.com/maps/place/33.25+131.6		false	Oita, Japan																																			
+Okayama	7004752	34.6667	133.9	Inhabited place	Point		https://www.google.com/maps/place/34.6667+133.9		false	Okayama, Japan	Okayama																																		
+Osaka	7004756	34.6667	135.5	Inhabited place	Point		https://www.google.com/maps/place/34.6667+135.5		false	Osaka	Osaka, Japan																																		
+Otaru	1081133	43.2333	140.9833	Inhabited place	Point		https://www.google.com/maps/place/43.2333+140.9833		false	Otaru	Otaru, Japan																																		
+P'ang-chuang	8275870	35.658	118.55	Inhabited place	Point		https://www.google.com/maps/place/35.658+118.55	two possibilities 8275870 or 8288178	false	P'ang-chuang, Shantung	P'ang-chuang																																		
+Pacheo, Szechuen							https://www.google.com/maps/place/+	Somewhere in Sichuan Province (TGN: 7002087)	true	Pacheo, Szechuen																																			
+Padang		-0.95	100.353056		Point		https://www.google.com/maps/place/-0.95+100.353056	via map	false	Padang	P’dang																																		
+Padang Rengas, Perak		4.776155	100.840613		Point		https://www.google.com/maps/place/4.776155+100.840613	ca. 2km west of Kuala Kangsar (TGN: 1082810)	false	Padang Rengas, Perak																																			
+Pahang	7016759	3.5	102.75	State (political division)	Polygon		https://www.google.com/maps/place/3.5+102.75		false	Pahang	Ulu Pahang																																		
+Pakeo, Chihli							https://www.google.com/maps/place/+	Somewhere in Hebei Province (TGN: 7002077); not found yet	true	Pa-keo, Chili	Pakeo, Chihli																																		
+Pakhoi	7001894	21.483333	109.1	Inhabited place	Point		https://www.google.com/maps/place/21.483333+109.1		false	Pakhoi	Pakaoi																																		
+Paknampho, Siam		15.6833	100.1167		Point		https://www.google.com/maps/place/15.6833+100.1167	Pak Nam Pho Sub-district is a part of Nakhon Sawan (TGN: 108559)	false	Paknampho, Siam																																			
+Palembang	7016481	-2.9833	104.75	Inhabited place	Point		https://www.google.com/maps/place/-2.9833+104.75		false	Palembang																																			
+Pampanga	1001482	15.069	120.69	Province	Polygon		https://www.google.com/maps/place/15.069+120.69		false	Pampanga, Philippines	Pampanga	Pampangor, Philippines																																	
+Pang-hai, Kweichow	8624774	26.7314	108.059	Fourth level subdivision	Polygon		https://www.google.com/maps/place/26.7314+108.059	Modern-day Panghai Zhen, Guizhou Province	false	Pang-hai, Kweichow																																			
+Pao-ning, Szechuen						GR_Pao-ning-fu	https://www.google.com/maps/place/31.55037+105.99381	Modern-day Langzhong, Sichuan Province	false	Pao-ning, Szechuen	Paoning-fu, Szechuen	Paoning, Szechuen																																	
+Pao-ning-fu	8209945	31.55037	105.99381	Inhabited place	Point	GR_Pao-ning-fu	https://www.google.com/maps/place/31.55037+105.99381		false	Paoningfu, Szechuen																																			
+Pao-t’eo, Mongolia	1068755	40.810556	111.652222	Inhabited place	Point		https://www.google.com/maps/place/40.810556+111.652222	Actually in "Inner Mongolia" (China); nowadays it's called "Hohhot" (Formerly also Kweisui).	false	Pao-t’eo, Mongolia																																			
+Paotingfu, North China	1066765	38.851111	115.490278	Inhabited place	Point		https://www.google.com/maps/place/38.851111+115.490278	Nowadays "Baoding", Hebei	false	Paotingfu, North China	Paoting-fu, Chihli																																		
+Papar	1082897	5.7333	115.9167	Inhabited place	Point		https://www.google.com/maps/place/5.7333+115.9167		false	Papar, British North Borneo																																			
+Patatan		5.916667	116.116667		Point		https://www.google.com/maps/place/5.916667+116.116667		false	Patatan, British North Borneo																																			
+Pawlinoffsk, Eastern Siberia	7014810	53.05	158.7167	Inhabited place	Point		https://www.google.com/maps/place/53.05+158.7167	Possibly refers to what is now Pertopavlovsk-Kamchatskiy (TGN: 7014810), but very uncertain	true	Pawlinoffsk, E. Siberia	Pawlinoffsk, Eastern Siberia																																		
+Peiping	7001758	39.928819	116.388869	Inhabited place	Point		https://www.google.com/maps/place/39.928819+116.388869		false	Peiping	Peping	Peiping ’ g	Peking	Pekng	Pekin																														
+Pekan, Pahang	1082906	3.4833	103.3833	Inhabited place	Point		https://www.google.com/maps/place/3.4833+103.3833		false	Pekan, Pahang																																			
+Penang	7018057	5.32623	100.321579	State (political division)	Polygon		https://www.google.com/maps/place/5.32623+100.321579		false	Penang	Penang.	Penang, S.S.	Penasg	Pennag																															
+Perak	7016763	5	101	State (political division)	Polygon	GR_Perak	https://www.google.com/maps/place/5+101		false	Perak	Peaak	Peark																																	
+Perlis	7016762	6.502948	100.24598	State (political division)	Polygon		https://www.google.com/maps/place/6.502948+100.24598		false	Perlis																																			
+Petchaburee	7000942	12.9667	99.5833	Province	Polygon		https://www.google.com/maps/place/12.9667+99.5833		false	Petchaburee, Siam																																			
+Petrieu		13.616667	101.416667		Point		https://www.google.com/maps/place/13.616667+101.416667		false	Petrieu, Siam																																			
+Phan-thiet, Annam	1087194	10.9333	108.1	Inhabited place	Point		https://www.google.com/maps/place/10.9333+108.1		false	Phanthiet, Annam																																			
+Phanrang, Annam	7016913	11.564315	108.988581	Inhabited place	Point		https://www.google.com/maps/place/11.564315+108.988581		false	Phanrang, Annam	Padaran, Phanrang, Annam																																		
+Phatdiem		20.092289	106.086366		Point		https://www.google.com/maps/place/20.092289+106.086366		false	Phatdiem, Tonkin	Phatdiem																																		
+Phatdien, Tonkin	1087195	20.1	106.1167	Inhabited place	Point		https://www.google.com/maps/place/20.1+106.1167		false	Phatdien, Tonkin																																			
+Philippines	1000135	13	122	Nation	Polygon		https://www.google.com/maps/place/13+122		false	P. I.	P.I.	P.l.	P I.	Philippines	Philippi	Philipines	Philippii																												
+Phnompenh	7004076	11.5833	104.9167	Inhabited place	Point	GR_Phnompenh	https://www.google.com/maps/place/11.5833+104.9167		false	Phnompenh	Phnompenh, Cambodge	Phnompenh, Cambodia	Phnompent, Cambodia	Phompenh, Cambodia		Pnompenh, Cambodge	Pnompenh, Cambodia																												
+Phnompenh, Cochin China						GR_Phnompenh			false	Phnompenh, Cochin China																																			
+Phu-ly, Tonkin	1087201	20.545	105.912	Inhabited place	Point		https://www.google.com/maps/place/20.545+105.912		false	Phuly, Tonkin																																			
+Phu-nhai, Tonkin Central		20.299957	106.362888		Point		https://www.google.com/maps/place/20.299957+106.362888	Lies in Nam Dinh Province (TGN: 7594828)	false	Phunhai, Tonkin Central																																			
+Phu-yen, Annam	1087207	21.25	104.65	Inhabited place	Point		https://www.google.com/maps/place/21.25+104.65		false	Phu-yen, Annam	Phuyen, Annam																																		
+Phuc-nhac, Tonkin		20.162076	106.07991		Point		https://www.google.com/maps/place/20.162076+106.07991	Lies in Nihn Binh Province (TGN: 7594830)	false	Phuc-nhac, Tonkin																																			
+Phulang-thuong	1087048	21.2667	106.2	Inhabited place	Point		https://www.google.com/maps/place/21.2667+106.2	Today: Bac Giang (https://fr.wikipedia.org/wiki/B%E1%BA%AFc_Giang)	false	Phulang-thuong	Phulang-thuong, Tonkin	Phulangthuong, Tonkin	Phulang-thuang, Tonkin	Phulang-Thuang,Tonkin	Phulang-Thuong, Tonkin																														
+Pingtu	1070858	36.784444	119.946389	Inhabited place	Point		https://www.google.com/maps/place/36.784444+119.946389		false	Pingtu, Shantung																																			
+Pingyangfu, Shansi	1069846	36.088889	111.518889	Inhabited place	Point		https://www.google.com/maps/place/36.088889+111.518889		false	Pingyang-fu, Shansi	Pingyangfu Shansi	Ping-yan-fu, Shansi	Pingyang	Ping Yang-foo, Shansi	Ping-yang-fu, Shansi																														
+Pingyao, Shansi	1139436	37.2025	112.178056	Inhabited place	Point		https://www.google.com/maps/place/37.2025+112.178056		false	Pingyao, Shansi																																			
+Port Arthur	7002202	38.8	121.266667	Inhabited place	Point		https://www.google.com/maps/place/38.8+121.266667	Today: Lüshun	false	Port Arthur	Port Arthur, North China	Port Authur																																	
+Port Dickson	1082920	2.5167	101.8	Inhabited place	Point		https://www.google.com/maps/place/2.5167+101.8		false	Port Dickson	Port Dickson, N. Sembilan																																		
+Port Edward						GR_Weihaiwei	https://www.google.com/maps/place/37.509136+122.113557	Port in Weihaiwei	false	Port Edward																																			
+Port Swettenham		3	101.4		Point		https://www.google.com/maps/place/3+101.4		false	Port Swettenham	Pt. Swettenham	Pt., Swettenham																																	
+Possiet, Siberia	1058618	42.65	130.7833	Inhabited place	Point		https://www.google.com/maps/place/42.65+130.7833	Also spelt "Posyet"	false	Possiet, Siberia																																			
+Poulo Condore, Cochinchina	1009946	8.7	106.5833	Island (landform)	Polygon		https://www.google.com/maps/place/8.7+106.5833	The modern name for these islands is: Đảo Côn Sơn	false	Poulo Condore, Cochin China																																			
+Prey-veng, Cambodia	1066426	11.4833	105.3167	Inhabited place	Point		https://www.google.com/maps/place/11.4833+105.3167		false	Prey-veng, Cambodge																																			
+Province Wellesley, Penang		5.371611	100.413161		Point		https://www.google.com/maps/place/5.371611+100.413161	Area Known today by the Malaysian name "Seberang Perai", it forms the other, mainland half of Penang (TGN: 7018057), adjacent to Penang Island.	true	Province Wellesley																																			
+Pursat	1066422	12.5333	103.9167	Inhabited place	Point	GR_Pursat	https://www.google.com/maps/place/12.5333+103.9167	in Cambodia not Vietnam	false	Pursat	Pursat, Cambodge	Pursat, Cambodia	Pursat, Cambodia																																
+Pursat, Cochinchine						GR_Pursat			true	Pursat, Cochinchine																																			
+Pyongyang, Korea	7001329	39.019	125.754	Inhabited place	Point		https://www.google.com/maps/place/39.019+125.754		false	Pyeng Yang, Corea																																			
+Quananh, Tonkin							https://www.google.com/maps/place/+	Not Found	true	Quananh Tonkin																																			
+Quang Binh, Annam	7594834	17.5	106.333333	Province	Polygon		https://www.google.com/maps/place/17.5+106.333333	Refers to a Province	false	Quangbinh, Annam																																			
+Quang Ngai	1087217	15.15	108.8333	Inhabited place	Point		https://www.google.com/maps/place/15.15+108.8333		true	Nam-ngai, Annam																																			
+Quang Yen, Tonkin							https://www.google.com/maps/place/+	3 possibilities in North Vietnam, the largest of which is near Hai Phong, but has no TGN, (20.938379, 106.796402)	true	Quangyen, Tonkin	Quang Yen, Tonkin	Quang-yen, Tonkin	Quanyen, Tonkin																																
+Qui Nhon, Annam	7004241	13.7833	109.1833	Inhabited place	Point		https://www.google.com/maps/place/13.7833+109.1833		false	Quinhon, Annam																																			
+Quiapo	7003706				Point		https://www.google.com/maps/place/+	Quiapo is a district of Manila	true	Quiapo, Manila																																			
+Quop, Sarawak		1.409278	110.366966		Point		https://www.google.com/maps/place/1.409278+110.366966	No TGN, but rather clear, but small location: Kampung Kuap	false	Quop, Sarawak																																			
+Rachgia	1087222	10.012	105.13	Inhabited place	Point	GR_Rachgia	https://www.google.com/maps/place/10.012+105.13		false	Rachgia	Rachgia, Cochin-China																																		
+Rachgia, Cambodge						GR_Rachgia			true	Rachgia, Cambodge																																			
+Raheng, Siam	7000970	16.5833	98.8333	Province	Polygon		https://www.google.com/maps/place/16.5833+98.8333	Likely refers to the province, nowadays called "Tak"	false	Raheng, Siam																																			
+Rajaburi, Siam	7000943	13.5833	99.5333	Province	Polygon		https://www.google.com/maps/place/13.5833+99.5333	Ratchaburi Province is listed here, but there is also a city by a similar name	false	Rajaburee, Siam																																			
+Rajang, Sarawak	1128986	null	null	River	Polygon		https://www.google.com/maps/place/null+null	Uncertain where precisely this refers to; the river in Sarawak has a TGN, but it's not clear if it refers to Sibu, the only major settlement on the river or just the sub-region	true	Rejang, Sarawak																																			
+Rangoon	7002152	16.7833	96.1667	Inhabited place	Point		https://www.google.com/maps/place/16.7833+96.1667		false	Rangoon																																			
+Rasdolnoc							https://www.google.com/maps/place/+	multiple possibilites	true	Rasdolnoc, Eastern Siberia	Rasdolnoc																																		
+Raub	1082925	3.9	101.7833	Inhabited place	Point		https://www.google.com/maps/place/3.9+101.7833		false	Raub	Raub, Pahan																																		
+Rawang	1082926	3.3333	101.5667	Inhabited place	Point		https://www.google.com/maps/place/3.3333+101.5667		false	Rawang, Selangor	Rawang																																		
+Robe							https://www.google.com/maps/place/+	uncertain, Kobe is the closest possibility	true	Robe																																			
+Sa Ky, Annam		15.215194	108.914528		Point		https://www.google.com/maps/place/15.215194+108.914528	Highly uncertain, but possiby "Sa Kỳ" (15.215194, 108.914528)	true	Saky, Annam																																			
+Sa-dec, Cochinchine	1087224	10.3	105.7667	Inhabited place	Point		https://www.google.com/maps/place/10.3+105.7667		false	Sadec, Cochinchine																																			
+Saga	7004890	33.2667	130.3	Inhabited place	Point		https://www.google.com/maps/place/33.2667+130.3		false	Saga	Saga, Japan																																		
+Sagalien	7019034	null	null	Island (landform)	Polygon		https://www.google.com/maps/place/null+null	https://en.wikipedia.org/wiki/Sakhalin	true	Sagalien	Sagalien, Siberia																																		
+Sahnynh, Annam							https://www.google.com/maps/place/+	Highly uncertain: Possibly "Sanh Ngân" (13.980695, 108.986943) or less likely some derivative of "Khe Sahn"	true	Sahnynh, Annam																																			
+Saigoi, Tibet	8179428	29.104	88.504	Inhabited place	Point		https://www.google.com/maps/place/29.104+88.504	There is a small possibility that it is a typo/mispelling of Saigon	true	Saigoi																																			
+Saigon	7001069	10.75	106.6667	Inhabited place	Point		https://www.google.com/maps/place/10.75+106.6667		false	Saigen	Saigon	Saigon.	Saig	Sagion	Saigan	Siagon																													
+Saigou	8500920	34.995571	111.984558	Inhabited place	Point		https://www.google.com/maps/place/34.995571+111.984558		false	Saigou																																			
+Sakan, Annam							https://www.google.com/maps/place/+	Not found.	true	Sakan, Annam																																			
+Samshui	7018121	23.172804	112.833545	Inhabited place	Point		https://www.google.com/maps/place/23.172804+112.833545		false	Samshui																																			
+Sandakan	1082935	5.8667	118.0667	Inhabited place	Point		https://www.google.com/maps/place/5.8667+118.0667		false	Sandakan	Sandakan, B. N. B.	Sandakan, B. N. Borneo	Sandakan, British North Borneo	Sandaken	Sandakan, B. N. B	Sandakan, British North B'neo	Sandakan, B.N.B.	Sandakan, British N. Borneo	Samdakan	Sandakan, British N. Bornoe																									
+Santuao	6005244	26.641	119.677	Inhabited place	Point		https://www.google.com/maps/place/26.641+119.677		false	Santuao																																			
+Sapporo	7004805	43.0833	141.35	Inhabited place	Point		https://www.google.com/maps/place/43.0833+141.35		false	Sapporo, Japan																																			
+Sarawak	1001952	2.5	113.5	State (political division)	Polygon		https://www.google.com/maps/place/2.5+113.5		false	Sarawak	Sarwrak																																		
+Sebetan		1.7894	111.360498		Polygon		https://www.google.com/maps/place/1.7894+111.360498		true	Sebetan, Sarawak	Sebetan																																		
+Selangor	7016804	3.166667	101.5	State (political division)	Polygon		https://www.google.com/maps/place/3.166667+101.5		false	Selanger	Selangor	S'ger	S’gor	Selangor.	F.M.S. Selanor	Selangor,	Selangor, F. M. S.	Selangr																											
+Semarang	1078528	-6.9667	110.4833	Inhabited place	Point		https://www.google.com/maps/place/-6.9667+110.4833		false	Semarang	Semerang																																		
+Sendai	7004809	38.2667	140.8667	Inhabited place	Point		https://www.google.com/maps/place/38.2667+140.8667	There is a small possibility for this to be confused with Satsumasendai	true	Sendai, Japan																																			
+Seoul	7002223	37.5333	127	Inhabited place	Point		https://www.google.com/maps/place/37.5333+127		false	Seoul	Seoul.	Seoul, Corea	Seoul, Korea																																
+Sepang District		2.75	101.666667		Polygon		https://www.google.com/maps/place/2.75+101.666667		false	Sepang District	Sepang, Selangor																																		
+Serangoon	1084941	1.3833	103.9167	Inhabited place	Point		https://www.google.com/maps/place/1.3833+103.9167		false	Serangoon																																			
+Seremban	1082951	2.7	101.9	Inhabited place	Point		https://www.google.com/maps/place/2.7+101.9	Was founded as Sungei Ujong (https://en.wikipedia.org/wiki/Seremban)	false	Seramban	Seremban	Sungei Ujong	Sungei LTjong	Sungci Ujong	Seremban, Negri Sembilan	Sungoi Ujong																													
+Setapak	1082953	3.1833	101.7	Inhabited place	Point		https://www.google.com/maps/place/3.1833+101.7		false	Sepatak, Selangor	Setapak, Selangor	Setapak																																	
+Shan Hai Kwan	1071515	40.0025	119.748889	Inhabited place	Point		https://www.google.com/maps/place/40.0025+119.748889		false	Shan Hai Kwan	Shan-hai-kwan																																		
+Shang-szu						GR_Nanning	https://www.google.com/maps/place/22.816667+108.316667	seems to be a district of Nanning	true	Shang-szu, Kwangso	Shang-szu																																		
+Shanghai	7023856	31.222222	121.458056	Inhabited place	Point	GR_Shanghai	https://www.google.com/maps/place/31.222222+121.458056		false	Shangai	Shangha	Shanghag	Shanghai	Shanghai.	Shanghai hai	Shangihai	Shanhai	S'hai	S'hai.	S’hai	S’hai.	Shahgeai	Shanghui	Slianghai	Shangl	Shnaghai	Shangliai	Shang	Shaanghai	Shitngliai	Shangnai	Shganhai	Shang’	Shanghai,	Shsnghai	Shagnhai	Shanghai '	Sh anghai							
+Shanghai (abt.)						GR_Shanghai			false	Shanghai (abt.)																																			
+Shangtung	8574670	28.453934	120.395417	Inhabited place	Point		https://www.google.com/maps/place/28.453934+120.395417	Most probably this referes to: Shangdong, Zhejiang Province (But not necessarily)	true	Shangtung																																			
+Shansi	7002086	37.666667	112.25	Province	Polygon		https://www.google.com/maps/place/37.666667+112.25	many possibilities Region / inhabited places	true	Shansi																																			
+Shantung	7002085	36.333333	118.25	Province	Polygon		https://www.google.com/maps/place/36.333333+118.25	Uncertain without more info: Could refer to Shandong Province (TGN: 7002085), but cannot really be sure.	true	Shantung																																			
+Shaohing, Chekiang Province	1071553	30.011019	120.571528	Inhabited place	Point		https://www.google.com/maps/place/30.011019+120.571528		false	Shaohing, Chekiang	Shaohing, Chekiang Province	Shaohsing, Chekiang Province																																	
+Shaowu, Fokien Province	1071552	27.340891	117.483096	Inhabited place	Point		https://www.google.com/maps/place/27.340891+117.483096		false	Shaowu, Fokien Province																																			
+Shasi	1071559	30.307222	112.244722	Inhabited place	Point		https://www.google.com/maps/place/30.307222+112.244722		false	Shasi	Shasì																																		
+Shek-hing, Kwangse							https://www.google.com/maps/place/+	Not Found (Somewhere in Guangxi Province seemingly)	true	Shek-hing, Kwangse																																			
+Shensi	7002084	35.25	109.25	Province	Polygon		https://www.google.com/maps/place/35.25+109.25	Shaanxi Province	false	Shensi																																			
+Shimonoseki	7004468	33.9833	130.9667	Inhabited place	Point		https://www.google.com/maps/place/33.9833+130.9667		false	Shimonoseki																																			
+Shizuoka	1001031	35.025216	138.325424	Prefecture	Polygon		https://www.google.com/maps/place/35.025216+138.325424		false	Shidzuoka																																			
+Shizuoka, Japan	7004816	34.9833	138.4	Inhabited place	Point		https://www.google.com/maps/place/34.9833+138.4		false	Shidzuaka, Japan	Shidzuoka, Japan																																		
+Shou-yang-hsien, Shansi	1071787	37.908013	113.150438	Inhabited place	Point		https://www.google.com/maps/place/37.908013+113.150438		false	Sheo-yang-hsien, Shansi	Sheoyanghsien, Shansi	Sheoyanghsien, Shensi																																	
+Si-ngan-fu, Shensi	7001810	34.258333	108.928611	Inhabited place	Point		https://www.google.com/maps/place/34.258333+108.928611	Xi'an, Shaanxi Province is the modern name	false	Si-gan, Shensi	Si-ngan, Shensi	Si-ngan district, Shensi	Si-ngan-fu	Si-ngan-fu, Shensi	Singan, Shensi	Si-ngan district, Shen-si																													
+Siam	1000142	15	100	Nation	Polygon		https://www.google.com/maps/place/15+100		false	Siam	Siam f																																		
+Siang-hsien, Honam	8697449	34.83107	126.09872	Second level subdivision	Polygon		https://www.google.com/maps/place/34.83107+126.09872	Uncertain, but highly likely it can be found on this South Korean Island	true	Siang-hsien, Honam																																			
+Siang-hsien, Honan	1072787	28.666667	112.883333	Inhabited place	Point		https://www.google.com/maps/place/28.666667+112.883333	Uncertain, but quite likely to refer to Siangyinhsien or modern Wenxing, Hunan province	true	Siang-hsien, Honan																																			
+Siaomei, Chekiang	8678526	27.8223	118.969	Fourth level subdivision	Polygon		https://www.google.com/maps/place/27.8223+118.969	Uncertain, but highly probable to be right in this case	true	Siaomei, Chekiang																																			
+Siberia	7011548	null	null	General region	Polygon	GR_Siberia	https://www.google.com/maps/place/null+null	Just the General, very non-specific region	false	Siberia																																			
+Sihcheo, Shansi	1139928	36.695249	110.95564	Inhabited place	Point		https://www.google.com/maps/place/36.695249+110.95564	Uncertain, but highly probable it refers "Sichow" which is now Xi Xian or "Longquan, Shanxi Province"	true	Sihcheo, Shansi	Sihchau, Shansi																																		
+Silay, Philippines	1084649	10.75	122.9833	Inhabited place	Point		https://www.google.com/maps/place/10.75+122.9833		false	Silay, Philippines																																			
+Singapore	7000381	1.3667	103.8	Nation	Polygon		https://www.google.com/maps/place/1.3667+103.8	nation of Singapore	true	Sigapore	Singapora	Singapore	Singapor e	Singapre	Sinpapore	S'pore	S'pore.	S’pore	S’pore.	S’apore	S. E. S’pore	Singapore.	Singap	Sing	Singapr	S'apore	Signapore	Sin’pore	Sinagpore	Singapi	Singapor	Singapoie	Sin'pore	Singagore											
+Singau, Shensi							https://www.google.com/maps/place/+	Unclear: perhaps "Sigou, Shaanxi Province", TGN: 8091989; maybe "Xinangou" 8093876.	true	Singau, Shensi																																			
+Singhi, Sarawak		1.5	110.166667		Point		https://www.google.com/maps/place/1.5+110.166667	No TGN available: Refers to (probably) a small villange somewhere near Mount Singai - a few kilometers Southwest of Kuching	true	Singhi, Sarawak																																			
+Sintientsi		31.899999	105.948812		Point		https://www.google.com/maps/place/31.899999+105.948812	Modern Name: Xindinanzi, Sichuan Province	false	Sintientsi, Szechuen	Sintientsi																																		
+Sitiawan		4.2167	100.7		Polygon		https://www.google.com/maps/place/4.2167+100.7		false	Sitiawan, Perak	Sitiawan																																		
+Soai-Rieng, Cambodge	1066442	11.0833	105.8	Inhabited place	Point		https://www.google.com/maps/place/11.0833+105.8		false	Soai-Rieng, Cambodge																																			
+Soaikieng, Cambodia							https://www.google.com/maps/place/+	Not found.	true	Soaikieng, Cambodia																																			
+Soasia, Fokien							https://www.google.com/maps/place/+	Not found: somewhere in Fujian Province (TGN: 7001796)	true	Soasia, Fokien																																			
+Soctrang, Cochinchine	1087151	9.6	105.9667	Inhabited place	Point		https://www.google.com/maps/place/9.6+105.9667	Modern name: "Khanh Hung"	false	Soctrang, Cochin China	Soctrang, Cochinchine	Soctrang, Cochin-China																																	
+Son-tay, Tonkin	1087230	21.1	105.5333	Inhabited place	Point		https://www.google.com/maps/place/21.1+105.5333		false	Sontay, Tonkin																																			
+Song-cau, Annam	1087231	13.4333	109.2	Inhabited place	Point		https://www.google.com/maps/place/13.4333+109.2		false	Songcau, Annam																																			
+Songkhone, Cochinchine	1082472	17.9667	105.1667	Inhabited place	Point		https://www.google.com/maps/place/17.9667+105.1667	Not found: Possibly this is actually Ban Songkhon, Lao (TGN: 1082472)	true	Songkhone, Cochinchine																																			
+Songpan, Szechuen	8632125	32.639411	103.596829	Inhabited place	Point		https://www.google.com/maps/place/32.639411+103.596829		false	Songpan, Szechuen	Songp'an, Szech'uen																																		
+Soochow	7018059	31.304077	120.59538	Inhabited place	Point		https://www.google.com/maps/place/31.304077+120.59538		false	Soochow	Sooehow																																		
+Sourabaya	7003700	-7.2333	112.75	Inhabited place	Point		https://www.google.com/maps/place/-7.2333+112.75		false	Soerabaya	Sourabaya	Soeralaya	Sourabays	Sourabay																															
+South Kiangse						GR_Kiangsi	https://www.google.com/maps/place/+	The Southern part of Jiangxi Province (TGN: 7002082)	true	South Kiangse																																			
+South Perak						GR_Perak	https://www.google.com/maps/place/+		false	South Perak																																			
+South Tokyo						GR_Tokyo	https://www.google.com/maps/place/+		false	South Tokyo																																			
+Souvang, Tonkin		19.886907	105.461892		Point		https://www.google.com/maps/place/19.886907+105.461892	Very uncertain: possibly Sao Vàng, Thanh Hoa (19.886907, 105.461892)	true	Souvang, Tonkin																																			
+Spassk, Eastern Siberia	1059667	44.6167	132.6167	Inhabited place	Point		https://www.google.com/maps/place/44.6167+132.6167		false	Spassk, Eastern Siberia																																			
+Straits Settlements	8711653	3.65	101.55	Former territory/Colony/Dependent state	Polygon		https://www.google.com/maps/place/3.65+101.55		false	S.S.	S. Settlement	Straits Settlements	S. S.																																
+Stung Treng, Cambodge	7000832	13.75	106.25	Province	Polygon		https://www.google.com/maps/place/13.75+106.25	Province is actually apart of modern Cambodia, and has belonged to Laos in the past; the link to Cochinchina is very strange.	true	Stungtreng, Cochinchine																																			
+Suchan, Eastern Siberia	1058220	43.05	133.0833	Inhabited place	Point		https://www.google.com/maps/place/43.05+133.0833	Modern-day "Partizansk", Primorskiy Kray	false	Sutschan, Eastern Siberia																																			
+Sumatra	7016484	null	null	Island (landform)	Polygon		https://www.google.com/maps/place/null+null		false	Sumatra	Sumtara	Sumtra																																	
+Sungari, Manchuria	1130174	47.709444	132.512222	River	Polygon		https://www.google.com/maps/place/47.709444+132.512222	Uncertain where precisely a settlement by the name of Sungari was located. TGN given refers to the important river in Manchuria now called the "Songhua"	true	Sungari, Manchuria	Soungarie, Manchuria																																		
+Sungkiang, Kiangsu	7001916	31.035948	121.2146	Inhabited place	Point		https://www.google.com/maps/place/31.035948+121.2146	Songjiang is a Suburb of Shanghai	false	Sungkiang, Kiangsu																																			
+Sur de Luzon, Philippines						GR_Ilocos Súr	https://www.google.com/maps/place/17.261+120.533	Sur seems to refer to a Province on the Filippino Island of Luzon which is now called or subsumed within "Ilocos Sur"	false	Sur de Luzon, Philippines																																			
+Swatow	7001917	23.36814	116.71479	Inhabited place	Point		https://www.google.com/maps/place/23.36814+116.71479		false	Swatow	Swalow	Swatovv	Swtaow	Swatotw																															
+Szechuen	7002087	30.5	102.666667	Province	Polygon		https://www.google.com/maps/place/30.5+102.666667		false	Szechuen	Szechuan	Szecliuen	Szeehuen																																
+Szemao	7001918	22.7667	101.0833	Inhabited place	Point		https://www.google.com/maps/place/22.7667+101.0833		false	Szemao																																			
+Süchow-fu, Szechuen	1073501	28.766667	104.623832	Inhabited place	Point		https://www.google.com/maps/place/28.766667+104.623832	Modern name: "Yibin, Sichuan province"	false	Sui-fu, Szechuen	Suchow-fu, Szechuen	Süchow-fu, Szechuen																																	
+T'aian-fu, Shantung	1139661	36.185278	117.12	Inhabited place	Point		https://www.google.com/maps/place/36.185278+117.12	Modern: Taian, Shandong province	false	T'aian-fu, Shantung																																			
+Ta-tong-fu, Shansi	7001922	40.0833	113.4667	Inhabited place	Point		https://www.google.com/maps/place/40.0833+113.4667	Likely refers to "Datong, Shanxi province", but rather uncertain	true	Ta-tong-fu, Shansi																																			
+Tabewie Seoul							https://www.google.com/maps/place/+	two places	true	Tabewie Seoul																																			
+Tabowie	7002229	39.3833	126.0167	Inhabited place	Point		https://www.google.com/maps/place/39.3833+126.0167	seems to be a mine in Unsan North Corea	false	Tabowie, Chosen																																			
+Taegu	7001326	35.8667	128.6	Inhabited place	Point		https://www.google.com/maps/place/35.8667+128.6		true	Taiku, Corea																																			
+Tai-ku, Shansi	1072057	37.426389	112.544167	Inhabited place	Point		https://www.google.com/maps/place/37.426389+112.544167	Modern name is "Mingxing, Shanxi Province"	false	Tai-ku, Shansi	Taiku, Shansi	Taigu	Taiku																																
+Taichow, Chekiang Province	8060477	28.662658	121.433117	Inhabited place	Point		https://www.google.com/maps/place/28.662658+121.433117	Modern: Taizhou, Zhejiang province	false	Taichow, Chekiang Province	Tai-chow-fu, Chekiang																																		
+Taikoku	7004306	25.047	121.525	Inhabited place	Point		https://www.google.com/maps/place/25.047+121.525	For Taihoku	true	Taikoku																																			
+Tainan-fu	7490934	23.15027	120.34194	Special municipality	Polygon		https://www.google.com/maps/place/23.15027+120.34194		false	Tainan-fu, Formosa	Tainanfoo	Tainan-fu	Tainanfu																																
+Taiping	1082974	4.9	100.7	Inhabited place	Point		https://www.google.com/maps/place/4.9+100.7		false	Taipeng, Perak	Perak, Taiping	Taiping, Perak	Thaiping, Perak																																
+Taiping, Kwangtung	8623671	22.769527	111.568818	Inhabited place	Point		https://www.google.com/maps/place/22.769527+111.568818	GR_Luocheng	true	Täiping, Kwangtung	Taiping, Kwangtung																																		
+Taiwanfoo	1085379	24.1469	120.6839	Inhabited place	Point		https://www.google.com/maps/place/24.1469+120.6839	Modern-day Taichung, Taiwan	false	Taiwanfoo																																			
+Taiyuan	7001919	37.869444	112.560278	Inhabited place	Point		https://www.google.com/maps/place/37.869444+112.560278	Taiyuenfu seems to be a neighborhod of Taiyuan	false	Taiyuan	Taiyuenfu, Shansi	Taiyuanfu	Taiyuenfoo, Shansi	Taiyuen-fu, Shansi	Tai-yuen-fu, Shansi																														
+Takamatsu	7004819	34.3333	134.0167	Inhabited place	Point		https://www.google.com/maps/place/34.3333+134.0167		false	Takamatsu, Japan	Takamatsu																																		
+Takow	1085325	22.616256	120.313329	Inhabited place	Point		https://www.google.com/maps/place/22.616256+120.313329		false	Takow																																			
+Taku	1081489	33.2833	130.1333	Inhabited place	Point		https://www.google.com/maps/place/33.2833+130.1333		false	Taku																																			
+Talienwan		38.918007	121.612757		Point		https://www.google.com/maps/place/38.918007+121.612757		false	Talienwan																																			
+Talisay, Isla de Negro, Philippines	1084694	10.25	123.7667	Inhabited place	Point		https://www.google.com/maps/place/10.25+123.7667	Not to be confused with Talisay, Camarines Norte (TGN: 1084694)	false	Talisay, Isla de Negro, Philippines																																			
+Tamhoi		15.266426	108.833077		unknown; presumably: Point		https://www.google.com/maps/place/15.266426+108.833077	https://books.google.ch/books?id=ym3nO-7kv94C&pg=PA259&lpg=PA259&dq=Tam+Hoi+Vietnam&source=bl&ots=P0PWs4gwlX&sig=ACfU3U37p-NI71Y2bytJk58JQz0YyKd0kw&hl=de&sa=X&ved=2ahUKEwiM16re9ofmAhUKwsQBHZPxAKcQ6AEwCHoECAoQAQ#v=onepage&q=Tam%20Hoi%20Vietnam&f=false	false	Tamhoi																																			
+Tamhoi, Saigon							https://www.google.com/maps/place/+	two locations	true																																				
+Tamsui	7004312	25.171958	121.442896	Inhabited place	Point	GR_Tamsui	https://www.google.com/maps/place/25.171958+121.442896		false	Tamsui	Tamshui																																		
+Tan-an	1140847	10.5333	106.4	Inhabited place	Point		https://www.google.com/maps/place/10.5333+106.4		false	Tanan, Cochinchine	Tan-an	Tanan, Cochin China	Tan-an, Cochin-China																																
+Tang Un, West River		23.466917	111.372987		Point		https://www.google.com/maps/place/23.466917+111.372987	Uncertain: may be: "Tangyuancun", Guangxi Province (23.466917, 111.372987)	true	Tang Un, West River	Tang-Un, West River	Tang-un, West River																																	
+Tangchou, Chili	7001966	38.31	116.86	Inhabited place	Point		https://www.google.com/maps/place/38.31+116.86	Likely refers to "Ts'ang-chou, Hebei province" but not clear (could also refer to Tungchou, Beijing Shi (TGN: 1072326)	true	Tangchou, Chili																																			
+Taning, Shansi	8202749	35.569444	112.409167	Inhabited place	Point		https://www.google.com/maps/place/35.569444+112.409167	Modern "Daning, Shanxi Province"	false	Taning, Shansi																																			
+Tao-tin-tia, South Formosa	7001004	22.6667	120.25	Special municipality	Polygon		https://www.google.com/maps/place/22.6667+120.25	Unsure, but Very likely refers to Gaoxiong or Kaohsiung City in Taiwan (TGN: 7001004)	true	Tao-tin-tia, South Formosa																																			
+Tay-ninh	1087243	11.35	106.1167	Inhabited place	Point		https://www.google.com/maps/place/11.35+106.1167		false	Tayninh, Cochin China	Tayninh, Cochinchine	Tay-ninh	Tayninh, Cochin-China																																
+Tayabas, Philippines	1084708	14.0167	121.5833	Inhabited place	Point		https://www.google.com/maps/place/14.0167+121.5833		false	Tayabas, Pilippines																																			
+Tehngan		32.330158	114.300239		Point		https://www.google.com/maps/place/32.330158+114.300239	Teh Ngan seems to be 120 miles north of Hankow, this would be Hunan tough; but the region Hupei and Hunan seemed to be the same at that time? source: https://archive.org/stream/28700076.1906.emory.edu/28700076_1906_djvu.txt	true	Tehngan, Hupeh	Tehngan																																		
+Telok Anson	1082986	4.0333	101.0167	Inhabited place	Point		https://www.google.com/maps/place/4.0333+101.0167		false	Teluk Anson	Teluk Anson, Perak																																		
+Temerloh	1082991	3.4667	102.4167	Inhabited place	Point		https://www.google.com/maps/place/3.4667+102.4167		false	Temerloh, Pahang																																			
+Tenant	7003960	0.8	127.3833	Inhabited place	Point		https://www.google.com/maps/place/0.8+127.3833		false	Tenant																																			
+Tengyueh	7001964	24.994923	98.512759	Inhabited place	Point		https://www.google.com/maps/place/24.994923+98.512759		false	Tengyueh	Teng-yueh, Yunnan																																		
+Thai-binh		20.446111	106.342222		Polygon		https://www.google.com/maps/place/20.446111+106.342222		false	Thai-binh, Tonkin	Thaibinh, Tonkin	Thaibinh, Tonkin Central	Thaibin, Tonkin	Thaibenh, Tonkin	Taibinh, Tonkin																														
+Thai-nguyen	1087246	21.594	105.848	Inhabited place	Point		https://www.google.com/maps/place/21.594+105.848		false	Tai-nguyen, Tonkin	Thai-nguyen	Thainguyen, Tonkin	Tháinguyên, Tonkin	Thái-nguyên, Tonkin																															
+Thanh-hoa	1087249	19.8167	105.8	Inhabited place	Point		https://www.google.com/maps/place/19.8167+105.8		false	Thanh-hoa Annam	Thanh hoa, Annam	Thanh-hoa	Thanh-hoa, Annam	Thanhhoa, Annam	Tanh-hoa, Annam	Thanh Hoa, Annam																													
+Thanhson, Annam		11.572218	108.993229		Point		https://www.google.com/maps/place/11.572218+108.993229	uncertain, multiple possiblities	true	Thanhson, Annam																																			
+Thongthauha, Kwangtung							https://www.google.com/maps/place/+	Not Found; Somewhere in Canton Province	true	Thongthauha, Kwangtung																																			
+Thuan-an, Annam		16.548889	107.643611		Point		https://www.google.com/maps/place/16.548889+107.643611	uncertain, multiple possiblities	true	Thuan-an, Annam	Thuanan, Annam																																		
+Thuankhanh, Annam							https://www.google.com/maps/place/+	Highly Uncertain: Possibly referring to "Tinh Khánh Hòa" - another name for Khánh Hòa province (TGN: 7594824) - it's somehow related to this region.	true	Thuankhanh, Annam																																			
+Thudamont, Cochinchine	1087198	10.9667	106.65	Inhabited place	Point		https://www.google.com/maps/place/10.9667+106.65	Modern name: Thu Dầu Môt, Vietnam	false	Thudamont, Cochinchine	Thudaumot, Cochin China																																		
+Thuongxa, Annam		16.719809	107.228065		Point		https://www.google.com/maps/place/16.719809+107.228065		false	Thuongxa, Annam																																			
+Tibet	7001319	31.666667	88	Autonomous region	Polygon		https://www.google.com/maps/place/31.666667+88		false	Tibet	Thibet																																		
+Tientsin	7001965	39.142222	117.176667	Inhabited place	Point		https://www.google.com/maps/place/39.142222+117.176667		false	Tentsin	Tiantsin	Tieentsin	Tiensin	Tientsin	Tientsin.	Tietsin	T'sin	T’sin	T’sin.	T’tsin	Teintsin	Tiontsin	Iientsin	Tienstin	T'tsin																				
+Tienyen, Tonkin	1087259	21.3167	107.4167	Inhabited place	Point		https://www.google.com/maps/place/21.3167+107.4167		false	Tienyen, Tonkin																																			
+Timah	1084921	1.3333	103.7667	Inhabited place	Point		https://www.google.com/maps/place/1.3333+103.7667		false	Timah																																			
+Timor	7003703	-8.5833	126	Nation	Polygon		https://www.google.com/maps/place/-8.5833+126		false	Timor																																			
+Tjilatjap	1077593	-7.7333	109	Inhabited place	Point		https://www.google.com/maps/place/-7.7333+109		false	Tjilatjap																																			
+Tokushima	7004894	34.05	134.5667	Inhabited place	Point	GR_Tokushima	https://www.google.com/maps/place/34.05+134.5667		false	Tokushima, Japan																																			
+Tokuyama	1081558	34.0667	131.8	Inhabited place	Point		https://www.google.com/maps/place/34.0667+131.8	There is a small possibility they are refering to modern-day "Hongō, Gifu prefecture" (TGN: 1140610)	true	Tokuyama, Japan																																			
+Tokyo	7004472	35.75	139.5	Inhabited place	Point	GR_Tokyo	https://www.google.com/maps/place/35.75+139.5		false	Tokye	Tokyo	Yokyo	Tokyo, Japan																																
+Tong-an, Fukien	1072282	24.7167	118.1167	Inhabited place	Point		https://www.google.com/maps/place/24.7167+118.1167		false	Tong-an, Fukien																																			
+Tong-ch'uan, Yunan		26.183333	103.066667		Point		https://www.google.com/maps/place/26.183333+103.066667	District of Kunming	false	Tong-ch'uan, Yunan	Tongchuan, Yunnan																																		
+Tongcheo		35.112222	109.090556		Point		https://www.google.com/maps/place/35.112222+109.090556		false	Tongcheo, Shansi	Tongcheo, Shensi																																		
+Tongku, Chihli	8682614	39.055049	117.644882	Former administrative division	Polygon		https://www.google.com/maps/place/39.055049+117.644882	Very likely refers to "Tanggu Qu, Tianjin"	true	Tongku, Chihli																																			
+Tongshan, Chihli	7001921	39.633333	118.183333	Inhabited place	Point		https://www.google.com/maps/place/39.633333+118.183333	modern Tangshan, Hebei Province	false	Tongshan, Chihli	Tongshan																																		
+Tonkin	7018129	22	105	General region	Polygon		https://www.google.com/maps/place/22+105		false	Tonkin	Provinces du Tonkin																																		
+Tottori	7004881	35.5333	134.2	Inhabited place	Point		https://www.google.com/maps/place/35.5333+134.2		false	Tottori, Japan																																			
+Tourane	7004242	16.0667	108.2333	Inhabited place	Point		https://www.google.com/maps/place/16.0667+108.2333		false	Tourane	Tourane, Annam																																		
+Toyama	7004860	36.7	137.2333	Inhabited place	Point		https://www.google.com/maps/place/36.7+137.2333		false	Toyama, Japan	Toyama																																		
+Trakieu, Annam	6006044	15.8	108.2333	Inhabited place	Point		https://www.google.com/maps/place/15.8+108.2333		false	Trakieu, Annam																																			
+Travinh		9.833333	106.25		Polygon		https://www.google.com/maps/place/9.833333+106.25		false	Travinh, Cochin-China	Travinh, Cochinchine	Travinh																																	
+Tremuche, Eastern Siberia							https://www.google.com/maps/place/+	Not found: Eastern Siberia is hugely expansive and this case there are no clues to help.	true	Tremuche, Eastern Siberia																																			
+Trengganu	7016831	5	103	State (political division)	Polygon		https://www.google.com/maps/place/5+103		false	Trengganu	Tregganu																																		
+Trusan, Sarawak		4.786098	115.27221		Point		https://www.google.com/maps/place/4.786098+115.27221	No TGN, but coordinates for the small village are clear	false	Trusan, Sarawak																																			
+Ts'in-cheo, Kansuh	7018061	34.580278	105.727222	Inhabited place	Point		https://www.google.com/maps/place/34.580278+105.727222	Modern name: "Qincheng, Gansu Province"	false	Ts’in-cheo, Kansuh	Ts'in-cheo, Kansuh																																		
+Tschihin, Kwangtung							https://www.google.com/maps/place/+	Not Found: Lies somewhere in Guangdon Province (TGN: 7005232)	true	Tschihin, Kwangtung																																			
+Tschu-Thongau, Kwangtung							https://www.google.com/maps/place/+	Not Found: German Mission in Canton Province - somewhere	true	Tschu-Thongau, Kwangtung																																			
+Tsinan	7001483	36.683333	117.05	Inhabited place	Point	GR_Tsinan	https://www.google.com/maps/place/36.683333+117.05		false	Tsinan	Tsinanfu																																		
+Tsincheo	7001872	36.057006	103.839868	Inhabited place	Point	GR_Tsincheo	https://www.google.com/maps/place/36.057006+103.839868	Tgn for Lanzhou; Highly uncertain, some references to Tsincheo can be found, but there is only a very superficiel connection to Lanzhou	true	Tsincheo, Kansuh																																			
+Tsincheo, Ksuhan Province						GR_Tsincheo		Tgn for Lanzhou; Highly uncertain, some references to Tsincheo can be found, but there is only a very superficiel connection to Lanzhou	true	Tsincheo, Ksuhan Province																																			
+Tsing							https://www.google.com/maps/place/+		false	Tsing																																			
+Tsing-kiang-pu, Kiangsu	1072055	31.447778	121.093889	Inhabited place	Point		https://www.google.com/maps/place/31.447778+121.093889	A little uncertain; very likely corresponds with modern Chengxiang, Jiangsu Province	true	Tsingkiangpu	Tsing-kiang-pu, Kiangsu	Ts'ing-kiang-pu, Kiangsu																																	
+Tsingchowfu, Shantung	1139978	36.696667	118.479722	Inhabited place	Point		https://www.google.com/maps/place/36.696667+118.479722	Modern "Qingzhou", Shandong province	false	Tengchowfoo, Shantung																																			
+Tsingtao	7001776	36.066049	120.369393	Inhabited place	Point		https://www.google.com/maps/place/36.066049+120.369393		false	Tsingtao	Tingtao	Tsngtao																																	
+Tsiningchow	8623346	35.405	116.581389	Inhabited place	Point		https://www.google.com/maps/place/35.405+116.581389	Modern: Jining, Shandong Province	false	Tsining-chow, Shantung	Tsiningchow, Shantung	Tsining-chow	Tsiningchow																																
+Tso-uin							https://www.google.com/maps/place/+	No TGN found.	false	Tso-uin	Tso-uin, Shanshi	Tso-uin, Shansi	Tsouin, Shansi																																
+Tsou-p'ing-fu, Shantung							https://www.google.com/maps/place/+	Not Found; somewhere in Shandong Province	true	Tsou-p'ing-fu Shantung	Tsou-p'ing-fu, Shantung																																		
+Tsu		34.718611	136.505556		Point		https://www.google.com/maps/place/34.718611+136.505556		false	Tsu, Ise Province, Japan	Tsu																																		
+Tsukiji, Tokyo						GR_Tokyo	https://www.google.com/maps/place/+		false	Tsukiji, Tokyo																																			
+Tsunhwa, Chihli	1074220	40.179167	117.958611	Inhabited place	Point		https://www.google.com/maps/place/40.179167+117.958611	Modern: Zunhua, Hebei Province	false	Tsun-hwa, Chihli																																			
+Tsuyama	7004825	35.0667	134.0167	Inhabited place	Point		https://www.google.com/maps/place/35.0667+134.0167		false	Tsuyama	Tsuyama, Japan																																		
+Tuh-shan	1067911	25.833333	107.533333	Inhabited place	Point		https://www.google.com/maps/place/25.833333+107.533333		false	Tuh-shan, Kueichow	Tuh-shan																																		
+Tukoshima						GR_Tokushima	https://www.google.com/maps/place/34.05+134.5667		false	Tukoshima, Japan	Tukoshima																																		
+Tumsui						GR_Tamsui	https://www.google.com/maps/place/25.171958+121.442896	Modern name: Tan-shui, Xinbei, Taiwan	false	Tumsui																																			
+Tungchou	1072326	39.903952	116.661826	Inhabited place	Point	GR_Tungchou	https://www.google.com/maps/place/39.903952+116.661826	Located on the outskirts of Beijing	false	Tungchou, Chihli	Tungchou																																		
+Tungchowfu	7018063	34.795863	109.938948	Inhabited place	Point		https://www.google.com/maps/place/34.795863+109.938948	Located in Shaanxi province	false	Tungchowfu	Tongcheo district, Shensi	Toncheo district, Shensi																																	
+Tungkun	1067772	23.048889	113.744722	Inhabited place	Point	GR_Tungkun	https://www.google.com/maps/place/23.048889+113.744722		false	Tungkun, Kwangtung	Tungkun																																		
+Tuyen-quang, Tonkin	1087272	21.8	105.3	Inhabited place	Point		https://www.google.com/maps/place/21.8+105.3		false	Tuyen-quan, Tonkin	Tuyen-quang, Tonkin	Tuyên Quang, Tonkin	Tuyen Quang, Tonkin																																
+Tuyenquang	1087272	21.8	105.3	Inhabited place	Point		https://www.google.com/maps/place/21.8+105.3		false	Tuyenquang, Tonkin	Tuyenquang																																		
+T’ung-chou, Chihli						GR_Tungchou	https://www.google.com/maps/place/39.903952+116.661826	Modern: Tongzhou, Beijing Shi	false	T'ung-chow, Chihli	T’ung-chou, Chihli																																		
+Ueda	7004826	36.45	138.2167	Inhabited place	Point		https://www.google.com/maps/place/36.45+138.2167		false	Ueda, Japan																																			
+Ulu Kelantan							https://www.google.com/maps/place/+		false	Ulu Kelantan																																			
+Ulu Langat		3.112392	101.814897		Point		https://www.google.com/maps/place/3.112392+101.814897	Hulu Langat	false	Ulu Langat, Selangor	Ulu Langat																																		
+Ulu Selangor		3.558842	101.6136		Polygon		https://www.google.com/maps/place/3.558842+101.6136	Refers to the northern Region of Selangor, Malaysia. No TGN Available.	false	Ulu Selangor																																			
+Umcheng, Shansi							https://www.google.com/maps/place/+	Likely refers to Yuncheng, Shanxi Province (TGN: 8678046), but quite uncertain	true	Umcheng, Shansi																																			
+Upper Perak						GR_Perak	https://www.google.com/maps/place/+		false	Upper Perak																																			
+Urga, Mongolia	7000872	47.9	106.8667	Inhabited place	Point		https://www.google.com/maps/place/47.9+106.8667	Modern name: Ulaanbaatar	false	Ourga, Mongolia																																			
+Ussuri, Siberia	7014478	48.451667	135.078056	River	Polygon		https://www.google.com/maps/place/48.451667+135.078056	The Usuri is a major river in Eastern Siberia, but no settlement was found by this name; TGN refers only to the river itself.	true	Ussuri, Siberia																																			
+Van Yen, Annam		21.168863	107.538829		Point		https://www.google.com/maps/place/21.168863+107.538829	Van Yen is located in Tonkin, not Annam	true	Van Yen, Annam																																			
+Van-dao, Annam							https://www.google.com/maps/place/+	Not Found.	true	Van-dao, Annam																																			
+Vinh	1087275	18.7	105.6833	Inhabited place	Point		https://www.google.com/maps/place/18.7+105.6833		false	Vinh, Annam	Vinh																																		
+Vinhlong	1087279	10.25	105.9833	Inhabited place	Point		https://www.google.com/maps/place/10.25+105.9833		false	Vinhlong, Cochin-China	Vinhlong, Cochinchine	Vinhlong																																	
+Visayas, Philippines							https://www.google.com/maps/place/+	Precise Coordinates unavailable/impractical; Refers to a whole Archipelago in the Philippines; it's one of three main isalnd groups and includes Chebu for example	true	Visayas, Philippines																																			
+Vladivostok	7010320	43.15	131.8833	Inhabited place	Point		https://www.google.com/maps/place/43.15+131.8833		false	Vladivostock	Vladivstock	Yladivostock	Wladivostock	Vladivostack	Vladivostok	Uladivostock	Wladivostok	Wladivostook	Wladiwostock																										
+Waichau	1069030	23.083333	114.4	Inhabited place	Point		https://www.google.com/maps/place/23.083333+114.4	seems to be an old district of this city	false	Waichau, Kwangse	Waichau	Waicahau, Kwangsi																																	
+Wei Hien	8203217	36.770833	119.210833	Inhabited place	Point		https://www.google.com/maps/place/36.770833+119.210833		true	Wei Hien, Shantung	Wei Hien																																		
+Wei-hien, Shantung	1072526	36.71	119.101944	Inhabited place	Point		https://www.google.com/maps/place/36.71+119.101944	Wéixiàn or Weihsien, Shandong are alternative spellings	true	Wei-hien, Shantung	Wei-Hien, Shantung																																		
+Weihaiwei	7001988	37.509136	122.113557	Inhabited place	Point	GR_Weihaiwei	https://www.google.com/maps/place/37.509136+122.113557		false	Weihaiwe	Weihaiwei	Wei-hai-wei	Weihaiwei, Shantung																																
+Wenchow	7001989	27.999416	120.66682	Inhabited place	Point		https://www.google.com/maps/place/27.999416+120.66682		false	Wenchow	Wênchow																																		
+Whampoa	8199634	23.109799	113.4374	Fourth level subdivision	Polygon		https://www.google.com/maps/place/23.109799+113.4374		false	Whampoa																																			
+Woosung	7001995	31.375659	121.490408	Inhabited place	Point		https://www.google.com/maps/place/31.375659+121.490408	District of Shanghai	false	Woosung																																			
+Wuchang		30.5619	114.3404		Point		https://www.google.com/maps/place/30.5619+114.3404	District of Wuhan	false	Wuchang																																			
+Wuchow	1072714	23.483333	111.316667	Inhabited place	Point		https://www.google.com/maps/place/23.483333+111.316667		false	Wuchow	Wnchow-fu	Wuchow-fu	Wuchowfu																																
+Wuhce							https://www.google.com/maps/place/+		false	Wuhce																																			
+Wuhu	8148143	32.661111	117.266667	Inhabited place	Point		https://www.google.com/maps/place/32.661111+117.266667		false	Wuhu	Wuliu																																		
+Wusih, Ningpo							https://www.google.com/maps/place/+	Highly uncertain: could refer to "Wushi, Zhejiang Province" (TGN: 8170340), but it's not clear. It is not at all likely to be "Wuxi" in the province to the north, though it might be easy to confuse it with this.	false	Wusih, Ningpo	Wusih, Chekiang																																		
+Wusueh, Hubei Province	1068376	29.850578	115.552504	Inhabited place	Point		https://www.google.com/maps/place/29.850578+115.552504	It's worth noting that this near Hankow/Wuhan, but separate, at least nowadays	false	Wusueh, Hankow	Wusueh																																		
+Xuanday, Annam		13.366667	109.3		Point		https://www.google.com/maps/place/13.366667+109.3	It's a bay, the coordinates are in the South China Sea	false	Xuanday, Annam																																			
+Yachou	1073279	29.985206	102.999004	Inhabited place	Point		https://www.google.com/maps/place/29.985206+102.999004		false	Yachou, Szechuen	Yachou, Szeehuen	Yachou																																	
+Yamaguchi	7004882	34.1667	131.4667	Inhabited place	Point		https://www.google.com/maps/place/34.1667+131.4667	Two places in Japan	true	Yamaguchi	Yamaguchi, Japan																																		
+Yangchow	7001999	32.397222	119.435833	Inhabited place	Point		https://www.google.com/maps/place/32.397222+119.435833		false	Yangchow																																			
+Yangtsze River	1122679	31.786667	121.141389	River	Polygon		https://www.google.com/maps/place/31.786667+121.141389	River/region in general.	false	Yangtsze River	Yangtsze river																																		
+Yberia, Philippines							https://www.google.com/maps/place/+	Not found.	true	Yberia, Philippines																																			
+Yenbai	1087291	21.7167	104.9	Inhabited place	Point		https://www.google.com/maps/place/21.7167+104.9		false	Yenbai	Yenbai, Tonkin	Yenbay, Tonkin																																	
+Yenchow	1073443	35.552778	116.828611	Inhabited place	Point		https://www.google.com/maps/place/35.552778+116.828611		false	Yenchow																																			
+Yensan, Chihli	1139965	38.055278	117.219444	Inhabited place	Point		https://www.google.com/maps/place/38.055278+117.219444	Modern name: Yanshan, Hebei Province	false	Yensan, Chihli																																			
+Yeungkong	8210032	21.855635	111.962724	Inhabited place	Point		https://www.google.com/maps/place/21.855635+111.962724		false	Yeungkong	Yeungkong Kwangtung																																		
+Ylagan	1084260	17.148	121.889	Inhabited place	Point		https://www.google.com/maps/place/17.148+121.889		false	Ylagan	Ylagan, Philippines																																		
+Yochow	7002043	29.3833	113.05	Inhabited place	Point		https://www.google.com/maps/place/29.3833+113.05		false	Yochow																																			
+Yokohoma	7004836	35.4667	139.6333	Inhabited place	Point		https://www.google.com/maps/place/35.4667+139.6333		false	Y'hama	Yokohama	Yokohoma	Yokoh	Yohohama	Yokohama.	Yokoh:	Yok																												
+Yonago	1081799	35.45	133.3333	Inhabited place	Point		https://www.google.com/maps/place/35.45+133.3333		false	Yonago, Hoki, Japan																																			
+Yonezawa	7004837	37.9333	140.1	Inhabited place	Point		https://www.google.com/maps/place/37.9333+140.1		false	Yonezewa, Japan																																			
+Yuensan		39.152778	127.443611		Point		https://www.google.com/maps/place/39.152778+127.443611	No TGN found, but: https://geographic.org/geographic_names/name.php?uni=-293634&fid=3361&c=north_korea	false	Yuensan	Yuensan, Corea																																		
+Yunnan	7018118	25	101.5	Province	Polygon		https://www.google.com/maps/place/25+101.5	Province.	false	Yunnan																																			
+Yunnanfu	7001857	25.038889	102.718333	Inhabited place	Point		https://www.google.com/maps/place/25.038889+102.718333		false	Yunnanfu	Yunnan-fu	Yun-nan-fu																																	
+Yüen-ch’eng, Shansi	8678045	35.016667	110.983333	Third level subdivision	Polygon		https://www.google.com/maps/place/35.016667+110.983333		false	Yüen-ch’eng, Shansi	Yüin-ch'eng, Shansi																																		
+Zamboanga	1084755	6.9167	122.0833	Inhabited place	Point		https://www.google.com/maps/place/6.9167+122.0833		false	Zamboanga	Zambranga	Zamboanga, Philippines																																	
